@@ -1,8 +1,8 @@
----
 
----
----
 # UPC
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="LogoUPC">
+</p>
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
 ## CURSO: SI729 Desarrollo de Aplicaciones Open Source | SECCIÓN SW57
  Profesor: 
