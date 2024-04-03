@@ -15,5 +15,5 @@
 - Guimaraes Escalante, Carlos Eduardo (U202210364)
 - Gutierrez Zumaeta, Manuel Alonso (U201611430)
 - Montes Figueroa, Juan Eduardo (U202210775)
----
+
 28/03/2024
