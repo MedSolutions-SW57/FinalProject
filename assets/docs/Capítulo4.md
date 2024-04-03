@@ -1,4 +1,4 @@
-#Capitulo 4
+# Capitulo 4
 ## 4.1. Pautas de estilo
 ### 4.1.1. Pautas generales de estilo
 ### 4.1.2. Pautas de estilo web
