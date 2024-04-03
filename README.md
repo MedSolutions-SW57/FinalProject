@@ -10,9 +10,10 @@
 "Startup"
 "Producto"
 ### Integrantes:
-- Nombre
-- Nombre
-- Nombre
-- Nombre
-- Nombre
+- Altamirano Saenz, Jorge Armando (U202215888)
+- Flores Manrique, Sebastian Enrique (U201611430)
+- Guimaraes Escalante, Carlos Eduardo (U202210364)
+- Gutierrez Zumaeta, Manuel Alonso (U201611430)
+- Montes Figueroa, Juan Eduardo (U202210775)
+---
 28/03/2024
