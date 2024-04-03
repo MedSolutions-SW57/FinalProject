@@ -1,5 +1,5 @@
 <center>
-# UPC
+UPC
 </center>
 
 <p align="center">
