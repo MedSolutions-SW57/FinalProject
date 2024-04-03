@@ -5,9 +5,78 @@
 
 ### 1.1.1 Perfiles de integrantes del equipo
 ## 1.2 Solution Profile
-### 1.2.1. Antecedentes y problemática	
+### 1.2.1. Antecedentes y problemática
+Muchos pacientes necesitan atención que requiere una toma de decisiones conjunta entre múltiples actores y/o servicios. La evaluación de interconsultas es tediosa e ineficaz debido a la estructura actual de atención en la mayoría de los consultorios y clínicas. Los pacientes con diabetes de pie que están hospitalizados en los pabellones de medicina son un ejemplo típico en el que la demora en los procedimientos o intervenciones quirúrgicas realizadas por los servicios de traumatología puede resultar en complicaciones graves e incluso en la muerte del paciente.
+
+La Encuesta Nacional de Hogares (ENAHO) de 2022 revela que 7 de cada 10 personas que necesitaron atención médica no la obtuvieron . El 35 % de ellos mencionó demoras como la razón principal, mientras que razones como distancia y falta de seguro solo fueron citadas por el 13 % y el 3 %, respectivamente.
+
+La situación actual enfatiza la importancia de una solución tecnológica que facilite la comunicación entre pacientes y especialistas, optimice el seguimiento de tratamientos, centralice el almacenamiento de historias clínicas y simplifique la gestión de citas. Además, se vuelve necesario incorporar consultas virtuales y recordatorios automáticos de citas para mejorar la accesibilidad y la eficiencia de la atención médica en el campo de la traumatología.
+
+Se aplica la técnica 5W-2H que permite analizar las necesidades de nuestros usuarios al realizar una reflexión de las características principales de la situación general. Presentamos la información obtenida de las respuestas a las preguntas planteadas en la técnica. 
+
+- **What(¿Qué?)**
+
+  El problema radica en la falta de un sistema integral y automatizado en el área de traumatología, lo que resulta en largos tiempos de espera para programar consultas, cirugías y exámenes. Esto afecta la experiencia del paciente y puede obstaculizar su recuperación. 
+- **When(¿Cuándo?)**
+  
+  El problema ocurre cuando los pacientes necesitan atención médica en el área de traumatología y enfrentan dificultades para programar consultas, cirugías y exámenes. Los pacientes utilizan el producto para gestionar sus citas y seguimientos de tratamiento.
+- **Where(¿Dónde?)**
+  
+  Los pacientes pueden encontrarse en sus hogares, trabajos u otros lugares cuando utilizan el sistema para gestionar sus citas y seguimientos de tratamiento. El problema surge principalmente en consultorios médicos y clínicas de traumatología.
+- **Who(¿Quién?)**
+  
+  Los pacientes que necesitan atención médica en traumatología, así como los especialistas médicos y el personal administrativo de consultorios y clínicas, están involucrados en el problema. Los pacientes y los especialistas médicos utilizarán el sistema propuesto.
+- **Why(¿Por qué?)**
+
+  La falta de un sistema integral y automatizado en el área de traumatología conduce a largos tiempos de espera y a una gestión ineficiente de las citas y tratamientos. La dispersión de información médica y la comunicación limitada entre médicos y pacientes agravan la situación.
+- **How(¿Cómo?)**
+  
+  Los clientes utilizan el producto en condiciones de necesidad médica, cuando requieren atención en traumatología y deben programar citas, cirugías y exámenes. La situación ha llevado a la necesidad de una solución tecnológica que simplifique la gestión de citas y mejore la comunicación entre pacientes y especialistas.
+- **How much(¿Cuánto?)**
+
+  La Encuesta Nacional de Hogares (ENAHO) de 2022 revela que 7 de cada 10 personas que necesitaron atención médica no la obtuvieron, lo que indica que una gran cantidad de personas son afectadas por problemas de acceso y gestión en el área de salud, aunque no todos se refieren específicamente a traumatología. Sin embargo, la problemática específicamente en traumatología también puede afectar a una gran cantidad de pacientes que enfrenta demoras en el proceso de atención.
+  
 ### 1.2.2. Lean UX Process	
 ###   1.2.2.1. Lean UX Problem Statements	
-###   1.2.2.2. Lean UX Assumptions	
+###   1.2.2.2. Lean UX Assumptions
+- **Business outcomes:**
+
+  1. El usuario necesita optimizar la gestión de citas y procesos en el área de traumatología de manera eficiente.
+  2. Las necesidades del usuario se resolverán a través de una aplicación web integrada en línea que permite programar citas, cirugías, exámenes y seguimiento de tratamientos.
+  3. Los usuarios son pacientes que buscan atención en el área de traumatología y profesionales médicos especializados en el tratamiento.
+  4. El usuario desea una interfaz fácil de usar para reservar citas, acceder a los registros médicos y comunicarse con los proveedores de atención médica.
+  5. A través de nuestro servicio, los usuarios también pueden obtener consultas virtuales, recordatorios automáticos de citas y análisis de datos para mejorar los procesos.
+  6. Ganaré dinero cobrando a los proveedores de atención médica tarifas de suscripción por el uso de la plataforma y posiblemente ofreciendo características premium por un cargo adicional.
+  7. Mi competencia principal es el software de programación de citas independientes y los sistemas de gestión hospitalaria actuales.
+  8. Con una solución más completa y específicamente diseñada para la atención traumatológica, que incluye características como consultas virtuales y recordatorios automáticos, venceremos a la competencia.
+  9. Mi mayor riesgo es la resistencia de los proveedores de atención médica a adoptar nuevas tecnologías o integrarlas en sus sistemas existentes.
+  10. Mediante la capacitación y el soporte extensivos al personal de atención médica durante el proceso de incorporación y la demostración de los claros beneficios del uso de la plataforma, reduciremos el riesgo.
+
+- **User Assumptions:**
+
+  - **¿Quién es el usuario?**
+
+    Pacientes que necesitan atención traumatológica y médicos especializados en el área.
+    
+  - **¿Dónde encaja nuestro producto en su trabajo o vida?**
+
+    El producto servirá como un lugar central para administrar citas traumatológicas, registros médicos y comunicación entre pacientes y proveedores de atención médica.
+    
+  - **¿Qué problema tiene nuestro producto? ¿Cómo se resuelve?**
+
+    Reduce los tiempos de espera, facilita la programación de citas, centraliza los registros médicos para una toma de decisiones informada y permite consultas virtuales para mayor comodidad.
+    
+  - **¿Cuándo y cómo es usado nuestro producto?**
+
+    Los usuarios pueden acceder a la plataforma desde una variedad de dispositivos, como computadoras de escritorio y teléfonos inteligentes, para reservar citas, revisar registros médicos y comunicarse con proveedores de atención médica desde casa, el trabajo o en movimiento.
+    
+  - **¿Qué características son importantes?**
+
+    La programación de citas, el acceso a los registros médicos, las consultas virtuales y los recordatorios automáticos de citas mejoran la experiencia del paciente y el proceso de atención traumatológica.
+    
+  - **¿Cómo debe verse nuestro producto y comportarse?**
+
+    El producto debe tener una interfaz limpia e intuitiva, ser fácil de navegar e integrarse perfectamente con los sistemas de atención médica actuales para los proveedores de atención médica. Además, debe ser fácil de usar y accesible para pacientes de todos los grupos demográficos.
+    
 ###   1.2.2.3. Lean UX Hypothesis Statements	
 ###   1.2.2.4. Lean UX Canvas
