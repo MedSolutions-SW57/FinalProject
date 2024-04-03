@@ -81,7 +81,7 @@
 
 [3.4. Product Backlog](#34-product-backlog)  
 
-[Capítulo IV: Product Desig](#capítulo-iv-product-design)  
+[Capítulo IV: Product Design](#capítulo-iv-product-design)  
 
 [4.1. Style Guidelines](#41-style-guidelines)  
 [4.1.1. General Style Guidelines](#411-general-style-guidelines)  
