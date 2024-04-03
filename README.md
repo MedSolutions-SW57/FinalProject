@@ -7,9 +7,9 @@
 
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
 ## CURSO: SI729 Desarrollo de Aplicaciones Open Source | SECCIÓN SW57
- Profesor: 
+ Profesor: Velazquez Nuñez, Angel Augusto
 # Informe de TF
-"Startup"
+"Los Luminoso"
 "Producto"
 ### Integrantes:
 - Altamirano Saenz, Jorge Armando (U202215888)
