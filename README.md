@@ -1,5 +1,5 @@
 
----
+- - -
 # UPC
 
 <p align="center">
@@ -7,11 +7,13 @@
 </p>
 
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
+### Ciclo: 5
 ## CURSO: SI729 Desarrollo de Aplicaciones Open Source | SECCIÓN SW57
  Profesor: Velazquez Nuñez, Angel Augusto
 # Informe de TF
-"Los Luminoso"
-"Producto"
+Nombre del Startup: Los Luminosos
+
+Nombre del producto: MedSystem
 ### Integrantes:
 - Altamirano Saenz, Jorge Armando (U202215888)
 - Flores Manrique, Sebastian Enrique (U201611430)
@@ -19,18 +21,18 @@
 - Gutierrez Zumaeta, Manuel Alonso (U201611430)
 - Montes Figueroa, Juan Eduardo (U202210775)
 
-28/03/2024
----
-#Registro de Versiones del informe
+Abril, 2024
+- - -
+# Registro de Versiones del informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
 | 0.0 | 28/03/2024 |Grupo 1 |Se crea el documento |
-
+- - -
 # Project Report Collaboration Insights
-[URL del repositorio](https://www.example.com)
+[URL del repositorio](https://github.com/LosLuminosos-SW57/FinalProject.git)
 
 (Imagenes de los commits cada entrega)
-
+- - -
 # Contenido
 
 [Student Outcome](#student-outcome)
@@ -154,6 +156,18 @@
 
 [Anexos](#anexos)  
 
+- - -
+# Student Outcome
+
+Criterio: Capacidad de comunicarse efectivamente con un rango de audiencias.
+En el siguiente cuadro se describe las acciones realizadas y enunciados de
+conclusiones por parte del grupo, que permiten sustentar el haber alcanzado el logro
+del ABET – EAC - Student Outcome 3
+
+| Criterio específico                                                                                                                                                                    	| Acciones realizadas 	| Conclusiones 	|
+|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------	|---------------------	|--------------	|
+| Comunica oralmente sus ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería.    	|                     	|              	|
+| Comunica en forma escrita ideas y/o resultados con objetividad a públicos de diferentes especialidades y niveles jerarquicos, en el marco del desarrollo de un proyecto de ingeniería. 	|                     	|              	|
 
 
 
