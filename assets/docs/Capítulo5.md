@@ -1,6 +1,23 @@
 # Capitulo 5
 ## 5.1 Software Cpmfiguration Managment
 ### 5.1.1 Software Development Environment Configuration
+En esta seccion se describen brevemente todas las herramientas que se han utilizado para la elaboracion del proyecto, se dividar en dos partes.
+
+#### UX/UI Design
+- Miro: Miro es una herramienta en línea colaborativa en tiempo real, esta permite crear diversos diagramas, mapas mentales, diagramas de flujo u  otros artefactos que se necesiten en el proyecto.
+Link: <a href="https://miro.com/es/"> https://miro.com/es/ </a>
+
+- UXPressia: UXPressia es una herramienta enfocada en lo que es la experiencia de usuario, ya que esta permite crear User Personas, Customer Journey, Impact maps, etc.
+Link: <a href="https://uxpressia.com/"> https://uxpressia.com/ </a>
+
+- Figma: Figma es una herramienta que se enfoca en el diseño de interfaces para los usuarios y prototipado de las páginas webs, además de que este también es colaborativo por lo cual todos pueden trabajar en un mismo proyecto en simultáneo.
+Link: <a href="https://www.figma.com/">https://miro.com/es/ </a>
+
+- Structurizr: Es una página web donde nos permite desarrollar modelos en C4, de la arquitectura de nuestro proyecto describiendo los contenedores, componentes y contextos de nuestra solución web.
+Link: <a href="https://structurizr.com/">https://structurizr.com/ </a>
+
+#### Software Developement
+
 ### 5.1.2 Source Code Management
 ### 5.1.3 Source Code Style Guide & Conventions 
 ### 5.1.4 Software Deployment Configuration 
