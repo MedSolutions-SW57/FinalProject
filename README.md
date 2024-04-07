@@ -1,27 +1,32 @@
-
-- - -
-# UPC
+# Los Luminoso - Report
 
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/fc/UPC_logo_transparente.png" alt="LogoUPC">
 </p>
 
+# Universdiad Peruana de Ciencias Aplicadas
+
 # INGENIERÍA DE SISTEMAS DE SOFTWARE
 ### Ciclo: 5
 ## CURSO: SI729 Desarrollo de Aplicaciones Open Source | SECCIÓN SW57
  Profesor: Velazquez Nuñez, Angel Augusto
-# Informe de TF
-Nombre del Startup: Los Luminosos
+ 
+# Proyecto de curso
+## Informe del TF
+#### StartUp: Los Luminosos
+#### Producto: MedSystem
 
-Nombre del producto: MedSystem
 ### Integrantes:
-- Altamirano Saenz, Jorge Armando (U202215888)
-- Flores Manrique, Sebastian Enrique (U201611430)
-- Guimaraes Escalante, Carlos Eduardo (U202210364)
-- Gutierrez Zumaeta, Manuel Alonso (U201611430)
-- Montes Figueroa, Juan Eduardo (U202210775)
+| Integrantes | Codigo |
+|-------------|--------|
+| Altamirano Saenz, Jorge Armando  | U202215888 |
+| Flores Manrique, Sebastian Enrique | U201611430 |
+| Guimaraes Escalante, Carlos Eduardo | U202210364 |
+| Gutierrez Zumaeta, Manuel Alonso | U201611430 |
+| Montes Figueroa, Juan Eduardo | U202210775 |
 
-Abril, 2024
+#### Ciclo 2024-01
+##### Abril, 2024
 - - -
 # Registro de Versiones del informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
