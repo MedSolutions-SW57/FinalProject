@@ -3,7 +3,13 @@
 ### 1.1.1 Descripcion de la startup
 (Nombre de la startup) es una startup creada por estudiantes de la Facultad de Ingeniería de la carrera de Ingeniería de Software. Esta empresa tiene el propósito de desarrollar una solución web con el uso de tecnologías modernas para la ayuda de los procesos que se tienen presente en una consultoría de traumatología. Con la página (nombre de la página) se logrará satisfacer estas necesidad por parte de los especialistas de traumatología y los clientes.
 
+#### **Mision:** 
+La misión de Los Luminosos es facilitar la atención médica en la especialización de traumatología a través de MedSystem para mejorar los procesos de una consultoría y la experiencia de los especialistas o doctores y de los pacientes.
+
+#### **Vision:** 
+Nuestra visión es ser reconocidos por nuestra capacidad de mejorar la atención médica por medio de soluciones tecnológicas que mejoren la eficiencia de los distintos servicios que ofrece el área de traumatología, además de mejorar el servicio hacia los pacientes.
 ### 1.1.1 Perfiles de integrantes del equipo
+
 ## 1.2 Solution Profile
 ### 1.2.1. Antecedentes y problemática
 Muchos pacientes necesitan atención que requiere una toma de decisiones conjunta entre múltiples actores y/o servicios. La evaluación de interconsultas es tediosa e ineficaz debido a la estructura actual de atención en la mayoría de los consultorios y clínicas. Los pacientes con diabetes de pie que están hospitalizados en los pabellones de medicina son un ejemplo típico en el que la demora en los procedimientos o intervenciones quirúrgicas realizadas por los servicios de traumatología puede resultar en complicaciones graves e incluso en la muerte del paciente.
