@@ -51,6 +51,8 @@ Se aplica la técnica 5W-2H que permite analizar las necesidades de nuestros usu
   
 ### 1.2.2. Lean UX Process	
 ###   1.2.2.1. Lean UX Problem Statements	
+* Lo que ofrece nuestra aplicación es un sistema que mejora la  comunicación entre los especialistas dentro de una consultoría, como por ejemplo al momento de compartir las historias clínicas de un paciente y los procesos a los que se les somete. Y así poder evitar demoras y confusiones de datos como en algunos casos pasa. ¿Cómo podríamos hacer que esta comunicación sea rápida y eficaz?.
+* Nuestra aplicación ofrece también un sistema para la programación de citas por parte de los pacientes , haciendo que estas no tengan que esperar por mucho tiempo y además también que se pueda dar una cita con ciertas especificación del paciente. ¿Cómo brindar un buen sistema de citas para los clientes donde podrán tener citas de acuerdo a sus necesidades?
 ###   1.2.2.2. Lean UX Assumptions
 - **Business outcomes:**
 
@@ -92,4 +94,7 @@ Se aplica la técnica 5W-2H que permite analizar las necesidades de nuestros usu
     El producto debe tener una interfaz limpia e intuitiva, ser fácil de navegar e integrarse perfectamente con los sistemas de atención médica actuales para los proveedores de atención médica. Además, debe ser fácil de usar y accesible para pacientes de todos los grupos demográficos.
     
 ###   1.2.2.3. Lean UX Hypothesis Statements	
+* Creemos que los tiempos de espera se reducirán significativamente si los pacientes puede programar citas de manera rápida y eficiente a través de una plataforma en línea
+* Creemos que la comunicación entre especialistas mejorará si se implementa un sistema para compartir historias clínicas y procesos médicos de manera rápida y efectiva
+* Creemos que la experiencia del paciente mejorará si se ofrecen consultas virtuales y recordatorios automáticos de citas
 ###   1.2.2.4. Lean UX Canvas
