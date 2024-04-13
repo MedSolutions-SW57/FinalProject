@@ -19,7 +19,7 @@ Segmento Objetivo #3: Laboratorios que se inscriben en la aplicación
 |:--------:|--------------------------|-----------------------------|------------------------|----------------------------|
 | <p>**Doing**</p> | <p>Verificar etiquetas de muestras para asegurar correspondencia</p>|<p>Realizar análisis según protocolos establecidos</p>|<p>Evaluar resultados para determinar relevancia clínica</p>|<p>Registrar resultados y comunicarle al médico a través de la aplicación</p>|
 | <p>**Thinking**</p> |<p>Garantizar integridad de las muestras para evitar errores</p>|<p>Mantener precisión y consistencia en análisis</p>|<p>Considerar implicaciones clínicas de los resultados</p>|<p>Asegurar comunicación clara y precisa al médico</p>|
-| <p>**Feeling**</p> |<p>Conveniencia y accesibilidad en la solicitud de citas</p>|<p>Tranquilidad al acceder a su historial médico</p>|<p>Empoderamiento al tener control sobre su información</p>|<p>Ansiedad o alivio dependiendo de los resultados de los análisis</p>|
+| <p>**Feeling**</p> |<p>Responsabilidad y compromiso con la precisión de los resultados</p>|<p>Profesionalismo y satisfacción al realizar análisis</p>|<p>Confianza en la relevancia de los resultados para el paciente</p>|<p>Colaboración efectiva y satisfacción al contribuir al cuidado del paciente</p>|
 ## 3.2 User Stories
 
 ## 3.3 Impact Mapping
