@@ -23,26 +23,26 @@ Segmento Objetivo #3: Laboratorios que se inscriben en la aplicación
 ## 3.2 User Stories
 
 <table><tr><th valign="top"><b>Epic ID</b></th><th valign="top"><b>Epic</b></th><th valign="top"><b>User story ID</b></th><th valign="top"><b>User stories</b></th></tr>
-<tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top"><p>Como gerente del taller</p><p>Quiero que la aplicación permite que los clientes puedan programar citas en línea.</p></td><td valign="top">US01</td><td valign="top">Registro en la aplicación</td></tr>
-<tr><td valign="top">US02</td><td valign="top">Programación de citas</td></tr>
-<td valign="top">US03</td><td valign="top">Visualización de calendario</td></tr>
-<tr><td valign="top">US04</td><td valign="top">Notificación de citas</td></tr>
-<tr><td valign="top">US05</td><td valign="top">Acceso a información de clientes</td></tr>
-<tr><td valign="top">US06</td><td valign="top">Gestión de servicios y disponibilidad</td></tr>
-<tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><b><p>Como cliente</p><p>que cuenta con un vehículo quiero poder registrar los mantenimientos de mi vehículo</p></td><td valign="top">US07</td><td valign="top">Registro de datos del vehículo</td></tr>
-<tr><td valign="top">US08</td><td valign="top">Registro de los mantenimientos</td></tr>
-<tr><td valign="top">US09</td><td valign="top">Cálculo del costo del mantenimiento</td></tr>
-<tr><td valign="top">US10</td><td valign="top">Recordatorios de mantenimiento al vehículo</td></tr>
-<tr><td valign="top">US11</td><td valign="top">Categorizar el tipo de mantenimiento</td></tr>
-<tr><td valign="top">US12</td><td valign="top">Historial de mantenimientos realizados</td></tr>
-<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top"><p>Como cliente,</p><p>Quiero recibir recordatorios automáticos de mantenimiento</p><p>Para mi vehículo</p></td><td valign="top">US13</td><td valign="top">Recordatorio de inspección técnica</td></tr>
-<tr><td valign="top">US14</td><td valign="top">Recordatorio de cambio de aceite</td></tr>
-<tr><td valign="top">US15</td><td valign="top">Personalización de recordatorios de mantenimiento</td></tr>
-<tr><td valign="top">US16</td><td valign="top">Recordatorio de vencimiento de póliza de seguro</td></tr>
-<tr><td valign="top">US17</td><td valign="top">Recordatorio de vencimiento de garantía</td></tr>
-<tr><td valign="top">US18</td><td valign="top">Marcado de recordatorios de mantenimiento como completados</td></tr>
-<tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><p>Como gerente del taller</p><p>Quiero poder crear una cuenta, modificar y eliminar los datos de los clientes</p><p>Para poder actualizar la información de nuestros clientes y agregar nuevos.</p><p></p>
-</td><td valign="top">US19</td><td valign="top">Registrar tecnico o administrador</td></tr>
+<tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top"><p></p></td><td valign="top">US01</td><td valign="top"></td></tr>
+<tr><td valign="top">US02</td><td valign="top"></td></tr>
+<td valign="top">US03</td><td valign="top"></td></tr>
+<tr><td valign="top">US04</td><td valign="top"></td></tr>
+<tr><td valign="top">US05</td><td valign="top"></td></tr>
+<tr><td valign="top">US06</td><td valign="top"></td></tr>
+<tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><b><p></p></td><td valign="top">US07</td><td valign="top"></td></tr>
+<tr><td valign="top">US08</td><td valign="top"></td></tr>
+<tr><td valign="top">US09</td><td valign="top"></td></tr>
+<tr><td valign="top">US10</td><td valign="top"></td></tr>
+<tr><td valign="top">US11</td><td valign="top"></td></tr>
+<tr><td valign="top">US12</td><td valign="top"></td></tr>
+<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top"><p>Como médico traumatológico,</p><p>Quiero tener una plataforma tecnológica que me permita gestionar eficientemente los tratamientos de mis pacientes,</p><p>Para poder proporcionar una atención médica de alta calidad y personalizada.</p></td><td valign="top">US13</td><td valign="top">Acceso Eficiente al Historial Médico Completo</td></tr>
+<tr><td valign="top">US14</td><td valign="top">Notificaciones de Citas de Seguimiento</td></tr>
+<tr><td valign="top">US15</td><td valign="top">Actualización de Planes de Tratamiento</td></tr>
+<tr><td valign="top">US16</td><td valign="top">Alertas de Cambios en Resultados de Análisis</td></tr>
+<tr><td valign="top">US17</td><td valign="top">Comunicación Segura con los Pacientes</td></tr>
+<tr><td valign="top">US18</td><td valign="top">Análisis y Evaluación de Eficacia del Tratamiento</td></tr>
+<tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><p></p><p></p>
+</td><td valign="top">US19</td><td valign="top"></td></tr>
 <tr><td valign="top">US20</td><td valign="top">Registrar nuevo cliente</td></tr>
 <tr><td valign="top">US21</td><td valign="top">Actualización de clientes</td></tr>
 <tr><td valign="top">US22</td><td valign="top">Eliminar cliente</td></tr>
