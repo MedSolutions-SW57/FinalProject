@@ -48,15 +48,18 @@ Segmento Objetivo #3: Laboratorios que se inscriben en la aplicación
 <tr><td valign="top">US22</td><td valign="top"></td></tr>
 <tr><td valign="top">US23</td><td valign="top"></td></tr>
 <tr><td valign="top">US24</td><td valign="top"></td></tr>
-<tr><td rowspan="5" valign="top">E05</td><td rowspan="5" valign="top"></td><td valign="top">US25</td><td valign="top"></td></tr>
+<tr><td rowspan="6" valign="top">E05</td><td rowspan="6" valign="top"></td><td valign="top">US25</td><td valign="top"></td></tr>
 <tr><td valign="top">US26</td><td valign="top"></td></tr>
 <tr><td valign="top">US27</td><td valign="top"></td></tr>
 <tr><td valign="top">US28</td><td valign="top"></td></tr>
 <tr><td valign="top">US29</td><td valign="top"></td></tr>
-<tr><td rowspan="3">E06</td><td rowspan="3"></td><td valign="top">US30</td><td valign="top"></td></tr>
-<tr><td valign="top">US31</td><td valign="top"></td>
-</tr>
+  <tr><td valign="top">US30</td><td valign="top"></td></tr>
+<tr><td rowspan="6">E06</td><td rowspan="6"></td><td valign="top">US31</td><td valign="top"></td></tr>
 <tr><td valign="top">US32</td><td valign="top"></td></tr>
+<tr><td valign="top">US33</td><td valign="top"></td></tr>
+<tr><td valign="top">US34</td><td valign="top"></td></tr>
+<tr><td valign="top">US35</td><td valign="top"></td></tr>
+<tr><td valign="top">US36</td><td valign="top"></td></tr>
 </table>
 
 ## 3.3 Impact Mapping
