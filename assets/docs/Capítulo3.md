@@ -29,12 +29,13 @@ Segmento Objetivo #3: Laboratorios que se inscriben en la aplicación
 <tr><td valign="top">US04</td><td valign="top"></td></tr>
 <tr><td valign="top">US05</td><td valign="top"></td></tr>
 <tr><td valign="top">US06</td><td valign="top"></td></tr>
-<tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><b><p></p></td><td valign="top">US07</td><td valign="top"></td></tr>
-<tr><td valign="top">US08</td><td valign="top"></td></tr>
-<tr><td valign="top">US09</td><td valign="top"></td></tr>
-<tr><td valign="top">US10</td><td valign="top"></td></tr>
-<tr><td valign="top">US11</td><td valign="top"></td></tr>
-<tr><td valign="top">US12</td><td valign="top"></td></tr>
+<tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><p>Como paciente, deseo tener acceso a una plataforma tecnológica que facilite la gestión de mis citas médicas, para poder organizar mi agenda de manera eficiente y recibir una atención médica oportuna y de calidad.
+</p></td><td valign="top">US07</td><td valign="top">Registro de Nueva Cita</td></tr>
+<tr><td valign="top">US08</td><td valign="top">Selección de Especialista y Ubicación</td></tr>
+<tr><td valign="top">US09</td><td valign="top">Disponibilidad de Horarios </td></tr>
+<tr><td valign="top">US10</td><td valign="top">Recordatorios de Cita</td></tr>
+<tr><td valign="top">US11</td><td valign="top">Cancelación y Re-agendamiento de Citas</td></tr>
+<tr><td valign="top">US12</td><td valign="top">Confirmación de Cita</td></tr>
 <tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top"><p>Como médico traumatológico,</p><p>Quiero tener una plataforma tecnológica que me permita gestionar eficientemente los tratamientos de mis pacientes,</p><p>Para poder proporcionar una atención médica de alta calidad y personalizada.</p></td><td valign="top">US13</td><td valign="top">Acceso Eficiente al Historial Médico Completo</td></tr>
 <tr><td valign="top">US14</td><td valign="top">Notificaciones de Citas de Seguimiento</td></tr>
 <tr><td valign="top">US15</td><td valign="top">Actualización de Planes de Tratamiento</td></tr>
