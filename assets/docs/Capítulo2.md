@@ -54,7 +54,7 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 ### 2.3.5 As-is Scenario Mapping
 ## 2.4 Ubiquitous Language
 
-<p>**Paciente: Un individuo que busca atención médica en el campo de la traumatología.**</p>
+Paciente: Un individuo que busca atención médica en el campo de la traumatología.
 <br>
 Historial Médico: El registro completo de la información médica y el historial de tratamientos de un paciente.
 <br>
