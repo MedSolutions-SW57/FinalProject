@@ -104,7 +104,7 @@ Se presentan los siguientes user stories:
 |US35||||E06|
 |US36||||E06|
 
-
+:)
 
 ## 3.3 Impact Mapping
 
