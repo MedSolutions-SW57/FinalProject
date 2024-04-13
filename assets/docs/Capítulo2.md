@@ -53,3 +53,24 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 ### 2.3.4 Empathy Mapping
 ### 2.3.5 As-is Scenario Mapping
 ## 2.4 Ubiquitous Language
+
+Paciente: Un individuo que busca atención médica en el campo de la traumatología.
+<br>
+Historial Médico: El registro completo de la información médica y el historial de tratamientos de un paciente.
+<br>
+Cita Médica: Una programación de tiempo específico para la atención médica entre un paciente y un médico.
+<br>
+Análisis Médico: Proceso de examinar muestras biológicas para obtener información sobre la salud de un paciente.
+<br>
+Tratamiento: Un plan de acción médico recomendado para abordar una condición específica del paciente.
+<br>
+Resultados de Análisis: Los hallazgos y conclusiones obtenidos a partir de los análisis médicos realizados en muestras de pacientes.
+<br>
+Notificaciones: Mensajes automáticos enviados a pacientes y médicos para recordatorios de citas, resultados de análisis, etc.
+<br>
+Comunicación Segura: La capacidad de intercambiar información sensible de manera segura entre pacientes y médicos.
+<br>
+Personal de Laboratorio: Profesionales responsables de realizar análisis médicos en las muestras de los pacientes.
+<br>
+Muestra: Material biológico proporcionado por un paciente para su análisis médico.
+<br>
