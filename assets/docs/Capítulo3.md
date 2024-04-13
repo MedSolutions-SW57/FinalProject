@@ -73,12 +73,12 @@ Se presentan los siguientes user stories:
 |US04||||E01|
 |US05||||E01|
 |US06||||E01|
-|US07||||E02|
-|US08||||E02|
-|US09||||E02|
-|US10||||E02|
-|US11||||E02|
-|US12||||E02|
+|US07|Registro de Nueva Cita|Como paciente, quiero poder programar una nueva cita médica a través de la plataforma en línea de MedSystem para evitar tener que llamar por teléfono.|<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p></p><p></p><p></p>|E02|
+|US08|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
+|US09|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
+|US10|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
+|US11|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
+|US12|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
 |US13||||E03|
 |US14||||E03|
 |US15||||E03|
