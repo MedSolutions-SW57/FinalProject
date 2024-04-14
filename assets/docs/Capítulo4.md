@@ -90,46 +90,101 @@ Doctor request results
   <img src="../images/Wireframe-Doctor-request-results.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 
 ### 4.4.2. Web Applications Wireflow Diagrams
+
+User goal 1: Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente.
+
+<td><p align="center">
+  <img src="../images/wireframes-user-goal-1.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/wireframes-user-goal-1_2.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
+User goal 2: Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.
+
+<td><p align="center">
+  <img src="../images/wireframes-user-goal-2.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
+User goal 3: Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.
+
+<td><p align="center">
+  <img src="../images/wireframes-user-goal-3.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
+User goal 4: Como desarrollador, quiero incorporar una función de seguimiento de historias clínicas en MedSystem, para que los doctores puedan acceder fácilmente al historial médico de cada paciente, y puedan realizar un seguimiento preciso de su tratamiento.
+
+<td><p align="center">
+  <img src="../images/wireframes-user-goal-4.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
+User goal 5: Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.
+
+<td><p align="center">
+  <img src="../images/wireframes-user-goal-5.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
 ### 4.4.2. Web Applications Mock-ups
 
 Login patient
 <td><p align="center">
-  <img src="../images/Mockup-Login-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td> 
+  <img src="../images/Mockup-Login-patient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td> 
 Login doctor
 <td><p align="center">
-  <img src="../images/Mockup-Login-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Login-doctor.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Login consultancy
 <td><p align="center">
-  <img src="../images/Mockup-Login-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Login-consultancy.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Register patient
 <td><p align="center">
-  <img src="../images/Mockup-Register-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Register-patient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Register doctor
 <td><p align="center">
-  <img src="../images/Mockup-Register-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Register-doctor.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Register consultancy
 <td><p align="center">
-  <img src="../images/Mockup-Register-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Register-consultancy.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Doctor appointment
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-appointment.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Doctor-appointment.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Doctor appointment 2
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-appointment-2.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Doctor-appointment-2.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
   Doctor chat
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-chat.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Doctor-chat.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Doctor treatments for pacient
 <td><p align="center">
-  <img src="../images/Mockup-Treatments-for-pacient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Doctor-Treatments-for-pacient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Doctor request history
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-request-history.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Doctor-request-history.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Doctor request results
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-request-results.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="../images/Mockup-Doctor-request-results.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 
 ### 4.4.3. Web Applications User Flow Diagrams
+
+User goal 1: Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente.
+
+<td><p align="center">
+  <img src="../images/mockup-user-goal-1.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/mockup-user-goal-1_2.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+
+User goal 2: Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.
+
+<td><p align="center">
+  <img src="../images/mockup-user-goal-2.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+
+User goal 3: Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.
+
+<td><p align="center">
+  <img src="../images/mockup-user-goal-3.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+
+User goal 4: Como desarrollador, quiero incorporar una función de seguimiento de historias clínicas en MedSystem, para que los doctores puedan acceder fácilmente al historial médico de cada paciente, y puedan realizar un seguimiento preciso de su tratamiento.
+
+<td><p align="center">
+  <img src="../images/mockup-user-goal-4.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+
+User goal 5: Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.
+
+<td><p align="center">
+  <img src="../images/mockup-user-goal-5.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
 
 ## 4.5. Web Applications Prototyping
 
