@@ -195,13 +195,13 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 
 ### 2.3.5 As-is Scenario Mapping
 <p><b>Para el segmento 1 (Pacientes):</b></p>
-<img src="../images/As_Is_Scenario_Mapping_1.jpg">
+<img src="../images/To_Be_Scenario_Mapping_1.jpg">
 
 <p><b>Para el segmento 2 (Doctores):</b></p>
-<img src="../images/As_Is_Scenario_Mapping_2.jpg">
+<img src="../images/To_Be_Scenario_Mapping_2.jpg">
 
 <p><b>Para el segmento 3 (Laboratorios):</b></p>
-<img src="../images/As_Is_Scenario_Mapping_3.jpg">
+<img src="../images/To_Be_Scenario_Mapping_3.jpg">
 
 ## 2.4 Ubiquitous Language
 
