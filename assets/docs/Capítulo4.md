@@ -234,8 +234,24 @@ User goal 5: Como t√©cnico de laboratorio, quiero un sistema que registre autom√
 
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
+
+<img alt= "c41" src="../images/c41.png">
+
 ### 4.6.2. Software Architecture Container Diagrams
+
+<img alt= "c42" src="../images/c42.png">
+
 ### 4.6.3. Software Architecture Components Diagrams
+
+<img alt= "c43" src="../images/c43.png">
+
+<img alt= "c44" src="../images/c44.png">
+
+<img alt= "c45" src="../images/c45.png">
+
+<img alt= "c46" src="../images/c46.png">
+
+<img alt= "c47" src="../images/c47.png">
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
