@@ -81,11 +81,62 @@ Despues tambien esta GitHub Pages que es una función de GitHub que permite aloj
 
 ### 5.2.1.1 Sprint Planning 1
 
+| **Sprint #**                       | Sprint 1                                                                                                                                                                                                    |
+| :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| **Sprint Planning Background**     |                                                                                                                                                                                                             |
+| Date                               | 2024-04-05                                                                                                                                                                                                  |
+| Time                               | 07:00 AM                                                                                                                                                                                                    |
+| Location                           | Virtual                                                                                                                                                                                                     |
+| Prepared by                        | Gutierrez Zumaeta, Manuel Alonso                                                                                                                                                                            |
+| Attendees (to planning meeting)    | <p>Guimaraes Escalante, Carlos Eduardo</p><p>Altamirano Saenz, Jorge Armando</p><p>Montes Figueroa, Juan Eduardo</p><p>Flores Manrique, Sebastian Enrique</p><p>Gutierrez Zumaeta, Manuel Alonso</p><p></p> |
+| Sprint n - 1 Review Summary        | No hubo sprint anterior                                                                                                                                                                                     |
+| Sprint n - 1 Retrospective Summary | No hubo sprint anterior                                                                                                                                                                                     |
+| **Sprint Goal & User Stories**     |                                                                                                                                                                                                             |
+| Sprint 1 Goal                      | Desarollo de la landing page                                                                                                                                                                                |
+| Sprint 1 Velocity                  | 18                                                                                                                                                                                                          |
+| Sum of Story Points                | 18                                                                                                                                                                                                          |
+
 ### 5.2.1.2 Sprint Backlog 1
+
+| User Story ID | User Story Title                | Task ID | Task Title                      | Description                                                                   | Estimation (Hours) | Assigned To                        | Status |
+| ------------- | ------------------------------- | ------- | ------------------------------- | ----------------------------------------------------------------------------- | ------------------ | ---------------------------------- | ------ |
+| US36          | Barra de navegación             | T01     | Implementar barra de navegación | Desarrollar una barra de navegación interactiva en la página de inicio.       | 2                  | Juan Montes, Carlos Guimaraes      | Done   |
+| US32          | Sección sobre el Producto       | T02     | Crear sección del producto      | Diseñar y llenar la sección de detalles del producto o servicio.              | 2                  | Sebastian Flores                   | Done   |
+| US31          | Sección About Us                | T03     | Desarrollar sección About Us    | Preparar contenido y diseño de la sección "About Us" con misión y valores.    | 2                  | Manuel Gutierrez, Jorge Altamirano | Done   |
+| US34          | Sección de contactos            | T04     | Organizar sección de contactos  | Implementar formulario de contacto y detalles de comunicación en la web.      | 2                  | Manuel Gutierrez                   | Done   |
+| US33          | Funciones que ofrece al cliente | T05     | Detallar funciones clave        | Describir las funcionalidades principales que la aplicación ofrece a usuarios | 2                  | Sebastian Flores                   | Done   |
+| US35          | Sección sobre el equipo         | T06     | Mostrar equipo de trabajo       | Crear sección con perfiles y roles del equipo de trabajo.                     | 2                  | Jorge Altamirano, Carlos Guimaraes | Done   |
 
 ### 5.2.1.3 Deployment Evidence for Sprint Review
 
+Evidencias de los commits de los miembros del equipo:
+
+<img src="../images/commits.png">
+
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review
+
+Hemos realizado los acceptance test para las user stories del sprint:
+
+#### US31
+
+#### Feature: Sección About Us en la Landing Page
+
+**Scenario**: Visualización de la sección About Us
+**Given** el `<usuario>` desea conocer sobre la empresa
+**When** ingresa al Landing Page
+**Then** se mostrará la sección `<About Us>` que permita al usuario conocer la misión, visión y valores de la empresa.
+
+#### Examples: INPUT
+
+| usuario  |
+| -------- |
+| Ana Mora |
+
+#### Examples: OUTPUT
+
+| About Us                        |
+| ------------------------------- |
+| Misión, Visión, Caracteristicas |
 
 ### 5.2.1.5 Execution Evidence for Sprint Review
 

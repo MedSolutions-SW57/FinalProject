@@ -150,6 +150,8 @@
 
 ### 2.1.2 Estrategias y tacticas frente a competidores
 
+MedSystem puede destacarse en el mercado ofreciendo una plataforma de gestión de procesos clínicos altamente personalizable y fácil de usar, tanto para pacientes como para profesionales de la salud, diferenciándose así de competidores como Home Medical Management y LOLIMSA. Con un enfoque específico en la atención domiciliaria, la plataforma puede ofrecer funcionalidades especializadas para la coordinación y seguimiento de la atención médica en el hogar, proporcionando comodidad y eficiencia para pacientes y cuidadores. Además, MedSystem puede invertir en el desarrollo de tecnologías avanzadas, como inteligencia artificial y análisis de datos, para mejorar la gestión de consultorios y clínicas, posicionándose como una opción innovadora frente a empresas como LOLIMSA. Para competir con SAMA en el ámbito de la salud ocupacional y la seguridad laboral, MedSystem puede ofrecer módulos especializados y herramientas de cumplimiento normativo, aprovechando su experiencia en la gestión clínica para proporcionar soluciones integrales a empresas e instituciones. Una estrategia de marketing sólida, centrada en la educación del mercado sobre la importancia de la gestión eficiente de consultorios y clínicas, así como en testimonios de usuarios satisfechos, puede ayudar a MedSystem a construir una sólida reputación y atraer clientes potenciales. Además, explorar alianzas estratégicas con instituciones médicas y otros actores del sector puede ampliar su alcance y fortalecer su posición en el mercado. En resumen, MedSystem puede destacarse mediante la combinación de personalización, tecnología avanzada, especialización en atención domiciliaria y salud ocupacional, una sólida estrategia de marketing y alianzas estratégicas, lo que le permitirá diferenciarse y prosperar en un mercado competitivo.
+
 ## 2.2 Entrevistas
 
 ### 2.2.1 Diseno de entrevistas
@@ -220,25 +222,25 @@ Resumen de la entrevista:
 
 Entrevista 2:
 
-Fecha entrevistada: 10/04/2024
+Fecha entrevistada: 14/04/2024
 
-Entrevistador: 
+Entrevistador: Juan Eduardo Montes Figueroa    
 
-Entrevistado: 
+Entrevistado: Abril Gloria Montes Jiménez
 
 Datos del entrevistado:
-- Edad: 
-- Distrito: 
+- Edad: 50
+- Distrito: La Molina
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://drive.google.com/file/d/1zdDMgKeXD9p7n7VSyoecHeWbR-HJRtyX/view?usp=sharing">Link</a>
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 00:10
+- Minuto de Fin: 04:03
 
-<img alt = "Entrevista1.2" src="../images/Entrevista1.2.png">
+<img alt = "Entrevista1.2" src="../images/Entrevista1.2.PNG">
 
 Resumen de la entrevista:
-<p></p>
+<p>En la entrevista, Abril discutió su búsqueda de atención médica en traumatología debido a una lesión deportiva, destacando el desafío de encontrar un especialista con disponibilidad inmediata. Prioriza la experiencia y reputación del médico al elegir un especialista, y prefiere la conveniencia de programar citas médicas en línea. Expresó la importancia de tener información detallada antes de las consultas y espera una comunicación clara y coordinación entre los profesionales de la salud. Valora la facilidad de uso y la seguridad en una plataforma web para el seguimiento del tratamiento, pero muestra preocupación por la privacidad de sus datos médicos en línea y espera que se cumplan los estándares de seguridad.</p>
 
 Entrevista 3:
 
