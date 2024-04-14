@@ -221,7 +221,8 @@ Link de la Entrevista: <a href="">Link</a>
 
 Resumen de la entrevista:
 
-<p></p>
+<p>Gonzalo nos comenta que ha tenido problemas anteriormente al momento de sacar cita, como el dijo no habia una buena organizacion de citas por lo que para sacar una ha tenido que espera mucho tiempo. Ademas habla de algunas caracteristica que le gustaria tener ante de poder sacar una cita y tambien otra para los envios de los resultados de algun examen medico que hice, dependiendo de la gravedad de la situacion el pueda elegir entre que sea virtual o presencial.
+</p>
 
 Entrevista 2:
 
