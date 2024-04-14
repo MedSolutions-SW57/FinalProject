@@ -50,10 +50,85 @@
   <img src="../images/Landing-page-mockup-8.PNG" alt="wireframes" width="100%"></p></td>
 
 
-## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
+
+Login patient
+<td><p align="center">
+  <img src="../images/Wireframe-Login-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td> 
+Login doctor
+<td><p align="center">
+  <img src="../images/Wireframe-Login-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Login consultancy
+<td><p align="center">
+  <img src="../images/Wireframe-Login-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Register patient
+<td><p align="center">
+  <img src="../images/Wireframe-Register-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Register doctor
+<td><p align="center">
+  <img src="../images/Wireframe-Register-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Register consultancy
+<td><p align="center">
+  <img src="../images/Wireframe-Register-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor appointment
+<td><p align="center">
+  <img src="../images/Wireframe-Doctor-appointment.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor appointment 2
+<td><p align="center">
+  <img src="../images/Wireframe-Doctor-appointment-2.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  Doctor chat
+<td><p align="center">
+  <img src="../images/Wireframe-Doctor-chat.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor treatments for pacient
+<td><p align="center">
+  <img src="../images/Wireframe-Doctor-Treatments-for-pacient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor request history
+<td><p align="center">
+  <img src="../images/Wireframe-Doctor-request-history.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor request results
+<td><p align="center">
+  <img src="../images/Wireframe-Doctor-request-results.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 ### 4.4.2. Web Applications Mock-ups
+
+Login patient
+<td><p align="center">
+  <img src="../images/Mockup-Login-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td> 
+Login doctor
+<td><p align="center">
+  <img src="../images/Mockup-Login-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Login consultancy
+<td><p align="center">
+  <img src="../images/Mockup-Login-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Register patient
+<td><p align="center">
+  <img src="../images/Mockup-Register-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Register doctor
+<td><p align="center">
+  <img src="../images/Mockup-Register-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Register consultancy
+<td><p align="center">
+  <img src="../images/Mockup-Register-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor appointment
+<td><p align="center">
+  <img src="../images/Mockup-Doctor-appointment.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor appointment 2
+<td><p align="center">
+  <img src="../images/Mockup-Doctor-appointment-2.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  Doctor chat
+<td><p align="center">
+  <img src="../images/Mockup-Doctor-chat.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor treatments for pacient
+<td><p align="center">
+  <img src="../images/Mockup-Treatments-for-pacient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor request history
+<td><p align="center">
+  <img src="../images/Mockup-Doctor-request-history.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+Doctor request results
+<td><p align="center">
+  <img src="../images/Mockup-Doctor-request-results.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+
 ### 4.4.3. Web Applications User Flow Diagrams
 
 ## 4.5. Web Applications Prototyping
@@ -69,3 +144,4 @@
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+<img src="../images/database_model.png" alt="database image" width="100%">
