@@ -159,6 +159,22 @@ Hemos realizado los acceptance test para las user stories del sprint:
 | ----------------- |
 | Funciones         |
 
+#### US34
+
+Feature: Sección Equipo en la Landing Page
+
+Scenario: Visualización de la sección Equipo
+  Given el `usuario` desea conocer al equipo detrás de la empresa
+  When ingresa al Landing Page
+  Then se mostrará la sección `Equipo` que presente información detallada de los miembros del equipo.
+
+Examples: INPUT
+  | usuario      |
+  | Roberto Díaz |
+
+Examples: OUTPUT
+  | Equipo                                           |
+  | Miembros, Roles  |
 
 #### US35
 #### Feature: Sección Equipo en la Landing Page
