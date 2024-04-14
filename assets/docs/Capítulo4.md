@@ -69,3 +69,4 @@
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
+<img src="../images/database_model.png" alt="database image" width="100%">
