@@ -32,6 +32,24 @@
 
 ### 4.3.2. Landing Page Mock-up
 
+<td><p align="center">
+  <img src="../images/Landing-page-mockup-1.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/Landing-page-mockup-2.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/Landing-page-mockup-3.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/Landing-page-mockup-4.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/Landing-page-mockup-5.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/Landing-page-mockup-6.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/Landing-page-mockup-7.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/Landing-page-mockup-8.PNG" alt="wireframes" width="100%"></p></td>
+
+
 ## 4.4. Web Applications UX/UI Design
 ### 4.4.1. Web Applications Wireframes
 ### 4.4.2. Web Applications Wireflow Diagrams
