@@ -255,6 +255,27 @@ User goal 5: Como t√©cnico de laboratorio, quiero un sistema que registre autom√
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
+
+<u>Bounded Context 1</u>
+
+<img alt= "BC!" src="../images/BC1.png">
+
+<u>Bounded Context 1</u>
+
+<img alt= "BC!" src="../images/BC2.png">
+
+<u>Bounded Context 1</u>
+
+<img alt= "BC!" src="../images/BC3.png">
+
+<u>Bounded Context 1</u>
+
+<img alt= "BC!" src="../images/BC4.png">
+
+<u>Bounded Context 1</u>
+
+<img alt= "BC!" src="../images/BC5.png">
+
 ### 4.7.2. Class Dictionary
 
 ## 4.8. Database Design
