@@ -531,6 +531,129 @@ Class Notification
   </tr>
 </table>
 
+
+Class MedicalResult
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for MedicalResult</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the MedicalResult</td>
+  </tr>
+</table>
+
+Class MedicalSample
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for MedicalSample</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the MedicalSample</td>
+  </tr>
+</table>
+
+Class MedicalAnalisis
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for MedicalAnalisis</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the MedicalAnalisis</td>
+  </tr>
+</table>
+
+Class Message
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Message</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the Message</td>
+  </tr>
+</table>
+
+
+Class Progress
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Progress</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the Progress</td>
+  </tr>
+</table>
+
+Class Treatment
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Treatment</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the Treatment</td>
+  </tr>
+</table>
+
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 <img src="../images/database_model.png" alt="database image" width="100%">
