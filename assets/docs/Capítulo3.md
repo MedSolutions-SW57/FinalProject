@@ -45,13 +45,13 @@ Segmento Objetivo #3: Laboratorios que se inscriben en la aplicación
 <tr><td valign="top">US16</td><td valign="top">Alertas de Cambios en Resultados de Análisis</td></tr>
 <tr><td valign="top">US17</td><td valign="top">Comunicación Segura con los Pacientes</td></tr>
 <tr><td valign="top">US18</td><td valign="top">Análisis y Evaluación de Eficacia del Tratamiento</td></tr>
-<tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><p></p><p></p>
-</td><td valign="top">US19</td><td valign="top"></td></tr>
-<tr><td valign="top">US20</td><td valign="top"></td></tr>
-<tr><td valign="top">US21</td><td valign="top"></td></tr>
-<tr><td valign="top">US22</td><td valign="top"></td></tr>
-<tr><td valign="top">US23</td><td valign="top"></td></tr>
-<tr><td valign="top">US24</td><td valign="top"></td></tr>
+<tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><p>Como médico traumatológico,</p><p>deseo poder acceder al historial médico completo de mis pacientes,</p><p>para tomar decisiones informadas y brindarles la mejor atención posible.</p>
+</td><td valign="top">US19</td><td valign="top">Acceso rápido al historial médico del paciente</td></tr>
+<tr><td valign="top">US20</td><td valign="top">Visualización detallada del historial médico</td></tr>
+<tr><td valign="top">US21</td><td valign="top">Actualización en tiempo real del historial médico</td></tr>
+<tr><td valign="top">US22</td><td valign="top">Registro de nuevas entradas en el historial médico</td></tr>
+<tr><td valign="top">US23</td><td valign="top">Seguridad y privacidad del historial médico</td></tr>
+<tr><td valign="top">US24</td><td valign="top">Registro de eventos importantes en el historial médico</td></tr>
 <tr><td rowspan="6" valign="top">E05</td><td rowspan="6" valign="top"></td><td valign="top">US25</td><td valign="top"></td></tr>
 <tr><td valign="top">US26</td><td valign="top"></td></tr>
 <tr><td valign="top">US27</td><td valign="top"></td></tr>
