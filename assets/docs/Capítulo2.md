@@ -50,36 +50,182 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 10. ¿Qué mejoras te gustaría ver en la comunicación y colaboración con los médicos que envían pedidos a tu laboratorio o consultoría?
 
 ### 2.2.2 Registro de entrevistas
-Segmento objetivo - Paciente <br>
+<u>Segmento objetivo - Paciente</u> 
 Entrevista 1:
-<br>
-<img alt = "Entrevista1.1" src="../images/Entrevista1.1.png"><br>
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista1.1" src="../images/Entrevista1.1.png">
+
 Entrevista 2:
-<br>
-<img alt = "Entrevista1.2" src="../images/Entrevista1.2.png"><br>
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista1.2" src="../images/Entrevista1.2.png">
+
 Entrevista 3:
-<br>
-<img alt = "Entrevista1.3" src="../images/Entrevista1.3.png"><br>
-Segmento objetivo - Medico <br>
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista1.3" src="../images/Entrevista1.3.png">
+
+<u>Segmento objetivo - Medico</u> 
 Entrevista 1:
-<br>
-<img alt = "Entrevista2.1" src="../images/Entrevista2.1.png"><br>
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista2.1" src="../images/Entrevista2.1.png">
+
 Entrevista 2:
-<br>
-<img alt = "Entrevista2.2" src="../images/Entrevista2.2.png"><br>
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista2.2" src="../images/Entrevista2.2.png">
+
+Resumen de la entrevista:
+
+
 Entrevista 3:
-<br>
-<img alt = "Entrevista2.3" src="../images/Entrevista2.3.png"><br>
-Segmento objetivo - Laboratorio <br>
+<
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista2.3" src="../images/Entrevista2.3.png">
+
+<u>Segmento objetivo - Laboratorio</u> 
 Entrevista 1:
-<br>
-<img alt = "Entrevista3.1" src="../images/Entrevista3.1.png"><br>
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista3.1" src="../images/Entrevista3.1.png">
+
 Entrevista 2:
-<br>
-<img alt = "Entrevista3.2" src="../images/Entrevista3.2.png"><br>
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista3.2" src="../images/Entrevista3.2.png">
+
 Entrevista 3:
-<br>
-<img alt = "Entrevista3.3" src="../images/Entrevista3.3.png"><br>
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista3.3" src="../images/Entrevista3.3.png">
+
 ### 2.2.3 Analisis de entrevistas
 
 ## 2.3 Needfinding
