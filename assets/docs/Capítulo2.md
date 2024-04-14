@@ -201,7 +201,7 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 
 Entrevista 1:
 
-Fecha entrevistada: 07/04/2024
+Fecha entrevistada: 10/04/2024
 
 Entrevistador: Manuel Alonso Gutierrez Zumaeta
 
@@ -212,7 +212,7 @@ Datos del entrevistado:
 - Edad: 20 años
 - Distrito: San Martin de Porres
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112353_upc_edu_pe/EQt5uMfao0BMlqnxHClNfYsBIugjlgqmpoO0X3BXEfjLRw?e=87pc3U ">Link</a>
 
 - Minuto de Inicio:
 - Minuto de Fin:
@@ -423,9 +423,24 @@ Resumen de la entrevista:
 
 ### 2.2.3 Analisis de entrevistas
 
+Analizando las entrevistas de Gonzalo y Abril, es posible identificar varias necesidades y preferencias comunes que podrían guiar la mejora y el desarrollo de un sistema de gestión de citas médicas.
+
+#### Necesidades Expresadas:
+
+- Búsqueda de Especialistas: Abril menciona la dificultad de encontrar especialistas disponibles, especialmente en traumatología. Esto sugiere la necesidad de un sistema que facilite la búsqueda de médicos por especialidad y disponibilidad.
+- Priorización de la Experiencia Médica: Valora la experiencia y la reputación del especialista, indicando la importancia de que esta información sea accesible y clara en la plataforma.
+- Seguridad y Privacidad: Tiene preocupaciones sobre la privacidad de sus datos médicos en plataformas en línea, lo que requiere garantizar altos estándares de seguridad y encriptación de datos.
+- Coordinación entre Profesionales: Espera que haya buena comunicación y coordinación entre los distintos profesionales de salud que consulte.
+
 ## 2.3 Needfinding
 
 ### 2.3.1 User Personas
+
+- Paciente:
+  <img src="../images/Marcos Suarez.png">
+
+- Doctor:
+  <img src="../images/luistorrres.png">
 
 ### 2.3.2 User Task Matrix
 
@@ -575,7 +590,7 @@ Resumen de la entrevista:
 
 ### 2.3.4 Empathy Mapping
 
-### 2.3.4 Empathy Mapping
+<img src="../images/Empathy map.png" alt="EmpathyMap">
 
 ### 2.3.5 As-is Scenario Mapping
 
