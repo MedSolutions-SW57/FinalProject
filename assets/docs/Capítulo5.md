@@ -183,6 +183,8 @@ Seccion de Contact Us y Footer:
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
+No se realizo ningun trabajo con servicios web
+
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review
 
 Se procede a desplegar la landing page una vez terminada, por lo que se usarla Github Pages.
