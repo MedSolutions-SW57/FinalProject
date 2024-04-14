@@ -134,7 +134,7 @@ Datos del entrevistado:
 
 Link de la Entrevista: <a href="">Link</a>
 
-- Minuto de Inicio: 0:00
+- Minuto de Inicio: 00:00
 - Minuto de Fin: 07:42
 
 <img alt = "Entrevista2.1" src="../images/Entrevista2.1.png">
@@ -190,19 +190,19 @@ Resumen de la entrevista:
 
 Entrevista 1:
 
-Fecha entrevistada: 
+Fecha entrevistada: 10/04/2024
 
-Entrevistador:
+Entrevistador: Jorge Altamirano
 
-Entrevistado:
+Entrevistado: Luis Protocarrero
 
 Datos del entrevistado:
-- Edad:
-- Distrito:
+- Edad: 60
+- Distrito: La Molina
 
 Link de la Entrevista: <a href="">Link</a>
 
-- Minuto de Inicio: 
+- Minuto de Inicio: 00:00
 - Minuto de Fin: 04:17
 
 <img alt = "Entrevista3.1" src="../images/Entrevista3.1.png">
