@@ -9,25 +9,29 @@
 <p>
 Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a los traumatólogos con un sistema médico, es por esto que en nuestro logo se ve una cruz que hace referencia a la salud de una persona. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
 </p>
-<img src="assets" alt="Logo del sistema" width="30%">
+<img src="../images/logo_branding.png" alt="Logo del sistema" width="30%">
 
 <h4><strong>Typography:</strong><br></h4>
 <p>
 En cuanto a la elección de la tipografía, se eligió la fuente “Poppins”, puesto que no solo se quería que la fuente sea solo un estilo que intentara captar la atención del usuario, sino también era fundamental que sea legible y estéticamente agradable para el usuario. Con esta fuente, se logra lo deseado y se consigue brindar la información de manera clara dentro de la página. Además, para algunos subtitulos se utiliza la fuente "Oswald", para brindar variedad; y en caso de errores se utiliza fuentes "sans-serif" en caso de que alguna de las fuentes anteriores no funcionen.
 </p>
-<img src="images/.png" alt="Tipografia" width="30%">
+<img src="../images/typography_1.png" alt="Tipografia 1" width="30%"><br>
+<img src="../images/typography_2.png" alt="Tipografia 2" width="30%">
 
 <h4><strong>Paleta de colores:</strong><br></h4>
 <p>
 La paleta de colores se baso en algunos colores llamativos parecidos al color azul, que tuvo ciertas variaciones en la página, como el difuminado en la imagen representativa o el degradado que tuvo en el footer.
 </p>
-<img src="images/.png" alt="Paleta colores 1" width="30%">
+<img src="../images/color_1.png" alt="Color 1" width="30%"><br>
+<img src="../images/color_3.png" alt="Color 3" width="30%"><br>
+<img src="../images/color_2.png" alt="Color 2" width="30%">
+
 
 <h4><strong>Colores neutros:</strong><br></h4>
 <p>
 El único color neutro que se eligió fue el blanco
 </p>
-<img src="images/.png" alt="Color neutro" width="30%">
+<img src="../images/color_neutro.png" alt="Color neutro" width="30%">
 
 
 ### 4.1.2. Web Style Guidelines
@@ -36,16 +40,22 @@ El único color neutro que se eligió fue el blanco
 En MedSystem, se ha elegido cuidadosamente los elementos de estilo web para que el usuario tenga una experiencia que refleje la esencia de la plataforma y atienda a las necesidades de los segmentos objetivo de pacientes, doctores y laboratorios. Los colores base elegidos son variaciones al azul, para que haya más sintonía con la página y se vea agradable a la vista. Para el estilo de letra elegido, se optó por una tipografía legible y formal, ya que se desea que el usuario logre entender la información de manera clara y efectiva, es por esto que también se emplean distintos tamaños de fuente, con el fin de dar accesibilidad a todo los usuarios, y puedan interactuar con la plataforma sin ningún problema. 
 </p>
 <h4><strong>Colores base:</strong><br></h4>
-<img src="images/" alt="Colores Base" width="30%">
+<img src="../images/color_1.png" alt="Color 1" width="30%"><br>
+<img src="../images/color_3.png" alt="Color 3" width="30%"><br>
+<img src="../images/color_2.png" alt="Color 2" width="30%">
 
 <h4><strong>Colores neutros:</strong><br></h4>
-<img src="images/" alt="Color neutro" width="30%">
+<img src="../images/color_neutro.png" alt="Color neutro" width="30%">
 
 <h4><strong>Estilo de letras:</strong><br></h4>
-<img src="images/" alt="Estilo de letras" width="30%">
+<img src="../images/estilo_letra_1.jpg" alt="Estilo de letra 1" width="30%"><br>
+<img src="../images/estilo_letra_2.jpg" alt="Estilo de letra 1" width="30%">
+
 
 <h4><strong>Botones:</strong><br></h4>
-<img src="images/" alt="Botones" width="30%">
+<img src="../images/botones_1.png" alt="Botones 1" width="30%"><br>
+<img src="../images/botones_2.png" alt="Botones 2" width="30%">
+
 
 ## 4.2. Information Architecture
 ### 4.2.1. Organization Systems
