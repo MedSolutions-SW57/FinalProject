@@ -454,6 +454,37 @@ Class MedicalHistory
   </tr>
 </table>
 
+Class Appointment
+
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Appointment</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>date</td>
+    <td>Specific date of the appointment</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More info about the Appointment</td>
+  </tr>
+  <tr>
+    <td>time</td>
+    <td>time</td>
+    <td>Exact time of the Appointment</td>
+  </tr>
+</table>
+
 Class Agenda
 
 
@@ -475,7 +506,30 @@ Class Agenda
   </tr>
 </table>
 
+Class Notification
 
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Notification</td>
+  </tr>
+  <tr>
+    <td>message</td>
+    <td>string</td>
+    <td>Message appearing on the notification</td>
+  </tr>
+  <tr>
+    <td>date</td>
+    <td>date</td>
+    <td>Date of the notification</td>
+  </tr>
+</table>
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
