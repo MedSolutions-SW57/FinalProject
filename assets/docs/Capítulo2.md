@@ -301,25 +301,27 @@ Durante la entrevista, Gaby compartió los desafíos diarios que enfrenta en su 
 
 Entrevista 2:
 
-Fecha entrevistada: 
+Fecha entrevistada: 09/04/2024
 
 Entrevistador: Carlos Eduardo Guimaraes Escalante
 
 Entrevistado: Gerardo Villaroel
 
 Datos del entrevistado:
-- Edad:
-- Distrito:
+- Edad: 30
+- Distrito: Trujillo
 
 Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Eb9Hi7qT4W5Ik-M_OdQcMLUBW7HLy0mp-tkYAZcSYEbM6A?e=daDNCa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio: 
-- Minuto de Fin:
+- Minuto de Inicio: 11:59
+- Minuto de Fin: 22:24
 
 <img alt = "Entrevista2.2" src="../images/Entrevista_traumatologia.png">
 
 Resumen de la entrevista:
-<p></p>
+<p>
+Durante la entrevista, el Dr. Gerardo Villaroel nos explica los procesos que suele haber en el área de traumatología y como es que en el centro donde trabaja ya cuenta con un sistema tecnológico que les da mayor facilidad para comunicarse con sus pacientes. En este caso nos dice que los pacientes ingresan con sus credenciales a este portal médico, y de esa forma pueden visualizar el contenido multimedia que es de ellos, como radiografías por ejemplo. El Dr. Villaroel reafirma la importancia de la tecnología en su práctica médica, y como facilita su forma de trabajo.
+</p>
 
 Entrevista 3:
 
@@ -371,25 +373,27 @@ Resumen de la entrevista:
 
 Entrevista 2:
 
-Fecha entrevistada: 
+Fecha entrevistada: 13/04/2024
 
 Entrevistador: Carlos Eduardo Guimaraes Escalante
 
 Entrevistado: Giannina Escalante Gutierrez
 
 Datos del entrevistado:
-- Edad:
-- Distrito:
+- Edad: 51
+- Distrito: Trujillo
 
 Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Eb9Hi7qT4W5Ik-M_OdQcMLUBW7HLy0mp-tkYAZcSYEbM6A?e=daDNCa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio: 
+- Minuto de Inicio:
 - Minuto de Fin:
 
 <img alt = "Entrevista3.2" src="../images/entrevista_lab2.png">
 
 Resumen de la entrevista:
-<p></p>
+<p>
+En esta entrevista, Giannina nos comenta la importancia de que los resultado médicos llegue en las horas establecida, asi como lo importante que es que las indicaciones el doctor para realizar una prueba médica sea concisa. Según ella, los examenes se deben realizar una y otra vez para que el resultado de la prueba sea fiable. Asimismo, nos habla de lo importante que sería la tecnología para poder tener un contacto más directo con el médico, y de esta forma agilizar los procesos de laboratorio.
+</p>
 
 Entrevista 3:
 
