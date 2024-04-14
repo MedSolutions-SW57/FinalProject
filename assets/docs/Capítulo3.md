@@ -97,7 +97,16 @@ Se presentan los siguientes user stories:
 
 ## 3.3 Impact Mapping
 
+#### Segmento 1(Paciente):
+<img src="../images/impact_maping-paciente.png">
+
+
+#### Segmento 2(Doctor):
+<img src="../images/impact_maping-doctor.png">
+
 ## 3.4 Product Backlog
+
+Link del Pivotal Tracker: https://www.pivotaltracker.com/projects/2701194
 
 <table border="1">
   <tr>
