@@ -53,33 +53,33 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 Segmento objetivo - Paciente <br>
 Entrevista 1:
 <br>
-<img alt = "Entrevista1.1" src="../images/Entrevista1.1.jpg"><br>
+<img alt = "Entrevista1.1" src="../images/Entrevista1.1.png"><br>
 Entrevista 2:
 <br>
-<img alt = "Entrevista1.2" src="../images/Entrevista1.2.jpg"><br>
+<img alt = "Entrevista1.2" src="../images/Entrevista1.2.png"><br>
 Entrevista 3:
 <br>
-<img alt = "Entrevista1.3" src="../images/Entrevista1.3.jpg"><br>
+<img alt = "Entrevista1.3" src="../images/Entrevista1.3.png"><br>
 Segmento objetivo - Medico <br>
 Entrevista 1:
 <br>
-<img alt = "Entrevista2.1" src="../images/Entrevista2.1.jpg"><br>
+<img alt = "Entrevista2.1" src="../images/Entrevista2.1.png"><br>
 Entrevista 2:
 <br>
-<img alt = "Entrevista2.2" src="../images/Entrevista2.2.jpg"><br>
+<img alt = "Entrevista2.2" src="../images/Entrevista2.2.png"><br>
 Entrevista 3:
 <br>
-<img alt = "Entrevista2.3" src="../images/Entrevista2.3.jpg"><br>
+<img alt = "Entrevista2.3" src="../images/Entrevista2.3.png"><br>
 Segmento objetivo - Laboratorio <br>
 Entrevista 1:
 <br>
-<img alt = "Entrevista3.1" src="../images/Entrevista3.1.jpg"><br>
+<img alt = "Entrevista3.1" src="../images/Entrevista3.1.png"><br>
 Entrevista 2:
 <br>
-<img alt = "Entrevista3.2" src="../images/Entrevista3.2.jpg"><br>
+<img alt = "Entrevista3.2" src="../images/Entrevista3.2.png"><br>
 Entrevista 3:
 <br>
-<img alt = "Entrevista3.3" src="../images/Entrevista3.3.jpg"><br>
+<img alt = "Entrevista3.3" src="../images/Entrevista3.3.png"><br>
 ### 2.2.3 Analisis de entrevistas
 
 ## 2.3 Needfinding
