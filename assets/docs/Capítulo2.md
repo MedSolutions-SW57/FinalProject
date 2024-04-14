@@ -222,25 +222,25 @@ Resumen de la entrevista:
 
 Entrevista 2:
 
-Fecha entrevistada: 10/04/2024
+Fecha entrevistada: 14/04/2024
 
-Entrevistador: 
+Entrevistador: Juan Eduardo Montes Figueroa    
 
-Entrevistado: 
+Entrevistado: Abril Gloria Montes Jiménez
 
 Datos del entrevistado:
-- Edad: 
-- Distrito: 
+- Edad: 50
+- Distrito: La Molina
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://drive.google.com/file/d/1zdDMgKeXD9p7n7VSyoecHeWbR-HJRtyX/view?usp=sharing">Link</a>
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio: 00:10
+- Minuto de Fin: 04:03
 
-<img alt = "Entrevista1.2" src="../images/Entrevista1.2.png">
+<img alt = "Entrevista1.2" src="../images/Entrevista1.2.PNG">
 
 Resumen de la entrevista:
-<p></p>
+<p>En la entrevista, Abril discutió su búsqueda de atención médica en traumatología debido a una lesión deportiva, destacando el desafío de encontrar un especialista con disponibilidad inmediata. Prioriza la experiencia y reputación del médico al elegir un especialista, y prefiere la conveniencia de programar citas médicas en línea. Expresó la importancia de tener información detallada antes de las consultas y espera una comunicación clara y coordinación entre los profesionales de la salud. Valora la facilidad de uso y la seguridad en una plataforma web para el seguimiento del tratamiento, pero muestra preocupación por la privacidad de sus datos médicos en línea y espera que se cumplan los estándares de seguridad.</p>
 
 Entrevista 3:
 
