@@ -1,8 +1,13 @@
 # Capitulo 2
+
 ## 2.1 Competidores
+
 ### 2.1.1 Analisis Competitivo
+
 ### 2.1.2 Estrategias y tacticas frente a competidores
+
 ## 2.2 Entrevistas
+
 ### 2.2.1 Diseno de entrevistas
 
 Preguntas para el segmento objetivo paciente:
@@ -45,32 +50,170 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 10. ¿Qué mejoras te gustaría ver en la comunicación y colaboración con los médicos que envían pedidos a tu laboratorio o consultoría?
 
 ### 2.2.2 Registro de entrevistas
+
 ### 2.2.3 Registro de entrevistas
+
 ## 2.3 Needfinding
+
 ### 2.3.1 User Personas
-### 2.3.2 User Task Matrix 
-### 2.3.3 User Journey Mapping 
+
+### 2.3.2 User Task Matrix
+
+<table>
+    <thead>
+        <tr>
+            <th>Task</th>
+            <th colspan="2">Pacientes</th>
+            <th colspan="2">Profesionales médicos</th>
+            <th colspan="2">Laboratorio</th>
+        </tr>
+        <tr>
+            <th></th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+            <th>Frecuencia</th>
+            <th>Importancia</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Programar una cita</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Acceder a resultados de exámenes</td>
+            <td>Media</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Realizar seguimiento de tratamiento</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Agendar una cirugía</td>
+            <td>Baja</td>
+            <td>Alta</td>
+            <td>Media</td>
+            <td>Alta</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Participar en consultas virtuales</td>
+            <td>Baja</td>
+            <td>Alta</td>
+            <td>Media</td>
+            <td>Alta</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Recibir recordatorios automáticos de citas</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Acceder a historias clínicas</td>
+            <td>-</td>
+            <td>-</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Consultar información sobre medicamentos</td>
+            <td>Media</td>
+            <td>Alta</td>
+            <td>Media</td>
+            <td>Alta</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Comunicarse con el especialista</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Media</td>
+            <td>Alta</td>
+            <td>Alta</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Proporcionar retroalimentación sobre la experiencia</td>
+            <td>Baja</td>
+            <td>Media</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+        </tr>
+        <tr>
+            <td>Solicitar análisis clínicos</td>
+            <td>Baja</td>
+            <td>Alta</td>
+            <td>-</td>
+            <td>-</td>
+            <td>Alta</td>
+            <td>Alta</td>
+        </tr>
+        <tr>
+            <td>Enviar resultado de análisis</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>-</td>
+            <td>Alta</td>
+            <td>Alta</td>
+        </tr>
+    </tbody>
+</table>
+
+### 2.3.3 User Journey Mapping
+
 ### 2.3.4 Empathy Mapping
+
 ### 2.3.5 As-is Scenario Mapping
+
 ## 2.4 Ubiquitous Language
 
-Paciente: Un individuo que busca atención médica en el campo de la traumatología.
+**Paciente**: Un individuo que busca atención médica en el campo de la traumatología.
 <br>
-Historial Médico: El registro completo de la información médica y el historial de tratamientos de un paciente.
+**Historial Médico**: El registro completo de la información médica y el historial de tratamientos de un paciente.
 <br>
-Cita Médica: Una programación de tiempo específico para la atención médica entre un paciente y un médico.
+**Cita Médica**: Una programación de tiempo específico para la atención médica entre un paciente y un médico.
 <br>
-Análisis Médico: Proceso de examinar muestras biológicas para obtener información sobre la salud de un paciente.
+**Análisis Médico**: Proceso de examinar muestras biológicas para obtener información sobre la salud de un paciente.
 <br>
-Tratamiento: Un plan de acción médico recomendado para abordar una condición específica del paciente.
+**Tratamiento**: Un plan de acción médico recomendado para abordar una condición específica del paciente.
 <br>
-Resultados de Análisis: Los hallazgos y conclusiones obtenidos a partir de los análisis médicos realizados en muestras de pacientes.
+**Resultados de Análisis**: Los hallazgos y conclusiones obtenidos a partir de los análisis médicos realizados en muestras de pacientes.
 <br>
-Notificaciones: Mensajes automáticos enviados a pacientes y médicos para recordatorios de citas, resultados de análisis, etc.
+**Notificaciones**: Mensajes automáticos enviados a pacientes y médicos para recordatorios de citas, resultados de análisis, etc.
 <br>
-Comunicación Segura: La capacidad de intercambiar información sensible de manera segura entre pacientes y médicos.
+**Comunicación Segura**: La capacidad de intercambiar información sensible de manera segura entre pacientes y médicos.
 <br>
-Personal de Laboratorio: Profesionales responsables de realizar análisis médicos en las muestras de los pacientes.
+**Personal de Laboratorio**: Profesionales responsables de realizar análisis médicos en las muestras de los pacientes.
 <br>
-Muestra: Material biológico proporcionado por un paciente para su análisis médico.
+**Muestra**: Material biológico proporcionado por un paciente para su análisis médico.
 <br>
