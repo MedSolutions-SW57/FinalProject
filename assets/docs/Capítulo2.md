@@ -237,7 +237,8 @@ Datos del entrevistado:
 - Edad: 50
 - Distrito: La Molina
 
-Link de la Entrevista: <a href="https://drive.google.com/file/d/1zdDMgKeXD9p7n7VSyoecHeWbR-HJRtyX/view?usp=sharing">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Eb9Hi7qT4W5Ik-M_OdQcMLUBW7HLy0mp-tkYAZcSYEbM6A?e=daDNCa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
+
 
 - Minuto de Inicio: 31:33
 - Minuto de Fin: 35:45
