@@ -143,9 +143,9 @@ Hemos realizado los acceptance test para las user stories del sprint:
 #### Feature: Sección Sobre el Producto en la Landing Page
 
 **Scenario**: Visualización de la sección Sobre el Producto
-**Given** el `<usuario>` desea conocer detalles del producto
+**Given** el `usuario` desea conocer detalles del producto
 **When** ingresa al Landing Page
-**Then** se mostrará la sección `Sobre el Producto>` que explique cómo funciona el producto, sus beneficios y ventajas competitivas.
+**Then** se mostrará la sección `Sobre el Producto` que explique cómo funciona el producto, sus beneficios y ventajas competitivas.
 
 #### Examples: INPUT
 
