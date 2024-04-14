@@ -1,6 +1,35 @@
 # Capítulo 4
 ## 4.1. Style Guidelines
+<p>Para optimizar la experiencia de todos los usuarios, dentro de nuestro landing Page proponemos un diseño de interfaz atractivo, y responsivo que se adapte a distintas dimensiones para los distintos dispositivos. Asimismo, hemos elegido colores llamativos, imágenes de buena calidad y se implementa un navbar intuitivo para que el usuario pueda desplazarse por la página de manera cómoda y fluida. Con todo esto, buscamos proporcionar una experiencia amigable y práctica para todos los usuarios.
+</p>	
+
 ### 4.1.1. General Style Guidelines
+
+<h4><strong>Branding:</strong><br></h4>
+<p>
+Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a los traumatólogos con un sistema médico, es por esto que en nuestro logo se ve una cruz que hace referencia a la salud de una persona. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
+</p>
+<img src="images/" alt="Logo del sistema" width="30%">
+
+<h4><strong>Typography:</strong><br></h4>
+<p>
+En cuanto a la elección de la tipografía, se eligió la fuente “Poppins”, puesto que no solo se quería que la fuente sea solo un estilo que intentara captar la atención del usuario, sino también era fundamental que sea legible y estéticamente agradable para el usuario. Con esta fuente, se logra lo deseado y se consigue brindar la información de manera clara dentro de la página. Además, para algunos subtitulos se utiliza la fuente "Oswald", para brindar variedad; y en caso de errores se utiliza fuentes "sans-serif" en caso de que alguna de las fuentes anteriores no funcionen.
+</p>
+<img src="images/.png" alt="Tipografia" width="30%">
+
+<h4><strong>Paleta de colores:</strong><br></h4>
+<p>
+La paleta de colores se baso en algunos colores llamativos parecidos al color azul, que tuvo ciertas variaciones en la página, como el difuminado en la imagen representativa o el degradado que tuvo en el footer.
+</p>
+<img src="images/.png" alt="Paleta colores 1" width="30%">
+
+<h4><strong>Colores neutros:</strong><br></h4>
+<p>
+El único color neutro que se eligió fue el blanco
+</p>
+<img src="images/.png" alt="Color neutro" width="30%">
+
+
 ### 4.1.2. Web Style Guidelines
 
 ## 4.2. Information Architecture
