@@ -32,7 +32,7 @@ Segmento Objetivo #3: Laboratorios que se inscriben en la aplicación
 <tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><p>Como paciente, deseo tener acceso a una plataforma tecnológica que facilite la gestión de mis citas médicas, para poder organizar mi agenda de manera eficiente y recibir una atención médica oportuna y de calidad.
 </p></td><td valign="top">US07</td><td valign="top">Registro de Nueva Cita</td></tr>
 <tr><td valign="top">US08</td><td valign="top">Selección de Especialista y Ubicación</td></tr>
-<tr><td valign="top">US09</td><td valign="top">Disponibilidad de Horarios </td></tr>
+<tr><td valign="top">US09</td><td valign="top">Disponibilidad de Horarios</td></tr>
 <tr><td valign="top">US10</td><td valign="top">Recordatorios de Cita</td></tr>
 <tr><td valign="top">US11</td><td valign="top">Cancelación y Re-agendamiento de Citas</td></tr>
 <tr><td valign="top">US12</td><td valign="top">Confirmación de Cita</td></tr>
@@ -74,37 +74,36 @@ Se presentan los siguientes user stories:
 |US05||||E01|
 |US06||||E01|
 |US07|Registro de Nueva Cita|Como paciente, quiero poder programar una nueva cita médica a través de la plataforma en línea de MedSystem para evitar tener que llamar por teléfono.|<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p></p><p></p><p></p>|E02|
-|US08|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
-|US09|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
-|US10|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
-|US11|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
-|US12|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
-|US13||||E03|
-|US14||||E03|
-|US15||||E03|
-|US16||||E03|
-|US17||||E03|
-|US18||||E03|
-|US19||||E04|
-|US20||||E04|
-|US21||||E04|
-|US22||||E04|
-|US23||||E04|
-|US24||||E04|
-|US25||||E05|
-|US26||||E05|
-|US27||||E05|
-|US28||||E05|
-|US29||||E05|
-|US30||||E05|
-|US31||||E06|
-|US32||||E06|
-|US33||||E06|
-|US34||||E06|
-|US35||||E06|
-|US36||||E06|
+|US08|Selección de Especialista y Ubicación|Como paciente, deseo poder seleccionar al especialista y la ubicación preferida para mi cita médica en MedSystem, para poder planificar de acuerdo a mis necesidades.|<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
+|US09|Disponibilidad de Horarios|Como paciente, necesito ver la disponibilidad de horarios de los especialistas en MedSystem para elegir la fecha y hora más conveniente para mi cita médica.|<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
+|US10|Recordatorios de Cita|Como paciente, quiero recibir recordatorios automáticos de mi cita médica a través de notificaciones por correo electrónico o mensajes de texto en MedSystem, para no olvidarla.|<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
+|US11|Cancelación y Re-agendamiento de Citas|Como paciente, deseo tener la opción de cancelar o reagendar mi cita médica en MedSystem en caso de imprevistos o cambios en mi agenda.|<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
+|US12|Confirmación de Cita|Como paciente, quiero recibir una confirmación instantánea de mi cita médica después de programarla en MedSystem, para tener la certeza de que ha sido registrada correctamente.|<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E02|
+|US13|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E03|
+|US14|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E03|
+|US15|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E03|
+|US16|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E03|
+|US17|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E03|
+|US18|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E03|
+|US19|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E04|
+|US20|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E04|
+|US21|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E04|
+|US22|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E04|
+|US23|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E04|
+|US24|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E04|
+|US25|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E05|
+|US26|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E05|
+|US27|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E05|
+|US28|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E05|
+|US29|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E05|
+|US30|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E05|
+|US31|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E06|
+|US32|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E06|
+|US33|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E06|
+|US34|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E06|
+|US35|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E06|
+|US36|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E06|
 
-:)
 
 ## 3.3 Impact Mapping
 
