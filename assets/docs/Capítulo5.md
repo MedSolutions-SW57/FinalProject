@@ -138,6 +138,27 @@ Hemos realizado los acceptance test para las user stories del sprint:
 | ------------------------------- |
 | Misión, Visión, Caracteristicas |
 
+#### US32
+
+#### Feature: Sección Sobre el Producto en la Landing Page
+
+**Scenario**: Visualización de la sección Sobre el Producto
+**Given** el `<usuario>` desea conocer detalles del producto
+**When** ingresa al Landing Page
+**Then** se mostrará la sección `Sobre el Producto>` que explique cómo funciona el producto, sus beneficios y ventajas competitivas.
+
+#### Examples: INPUT
+
+| usuario     |
+| ----------- |
+| Carlos Ruiz |
+
+#### Examples: OUTPUT
+
+| Sobre el producto |
+| ----------------- |
+| Funciones         |
+
 ### 5.2.1.5 Execution Evidence for Sprint Review
 
 Desarollo de la barra de navegacion para la correcta navagacion a travez de todo el documento y la seccion home.
@@ -161,6 +182,8 @@ Seccion de Contact Us y Footer:
 <img src="../images/contact.png">
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review
+
+No se realizo ningun trabajo con servicios web
 
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review
 
