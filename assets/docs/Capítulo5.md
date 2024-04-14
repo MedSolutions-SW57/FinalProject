@@ -115,6 +115,29 @@ Evidencias de los commits de los miembros del equipo:
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review
 
+Hemos realizado los acceptance test para las user stories del sprint:
+
+#### US31
+
+#### Feature: Sección About Us en la Landing Page
+
+**Scenario**: Visualización de la sección About Us
+**Given** el `<usuario>` desea conocer sobre la empresa
+**When** ingresa al Landing Page
+**Then** se mostrará la sección `<About Us>` que permita al usuario conocer la misión, visión y valores de la empresa.
+
+#### Examples: INPUT
+
+| usuario  |
+| -------- |
+| Ana Mora |
+
+#### Examples: OUTPUT
+
+| About Us                        |
+| ------------------------------- |
+| Misión, Visión, Caracteristicas |
+
 ### 5.2.1.5 Execution Evidence for Sprint Review
 
 Desarollo de la barra de navegacion para la correcta navagacion a travez de todo el documento y la seccion home.
