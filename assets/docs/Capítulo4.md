@@ -270,19 +270,19 @@ User goal 5: Como t√©cnico de laboratorio, quiero un sistema que registre autom√
 
 <img alt= "BC!" src="../images/BC1.png">
 
-<u>Bounded Context 1</u>
+<u>Bounded Context 2</u>
 
 <img alt= "BC!" src="../images/BC2.png">
 
-<u>Bounded Context 1</u>
+<u>Bounded Context 3</u>
 
 <img alt= "BC!" src="../images/BC3.png">
 
-<u>Bounded Context 1</u>
+<u>Bounded Context 4</u>
 
 <img alt= "BC!" src="../images/BC4.png">
 
-<u>Bounded Context 1</u>
+<u>Bounded Context 5</u>
 
 <img alt= "BC!" src="../images/BC5.png">
 
