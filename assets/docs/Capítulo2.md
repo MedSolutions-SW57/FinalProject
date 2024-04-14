@@ -50,8 +50,7 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 10. ¿Qué mejoras te gustaría ver en la comunicación y colaboración con los médicos que envían pedidos a tu laboratorio o consultoría?
 
 ### 2.2.2 Registro de entrevistas
-
-### 2.2.3 Registro de entrevistas
+### 2.2.3 Analisis de entrevistas
 
 ## 2.3 Needfinding
 
