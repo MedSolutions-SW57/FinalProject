@@ -140,7 +140,8 @@ Link de la Entrevista: <a href="">Link</a>
 <img alt = "Entrevista2.1" src="../images/Entrevista2.1.png">
 
 Resumen de la entrevista:
-<p></p>
+<p>
+Durante la entrevista, Gaby compartió los desafíos diarios que enfrenta en su práctica como especialista en traumatología, destacando la necesidad de herramientas tecnológicas que optimicen la gestión de citas y la comunicación interprofesional. Resaltó la importancia de características como la accesibilidad de información previa a la consulta y la seguridad de los datos médicos en plataformas digitales. Además, expresó su interés en mejorar la coordinación entre especialistas y servicios médicos, y su entusiasmo por la integración de tecnología para mejorar la atención médica en traumatología.</p>
 
 Entrevista 2:
 
@@ -208,7 +209,7 @@ Link de la Entrevista: <a href="">Link</a>
 <img alt = "Entrevista3.1" src="../images/Entrevista3.1.png">
 
 Resumen de la entrevista:
-<p></p>
+<p>Durante la entrevista con el Luis, se exploraron los desafíos principales que enfrenta su laboratorio en la recepción y gestión de información de pacientes, destacando la relevancia de la exactitud e integridad de los resultados de las pruebas. Se enfatizó la importancia de la seguridad y privacidad de los datos médicos, así como la necesidad de optimizar la coordinación entre médicos y laboratorios para la realización de pruebas. También se discutieron las funcionalidades esenciales en una plataforma web para la gestión de pedidos y resultados de pruebas médicas, resaltando la importancia de la comunicación efectiva y la colaboración con los médicos remitentes.</p>
 
 Entrevista 2:
 
