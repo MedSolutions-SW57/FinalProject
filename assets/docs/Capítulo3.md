@@ -26,12 +26,13 @@ Segmento Objetivo #3: Laboratorios que se inscriben en la aplicación
 ## 3.2 User Stories
 
 <table><tr><th valign="top"><b>Epic ID</b></th><th valign="top"><b>Epic</b></th><th valign="top"><b>User story ID</b></th><th valign="top"><b>User stories</b></th></tr>
-<tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top"><p></p></td><td valign="top">US01</td><td valign="top"></td></tr>
-<tr><td valign="top">US02</td><td valign="top"></td></tr>
-<td valign="top">US03</td><td valign="top"></td></tr>
-<tr><td valign="top">US04</td><td valign="top"></td></tr>
-<tr><td valign="top">US05</td><td valign="top"></td></tr>
-<tr><td valign="top">US06</td><td valign="top"></td></tr>
+<tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top"><p>Como developer, quiero crear un sistema médico innovador para el área de traumatología en clínicas, para optimizar los procesos que se realizan, y así mejorar la eficiencia y calidad del servicio que se brinda a los pacientes
+ </p></td><td valign="top">US01</td><td valign="top">Interfaz de usuario</td></tr>
+<tr><td valign="top">US02</td><td valign="top">Gestion de citas</td></tr>
+<td valign="top">US03</td><td valign="top">Seguimiento de historias clínicas</td></tr>
+<tr><td valign="top">US04</td><td valign="top">Herramientas de comunicación</td></tr>
+<tr><td valign="top">US05</td><td valign="top">Generación de informes</td></tr>
+<tr><td valign="top">US06</td><td valign="top">Seguridad de los datos médicos</td></tr>
 <tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><p>Como paciente, deseo tener acceso a una plataforma tecnológica que facilite la gestión de mis citas médicas, para poder organizar mi agenda de manera eficiente y recibir una atención médica oportuna y de calidad.
 </p></td><td valign="top">US07</td><td valign="top">Registro de Nueva Cita</td></tr>
 <tr><td valign="top">US08</td><td valign="top">Selección de Especialista y Ubicación</td></tr>
