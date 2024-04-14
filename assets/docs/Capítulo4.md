@@ -337,6 +337,146 @@ User goal 5: Como t√©cnico de laboratorio, quiero un sistema que registre autom√
 
 ### 4.7.2. Class Dictionary
 
+Class User
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for client</td>
+  </tr>
+  <tr>
+    <td>firstname</td>
+    <td>string</td>
+    <td>Name of the client</td>
+  </tr>
+  <tr>
+    <td>lastname</td>
+    <td>string</td>
+    <td>Last name of the client</td>
+  </tr>
+  <tr>
+    <td>gender</td>
+    <td>char</td>
+    <td>Gender of de client</td>
+  </tr>
+</table>
+
+Class Credential
+
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for client</td>
+  </tr>
+  <tr>
+    <td>username</td>
+    <td>string</td>
+    <td>Username of the client</td>
+  </tr>
+  <tr>
+    <td>password</td>
+    <td>string</td>
+    <td>Password of the client</td>
+  </tr>
+</table>
+
+Class Procedure
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for procedure</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More information about the procedure</td>
+  </tr>
+  
+</table>
+
+Class Doctor
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for doctor</td>
+  </tr>
+  <tr>
+    <td>field</td>
+    <td>string</td>
+    <td>Field of the doctor<td>
+  </tr>
+</table>
+
+Class MedicalHistory
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for MedicalHistory</td>
+  </tr>
+  <tr>
+    <td>info</td>
+    <td>string</td>
+    <td>More information about the MedicalHistory</td>
+  </tr>
+</table>
+
+Class Agenda
+
+
+<table border="1">
+  <tr>
+    <th>Attribute</th>
+    <th>Type</th>
+    <th>Description</th>
+  </tr>
+  <tr>
+    <td>id</td>
+    <td>int</td>
+    <td>Unique code for Agenda</td>
+  </tr>
+  <tr>
+    <td>listOfAppointments</td>
+    <td>list&lt;Appointment&gt;</td>
+    <td>List of appointments</td>
+  </tr>
+</table>
+
+
+
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
 <img src="../images/database_model.png" alt="database image" width="100%">
