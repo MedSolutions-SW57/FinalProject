@@ -51,6 +51,7 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 
 ### 2.2.2 Registro de entrevistas
 <u>Segmento objetivo - Paciente</u> 
+
 Entrevista 1:
 
 Fecha entrevistada: 
@@ -70,23 +71,30 @@ Link de la Entrevista: <a href="">Link</a>
 
 <img alt = "Entrevista1.1" src="../images/Entrevista1.1.png">
 
+Resumen de la entrevista:
+<p></p>
+
 Entrevista 2:
-Fecha entrevistada: 
 
-Entrevistador:
+Fecha entrevistada: 10/04/2024
 
-Entrevistado:
+Entrevistador: 
+
+Entrevistado: 
 
 Datos del entrevistado:
-- Edad:
-- Distrito:
+- Edad: 
+- Distrito: 
 
 Link de la Entrevista: <a href="">Link</a>
 
 - Minuto de Inicio: 
-- Minuto de Fin:
+- Minuto de Fin: 
 
 <img alt = "Entrevista1.2" src="../images/Entrevista1.2.png">
+
+Resumen de la entrevista:
+<p></p>
 
 Entrevista 3:
 
@@ -103,29 +111,36 @@ Datos del entrevistado:
 Link de la Entrevista: <a href="">Link</a>
 
 - Minuto de Inicio: 
-- Minuto de Fin:
+- Minuto de Fin: 
 
 <img alt = "Entrevista1.3" src="../images/Entrevista1.3.png">
 
+Resumen de la entrevista:
+<p></p>
+
 <u>Segmento objetivo - Medico</u> 
+
 Entrevista 1:
 
-Fecha entrevistada: 
+Fecha entrevistada: 10/04/2024
 
-Entrevistador:
+Entrevistador: Jorge Altamirano
 
-Entrevistado:
+Entrevistado: Gaby Manrique
 
 Datos del entrevistado:
-- Edad:
-- Distrito:
+- Edad: 50
+- Distrito: La Molina
 
 Link de la Entrevista: <a href="">Link</a>
 
-- Minuto de Inicio: 
-- Minuto de Fin:
+- Minuto de Inicio: 0:00
+- Minuto de Fin: 07:42
 
 <img alt = "Entrevista2.1" src="../images/Entrevista2.1.png">
+
+Resumen de la entrevista:
+<p></p>
 
 Entrevista 2:
 
@@ -147,10 +162,10 @@ Link de la Entrevista: <a href="">Link</a>
 <img alt = "Entrevista2.2" src="../images/Entrevista2.2.png">
 
 Resumen de la entrevista:
-
+<p></p>
 
 Entrevista 3:
-<
+
 Fecha entrevistada: 
 
 Entrevistador:
@@ -168,7 +183,11 @@ Link de la Entrevista: <a href="">Link</a>
 
 <img alt = "Entrevista2.3" src="../images/Entrevista2.3.png">
 
+Resumen de la entrevista:
+<p></p>
+
 <u>Segmento objetivo - Laboratorio</u> 
+
 Entrevista 1:
 
 Fecha entrevistada: 
@@ -184,9 +203,12 @@ Datos del entrevistado:
 Link de la Entrevista: <a href="">Link</a>
 
 - Minuto de Inicio: 
-- Minuto de Fin:
+- Minuto de Fin: 04:17
 
 <img alt = "Entrevista3.1" src="../images/Entrevista3.1.png">
+
+Resumen de la entrevista:
+<p></p>
 
 Entrevista 2:
 
@@ -207,6 +229,9 @@ Link de la Entrevista: <a href="">Link</a>
 
 <img alt = "Entrevista3.2" src="../images/Entrevista3.2.png">
 
+Resumen de la entrevista:
+<p></p>
+
 Entrevista 3:
 
 Fecha entrevistada: 
@@ -225,6 +250,9 @@ Link de la Entrevista: <a href="">Link</a>
 - Minuto de Fin:
 
 <img alt = "Entrevista3.3" src="../images/Entrevista3.3.png">
+
+Resumen de la entrevista:
+<p></p>
 
 ### 2.2.3 Analisis de entrevistas
 
