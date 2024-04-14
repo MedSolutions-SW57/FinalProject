@@ -16,7 +16,7 @@
 <table><tr><th valign="top"><b>Epic ID</b></th><th valign="top"><b>Epic</b></th><th valign="top"><b>User story ID</b></th><th valign="top"><b>User stories</b></th></tr>
 <tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top"><p>Como developer, quiero crear un sistema médico innovador para el área de traumatología en clínicas, para optimizar los procesos que se realizan, y así mejorar la eficiencia y calidad del servicio que se brinda a los pacientes
  </p></td><td valign="top">US01</td><td valign="top">Interfaz de usuario</td></tr>
-<tr><td valign="top">US02</td><td valign="top">Gestion de citas</td></tr>
+<tr><td valign="top">US02</td><td valign="top">Gestión de citas</td></tr>
 <td valign="top">US03</td><td valign="top">Seguimiento de historias clínicas</td></tr>
 <tr><td valign="top">US04</td><td valign="top">Herramientas de comunicación</td></tr>
 <tr><td valign="top">US05</td><td valign="top">Generación de informes</td></tr>
