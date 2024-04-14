@@ -4,6 +4,150 @@
 
 ### 2.1.1 Analisis Competitivo
 
+<table>
+  <tr>
+    <th colspan="6" valign="top">Competitive Analysis Landscape</th>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">¿Por qué llevar a cabo este análisis?</td>
+    <td colspan="4" valign="top">El objetivo de este análisis es identificar las características de los competidores y encontrar maneras de diferenciarnos.</td>
+  </tr>
+  <tr>
+    <td colspan="2" rowspan="2" valign="top">Startup y Competidores</td>
+    <td valign="top">MedSystem</td>
+    <td valign="top">Home Medical Management</td>
+    <td valign="top">LOLIMSA</td>
+    <td valign="top">SAMA</td>
+  </tr>
+  <tr>
+    <td valign="top"><img src="../images/logo_medsystem.jpg" alt="Logo de MedSystem"  height="100px"></td>
+    <td valign="top"><img src="../images/logo_homeMedical.png" alt="Logo de Home Medical Managment" height="100px"></td>
+    <td valign="top"><img src="../images/logo_lolimsa.jpg" alt="Logo de LOLIMSA" height="100px"></td>
+    <td valign="top"><img src="../images/logo_sama.png" alt="Logo de SAMMA" height="100px"></td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil</td>
+    <td valign="top">Overview</td>
+    <td valign="top">Plataforma de gestión de procesos de un consultorio o clínica, que cuenta con diferentes funcionalidades para pacientes, doctores y laboratorios.</td>
+    <td valign="top">Es una compañía que a través de una plataforma digital y sus profesionales, asegura la ejecución y calidad del servicio de salud domiciliaria.</td>
+    <td valign="top">Es una empresa de software médico con soluciones tecnológicas para la gestión de centros médicos como clínicas y hospitales, farmacias y cadenas de farmacias y clínicas veterinarias. </td>
+    <td valign="top">Es un consorcio de inversión dedicado a brindar servicios integrales de salud, especializados en la seguridad y salud en el trabajo. Contamos con distintas sedes a lo largo del norte del país, las cuales cuentan con el respaldo de la acreditación DIGESA/MINSA.
+</td>
+
+  </tr>
+  <tr>
+    <td valign="top">Ventaja competitiva ¿Qué valor ofrece a los clientes?</td>
+    <td valign="top">Cuenta con distintas funcionalidades como un sistema de gestión de citas en línea que permita a los pacientes y doctores programar fácilmente consultas, programación de cirugías ,exámenes y seguimientos de tratamiento o recuperaciones.</td>
+    <td valign="top">Utilizan inteligencia artificial e innovación para mejorar el servicio a los pacientes y facilitar la atención a los profesionales y prestadores de salud.</td>
+    <td valign="top">Reduce entre 10 y 20% tus costos hospitalarios utilizando las mejores prácticas de Health Management con LOLCLI, el software de gestión hospitalaria más completo de Latinoamérica.</td>
+    <td valign="top">Organización que orienta todos sus esfuerzos en realizar un servicio médico de calidad a través de la presentación de resultados confiables.</td>
+  </tr>
+  <tr>
+    <td rowspan="2" valign="top">Perfil de Marketing</td>
+    <td valign="top">Mercado objetivo</td>
+    <td valign="top">Consultorio, clínicas y hospitales.</td>
+    <td valign="top">Prestadores de salud, pacientes y personal médico</td>
+    <td valign="top">Clínicas y hospitales</td>
+    <td valign="top">Hospitales y clínicas</td>
+  </tr>
+  <tr>
+    <td valign="top">Estrategias de marketing</td>
+    <td valign="top">Publicidad por redes sociales y campañas.</td>
+    <td valign="top">Publicidad por redes sociales.</td>
+    <td valign="top">Publicidad por redes sociales.</td>
+    <td valign="top">Publicidad por redes sociales.</td>
+  </tr>
+  <tr>
+    <td rowspan="3" valign="top">Perfil de Producto</td>
+    <td valign="top">Productos & Servicios</td>
+    <td valign="top">Una plataforma para gestionar las citas médicas, programar cirugías, exámenes y seguimiento de tratamientos. Además, la plataforma almacena el historial clínico de los pacientes.</td>
+    <td valign="top">Un software basado en el diseño centrado en el paciente, con información integrada, que utiliza la geolocalización y la valoración del servicio, como forma de optimizar la gestión del modelo.</td>
+    <td valign="top">Software de gestión hospitalaria, impulsado por una plataforma de software de última generación que controla al detalle todas las actividades, desde que el paciente ingresa hasta que se retira del establecimiento</td>
+    <td valign="top">Servicios integrales de salud:
+-Exámenes médicos ocupacionales
+-Monitores ocupacionales
+-Vigilancia médica ocupacional
+-Análisis de laboratorio
+-radiografias digitales
+</td>
+  </tr>
+  <tr>
+    <td valign="top">Precios & Costos</td>
+    <td valign="top">Varían según características de la clínica, con opciones de suscripción mensual o anual.</td>
+    <td valign="top">Varían según el producto y pueden incluir tarifas de suscripción o costos de licencia.</td>
+    <td valign="top">Los precios varían según el producto y pueden incluir tarifas de suscripción mensuales o costos de licencia.</td>
+    <td valign="top">Los precios varían según el tamaño del hospital o clínica y las características específicas de la solución, con opciones de suscripción mensual o anual</td>
+  </tr>
+  <tr>
+    <td valign="top">Canales de distribución (Web y/o Móvil)</td>
+    <td valign="top">Principalmente a través de su sitio web oficial</td>
+    <td valign="top">Principalmente a través de su sitio web, con posibilidad de acceso móvil. </td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+    <td valign="top">Principalmente a través de su sitio web oficial.</td>
+  </tr>
+  <tr>
+    <td rowspan="4" valign="top">Análisis SWOT</td>
+    <td valign="top">Fortalezas</td>
+    <td valign="top">
+    	Ofrece una solución integral para la gestión de procesos en consultorios y clínicas, lo que incluye funcionalidades específicas para pacientes, médicos y laboratorios. Esta centralización de información puede mejorar la eficiencia operativa y la coordinación entre todas las partes involucradas en el proceso de atención médica.
+    </td>
+    <td valign="top">
+       Ofrece cuidados personalizados en el hogar, generando satisfacción y lealtad. Su enfoque centrado en el paciente y su capacidad de adaptación son ventajas.
+    </td>
+    <td valign="top">
+        Cuenta con amplia experiencia en software médico y ofrece soluciones integrales y personalizadas respaldadas por un sólido servicio de soporte técnico.
+    </td>
+    <td valign="top">
+        Samma ofrece una variedad de herramientas de bienestar mental y una interfaz amigable que atrae a una amplia gama de usuarios.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Debilidades</td>
+    <td valign="top">
+        La competencia en el mercado de software de gestión de consultorios y clínicas es intensa, con numerosas empresas que ofrecen soluciones similares.
+    </td>
+    <td valign="top">
+        Limitaciones geográficas y dependencia del personal pueden afectar la expansión y la consistencia de los servicios.
+    </td>
+    <td valign="top">
+        Enfrenta competencia en el mercado de software médico y puede estar sujeta a dependencia tecnológica y costos asociados con el desarrollo de soluciones.
+    </td>
+    <td valign="top">
+        La competencia en el mercado de aplicaciones de bienestar mental puede dificultar que Samma se destaque, especialmente si enfrenta problemas de usabilidad o dependencia tecnológica.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Oportunidades</td>
+    <td valign="top">
+        La creciente demanda de soluciones digitales en el sector de la salud ofrece una oportunidad para capturar una parte del mercado en constante expansión.
+    </td>
+    <td valign="top">
+        Puede expandir servicios, integrar tecnología y formar asociaciones para llegar a más clientes y mejorar la eficiencia.
+    </td>
+    <td valign="top">
+        Tiene potencial de expansión tanto nacional como internacional, además de oportunidades para desarrollar nuevas funcionalidades y establecer alianzas estratégicas.
+    </td>
+    <td valign="top">
+        La expansión internacional y la colaboración estratégica ofrecen oportunidades para llegar a nuevos mercados y asociarse con empresas o instituciones para aumentar el alcance de la aplicación.
+    </td>
+  </tr>
+  <tr>
+    <td valign="top">Amenazas</td>
+    <td valign="top">
+        Las preocupaciones sobre la privacidad y seguridad de los datos en el sector de la salud son una amenaza constante.
+    </td>
+    <td valign="top">
+        Competencia, cambios regulatorios y preocupaciones sobre privacidad y seguridad de datos pueden impactar la rentabilidad y confianza en los servicios.
+    </td>
+    <td valign="top">
+        Los posibles cambios regulatorios, preocupaciones sobre seguridad de datos y avances tecnológicos rápidos representan riesgos que podrían afectar su posición en el mercado.
+    </td>
+    <td valign="top">
+        Cambios en la regulación, críticas negativas y avances tecnológicos representan amenazas potenciales para la operación y la reputación de Samma en el mercado.
+    </td>
+  </tr>
+</table>
+
 ### 2.1.2 Estrategias y tacticas frente a competidores
 
 ## 2.2 Entrevistas
