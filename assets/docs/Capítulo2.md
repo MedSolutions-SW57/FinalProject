@@ -287,10 +287,10 @@ Datos del entrevistado:
 - Edad: 50
 - Distrito: La Molina
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Eb9Hi7qT4W5Ik-M_OdQcMLUBW7HLy0mp-tkYAZcSYEbM6A?e=daDNCa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 - Minuto de Inicio: 00:00
-- Minuto de Fin: 07:42
+- Minuto de Fin: 07:40
 
 <img alt = "Entrevista2.1" src="../images/Entrevista2.1.png">
 
@@ -362,10 +362,10 @@ Datos del entrevistado:
 - Edad: 60
 - Distrito: La Molina
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Eb9Hi7qT4W5Ik-M_OdQcMLUBW7HLy0mp-tkYAZcSYEbM6A?e=daDNCa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio: 00:00
-- Minuto de Fin: 04:17
+- Minuto de Inicio: 07:40
+- Minuto de Fin: 11:59
 
 <img alt = "Entrevista3.1" src="../images/Entrevista3.1.png">
 
