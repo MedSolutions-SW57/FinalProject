@@ -133,6 +133,8 @@ El m√©todo de navegaci√≥n entre las diversas secciones de la landing page estar√
 <td><p align="center">
   <img src="../images/wireframe_8_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 
+Figma:https://www.figma.com/file/xe8QMJ0qrwJtStkiB7l8zH/MEDSYSTEM?type=design&node-id=0%3A1&mode=design&t=ZtX8VrqTo4qt5UtH-1
+
 ### 4.3.2. Landing Page Mock-up
 
 <td><p align="center">
@@ -152,6 +154,7 @@ El m√©todo de navegaci√≥n entre las diversas secciones de la landing page estar√
 <td><p align="center">
   <img src="../images/Landing-page-mockup-8.PNG" alt="wireframes" width="100%"></p></td>
 
+Figma:https://www.figma.com/file/xe8QMJ0qrwJtStkiB7l8zH/MEDSYSTEM?type=design&node-id=0%3A1&mode=design&t=ZtX8VrqTo4qt5UtH-1
 
 ### 4.4.1. Web Applications Wireframes
 
@@ -192,6 +195,8 @@ Doctor request results
 <td><p align="center">
   <img src="../images/Wireframe-Doctor-request-results.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 
+Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
+
 ### 4.4.2. Web Applications Wireflow Diagrams
 
 User goal 1: Como desarrollador, quiero desarrollar un sistema de gesti√≥n de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente.
@@ -220,6 +225,8 @@ User goal 5: Como t√©cnico de laboratorio, quiero un sistema que registre autom√
 
 <td><p align="center">
   <img src="../images/wireframes-user-goal-5.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+
+Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
 
 ### 4.4.2. Web Applications Mock-ups
 
@@ -260,6 +267,8 @@ Doctor request results
 <td><p align="center">
   <img src="../images/Mockup-Doctor-request-results.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 
+Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
+
 ### 4.4.3. Web Applications User Flow Diagrams
 
 User goal 1: Como desarrollador, quiero desarrollar un sistema de gesti√≥n de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente.
@@ -289,6 +298,8 @@ User goal 5: Como t√©cnico de laboratorio, quiero un sistema que registre autom√
 <td><p align="center">
   <img src="../images/mockup-user-goal-5.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
 
+Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
+
 ## 4.5. Web Applications Prototyping
 
 ## 4.6. Domain-Driven Software Architecture
@@ -311,6 +322,7 @@ User goal 5: Como t√©cnico de laboratorio, quiero un sistema que registre autom√
 <img alt= "c46" src="../images/c46.png">
 
 <img alt= "c47" src="../images/c47.png">
+
 
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
