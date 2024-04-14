@@ -4,28 +4,6 @@
 
 ### 5.1.1 Software Development Environment Configuration
 
-En esta seccion se describen brevemente todas las herramientas que se han utilizado para la elaboracion del proyecto, se dividar en dos partes.
-
-#### UX/UI Design
-
-- Miro: Miro es una herramienta en línea colaborativa en tiempo real, esta permite crear diversos diagramas, mapas mentales, diagramas de flujo u otros artefactos que se necesiten en el proyecto.
-  Link: <a href="https://miro.com/es/"> https://miro.com/es/ </a>
-
-- UXPressia: UXPressia es una herramienta enfocada en lo que es la experiencia de usuario, ya que esta permite crear User Personas, Customer Journey, Impact maps, etc.
-  Link: <a href="https://uxpressia.com/"> https://uxpressia.com/ </a>
-
-- Figma: Figma es una herramienta que se enfoca en el diseño de interfaces para los usuarios y prototipado de las páginas webs, además de que este también es colaborativo por lo cual todos pueden trabajar en un mismo proyecto en simultáneo.
-  Link: <a href="https://www.figma.com/">https://miro.com/es/ </a>
-
-- Structurizr: Es una página web donde nos permite desarrollar modelos en C4, de la arquitectura de nuestro proyecto describiendo los contenedores, componentes y contextos de nuestra solución web.
-  Link: <a href="https://structurizr.com/">https://structurizr.com/ </a>
-
-#### Software Developement
-
-### 5.1.2 Source Code Management
-
-### 5.1.3 Source Code Style Guide & Conventions
-
 En esta sección se describen brevemente todas las herramientas que se han utilizado para la elaboración del proyecto, se dividirán en dos partes.
 
 #### UX/UI Design:
@@ -54,7 +32,48 @@ En esta sección se describen brevemente todas las herramientas que se han utili
 
 Para el desarrollo del proyecto hemos usado distintas plataformas para hacer las coordinaciones de los avances, el primero fue un grupo por medio de WhatsApp donde compartimos las opiniones del trabajo y los avances realizados, después para las reuniones utilizamos Discord que nos permite hacer llamadas para una correcta coordinación del trabajo. En cuanto a los avances del trabajo utilizamos github donde hacíamos commit con cada avance significativo que hacemos en los repositorios
 
+### 5.1.2 Source Code Management
+
+Hemos creado los repositorios que usaremos a lo largo de el desarrollo del proyecto esto incluye el de la documentacion, landing page, frontend y backend.
+
+- URL del repositorio de documentacion: https://github.com/LosLuminosos-SW57/FinalProject
+
+- URL del repositorio de la landing page: https://github.com/LosLuminosos-SW57/LandingPageMedSystem
+
+- URL del repositorio del Frontend: https://github.com/LosLuminosos-SW57/Frontend-MedSystem
+
+- URL del repositorio del Backend: https://github.com/LosLuminosos-SW57/Backend-MedSystem
+
+### 5.1.3 Source Code Style Guide & Conventions
+
+Para el desarrollo de nuestra solucion web emplearemos distintos lenguajes de programacion para la landing page el frontend y backend:
+
+#### HTML:
+
+- Indentación: Manténer una indentación clara para mejorar la legibilidad.
+- Semántica: Utilizar elementos HTML semánticos para una estructura clara y accesible.
+- Comentarios: Documentar el código HTML con comentarios claros y concisos.
+- Atributos Alt: Proporcionar textos alternativos para imágenes y otros elementos.
+
+#### CSS:
+
+- Nomenclatura de Clases: UtilizaR una convención de nomenclatura consistente, como BEM.
+- Separación de Intereses: Separar estilos del HTML utilizando clases y selectores específicos.
+- Reutilización de Estilos: Identificar estilos comunes y reutilízarlos para mantener la coherencia.
+
+#### JavaScript:
+
+- Nomenclatura de Variables: Utilizar nombres descriptivos, significativos y breves.
+- Modularidad: Dividir el código en módulos pequeños y reutilizables.
+- Manejo de Errores: Implementar un manejo de errores robusto.
+
 ### 5.1.4 Software Deployment Configuration
+
+Para gestionar el despliegue de nuestra aplicación, hemos optado por utilizar GitHub y GitHub Pages.
+
+GitHub es una plataforma para alojar repositorios de Git. Permite colaborar de manera eficiente en proyectos de software, facilitando el seguimiento de cambios, la revisión de código y la gestión de versiones.
+
+Despues tambien esta GitHub Pages que es una función de GitHub que permite alojar sitios web estáticos directamente desde un repositorio de GitHub. Con GitHub Pages, permitiendonos alojar nuestra pagina web sin tener que pagar un servidor externo.
 
 ## 5.2 Landing Page, Services & Applications Implementation
 
@@ -70,18 +89,50 @@ Para el desarrollo del proyecto hemos usado distintas plataformas para hacer las
 
 ### 5.2.1.5 Execution Evidence for Sprint Review
 
+Desarollo de la barra de navegacion para la correcta navagacion a travez de todo el documento y la seccion home.
+
+<img src="../images/home.png">
+
+Seccion de About Us:
+
+<img src="../images/aboutus.png">
+
+Seccion de Product:
+
+<img src="../images/product.png">
+
+Seccion de Team:
+
+<img src="../images/team.png">
+
+Seccion de Contact Us y Footer:
+
+<img src="../images/contact.png">
+
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
 ### 5.2.1.7 Software Deployment Evidence for Sprint Review
 
+Se procede a desplegar la landing page una vez terminada, por lo que se usarla Github Pages.
+
+Entrar a la configuracion del repositorio de la landing, vamos al apartado de Pages:
+
+<img src="../images/pages.png">
+
+Luego en la seccion "branch" cambiamos en donde dice "None" a "main" que es la rama donde estaria el html:
+
+<img src="../images/pages1.png">
+
+Presionamos save y tendremos que esperar que se despliegue la pagina
+
+<img src="../images/deploy.png">
+
+<img src="../images/pages2.png">
+
 ### 5.2.1.8 Team Collaboration Insights during Sprint
 
-## 5.3 Validation Interviews
+Los insights se sacaron del mismo apartado de Insights dentro del repositiorio de la landing page:
 
-### 5.3.1 Diseño de entrevistas
-
-### 5.3.2 Registro de entrevistas
-
-### 5.3.3 Evaluaciones Según heurísticas
+<img src="../images/insights.png">
 
 ## 5.4 Video About the Product
