@@ -122,9 +122,9 @@ Hemos realizado los acceptance test para las user stories del sprint:
 #### Feature: Sección About Us en la Landing Page
 
 **Scenario**: Visualización de la sección About Us
-**Given** el `<usuario>` desea conocer sobre la empresa
+**Given** el `usuario` desea conocer sobre la empresa
 **When** ingresa al Landing Page
-**Then** se mostrará la sección `<About Us>` que permita al usuario conocer la misión, visión y valores de la empresa.
+**Then** se mostrará la sección `About Us` que permita al usuario conocer la misión, visión y valores de la empresa.
 
 #### Examples: INPUT
 
@@ -158,6 +158,25 @@ Hemos realizado los acceptance test para las user stories del sprint:
 | Sobre el producto |
 | ------------------------------- |
 | Funciones |
+
+#### US36
+
+#### Feature: Barra de navegación en la Landing Page
+
+Feature: NavBar en la Landing Page
+
+Scenario: Visualización de NavBar
+  Given el `usuario` desea navegar a través de la página
+  When ingresa al Landing Page
+  Then se mostrará el `Navbar` que permita al usuario navegar de forma sencilla.
+
+Examples: INPUT
+  | usuario     |
+  | Kelly Verde |
+
+Examples: OUTPUT
+  | Navbar                                          |
+  | Home, About Us, Product, Team, Contact|
 
 ### 5.2.1.5 Execution Evidence for Sprint Review
 
