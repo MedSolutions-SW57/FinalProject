@@ -50,8 +50,183 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 10. ¿Qué mejoras te gustaría ver en la comunicación y colaboración con los médicos que envían pedidos a tu laboratorio o consultoría?
 
 ### 2.2.2 Registro de entrevistas
+<u>Segmento objetivo - Paciente</u> 
+Entrevista 1:
 
-### 2.2.3 Registro de entrevistas
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista1.1" src="../images/Entrevista1.1.png">
+
+Entrevista 2:
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista1.2" src="../images/Entrevista1.2.png">
+
+Entrevista 3:
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista1.3" src="../images/Entrevista1.3.png">
+
+<u>Segmento objetivo - Medico</u> 
+Entrevista 1:
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista2.1" src="../images/Entrevista2.1.png">
+
+Entrevista 2:
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista2.2" src="../images/Entrevista2.2.png">
+
+Resumen de la entrevista:
+
+
+Entrevista 3:
+<
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista2.3" src="../images/Entrevista2.3.png">
+
+<u>Segmento objetivo - Laboratorio</u> 
+Entrevista 1:
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista3.1" src="../images/Entrevista3.1.png">
+
+Entrevista 2:
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista3.2" src="../images/Entrevista3.2.png">
+
+Entrevista 3:
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado:
+
+Datos del entrevistado:
+- Edad:
+- Distrito:
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio: 
+- Minuto de Fin:
+
+<img alt = "Entrevista3.3" src="../images/Entrevista3.3.png">
+
+### 2.2.3 Analisis de entrevistas
 
 ## 2.3 Needfinding
 
@@ -190,6 +365,17 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 </table>
 
 ### 2.3.3 User Journey Mapping
+
+#### Segmento 1(pacientes):
+<img src="../images/journeyMap_pacientes.png" alt="JourneyMap">
+
+#### Segmento 2(doctor):
+<img src="../images/journeyMap_doctor.png" alt="JourneyMap">
+
+#### Segmento 3(laboratorio):
+<img src="../images/journeyMap_laboratorio.png" alt="JourneyMap">
+
+### 2.3.4 Empathy Mapping
 
 ### 2.3.4 Empathy Mapping
 
