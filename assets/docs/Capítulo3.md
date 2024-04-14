@@ -99,6 +99,8 @@ Se presentan los siguientes user stories:
 
 ## 3.4 Product Backlog
 
+Link del Pivotal Tracker: https://www.pivotaltracker.com/projects/2701194
+
 <table border="1">
   <tr>
     <th>Epic ID</th>

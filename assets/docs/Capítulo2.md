@@ -196,39 +196,43 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 10. ¿Qué mejoras te gustaría ver en la comunicación y colaboración con los médicos que envían pedidos a tu laboratorio o consultoría?
 
 ### 2.2.2 Registro de entrevistas
-<u>Segmento objetivo - Paciente</u> 
+
+<u>Segmento objetivo - Paciente</u>
 
 Entrevista 1:
 
-Fecha entrevistada: 
+Fecha entrevistada: 07/04/2024
 
-Entrevistador:
+Entrevistador: Manuel Alonso Gutierrez Zumaeta
 
-Entrevistado:
+Entrevistado: Gonzalo Jaime Zapata Campos
 
 Datos del entrevistado:
-- Edad:
-- Distrito:
+
+- Edad: 20 años
+- Distrito: San Martin de Porres
 
 Link de la Entrevista: <a href="">Link</a>
 
-- Minuto de Inicio: 
+- Minuto de Inicio:
 - Minuto de Fin:
 
 <img alt = "Entrevista1.1" src="../images/Entrevista1.1.png">
 
 Resumen de la entrevista:
+
 <p></p>
 
 Entrevista 2:
 
 Fecha entrevistada: 14/04/2024
 
-Entrevistador: Juan Eduardo Montes Figueroa    
+Entrevistador: Juan Eduardo Montes Figueroa
 
 Entrevistado: Abril Gloria Montes Jiménez
 
 Datos del entrevistado:
+
 - Edad: 50
 - Distrito: La Molina
 
@@ -240,31 +244,34 @@ Link de la Entrevista: <a href="https://drive.google.com/file/d/1zdDMgKeXD9p7n7V
 <img alt = "Entrevista1.2" src="../images/Entrevista1.2.PNG">
 
 Resumen de la entrevista:
+
 <p>En la entrevista, Abril discutió su búsqueda de atención médica en traumatología debido a una lesión deportiva, destacando el desafío de encontrar un especialista con disponibilidad inmediata. Prioriza la experiencia y reputación del médico al elegir un especialista, y prefiere la conveniencia de programar citas médicas en línea. Expresó la importancia de tener información detallada antes de las consultas y espera una comunicación clara y coordinación entre los profesionales de la salud. Valora la facilidad de uso y la seguridad en una plataforma web para el seguimiento del tratamiento, pero muestra preocupación por la privacidad de sus datos médicos en línea y espera que se cumplan los estándares de seguridad.</p>
 
 Entrevista 3:
 
-Fecha entrevistada: 
+Fecha entrevistada:
 
 Entrevistador:
 
 Entrevistado:
 
 Datos del entrevistado:
+
 - Edad:
 - Distrito:
 
 Link de la Entrevista: <a href="">Link</a>
 
-- Minuto de Inicio: 
-- Minuto de Fin: 
+- Minuto de Inicio:
+- Minuto de Fin:
 
 <img alt = "Entrevista1.3" src="../images/Entrevista1.3.png">
 
 Resumen de la entrevista:
+
 <p></p>
 
-<u>Segmento objetivo - Medico</u> 
+<u>Segmento objetivo - Medico</u>
 
 Entrevista 1:
 
@@ -275,6 +282,7 @@ Entrevistador: Jorge Altamirano
 Entrevistado: Gaby Manrique
 
 Datos del entrevistado:
+
 - Edad: 50
 - Distrito: La Molina
 
@@ -286,54 +294,59 @@ Link de la Entrevista: <a href="">Link</a>
 <img alt = "Entrevista2.1" src="../images/Entrevista2.1.png">
 
 Resumen de la entrevista:
+
 <p>
 Durante la entrevista, Gaby compartió los desafíos diarios que enfrenta en su práctica como especialista en traumatología, destacando la necesidad de herramientas tecnológicas que optimicen la gestión de citas y la comunicación interprofesional. Resaltó la importancia de características como la accesibilidad de información previa a la consulta y la seguridad de los datos médicos en plataformas digitales. Además, expresó su interés en mejorar la coordinación entre especialistas y servicios médicos, y su entusiasmo por la integración de tecnología para mejorar la atención médica en traumatología.</p>
 
 Entrevista 2:
 
-Fecha entrevistada: 
+Fecha entrevistada:
 
 Entrevistador:
 
 Entrevistado:
 
 Datos del entrevistado:
+
 - Edad:
 - Distrito:
 
 Link de la Entrevista: <a href="">Link</a>
 
-- Minuto de Inicio: 
+- Minuto de Inicio:
 - Minuto de Fin:
 
 <img alt = "Entrevista2.2" src="../images/Entrevista2.2.png">
 
 Resumen de la entrevista:
+
 <p></p>
 
 Entrevista 3:
 
-Fecha entrevistada: 
+Fecha entrevistada:
 
 Entrevistador:
 
 Entrevistado:
 
 Datos del entrevistado:
+
 - Edad:
 - Distrito:
 
 Link de la Entrevista: <a href="">Link</a>
 
-- Minuto de Inicio: 
+- Minuto de Inicio:
 - Minuto de Fin:
 
 <img alt = "Entrevista2.3" src="../images/Entrevista2.3.png">
 
 Resumen de la entrevista:
+
 <p></p>
 
-<u>Segmento objetivo - Laboratorio</u> 
+<u>Segmento objetivo - Laboratorio</u>
 
 Entrevista 1:
 
@@ -344,6 +357,7 @@ Entrevistador: Jorge Altamirano
 Entrevistado: Luis Protocarrero
 
 Datos del entrevistado:
+
 - Edad: 60
 - Distrito: La Molina
 
@@ -355,50 +369,55 @@ Link de la Entrevista: <a href="">Link</a>
 <img alt = "Entrevista3.1" src="../images/Entrevista3.1.png">
 
 Resumen de la entrevista:
+
 <p>Durante la entrevista con el Luis, se exploraron los desafíos principales que enfrenta su laboratorio en la recepción y gestión de información de pacientes, destacando la relevancia de la exactitud e integridad de los resultados de las pruebas. Se enfatizó la importancia de la seguridad y privacidad de los datos médicos, así como la necesidad de optimizar la coordinación entre médicos y laboratorios para la realización de pruebas. También se discutieron las funcionalidades esenciales en una plataforma web para la gestión de pedidos y resultados de pruebas médicas, resaltando la importancia de la comunicación efectiva y la colaboración con los médicos remitentes.</p>
 
 Entrevista 2:
 
-Fecha entrevistada: 
+Fecha entrevistada:
 
 Entrevistador:
 
 Entrevistado:
 
 Datos del entrevistado:
+
 - Edad:
 - Distrito:
 
 Link de la Entrevista: <a href="">Link</a>
 
-- Minuto de Inicio: 
+- Minuto de Inicio:
 - Minuto de Fin:
 
 <img alt = "Entrevista3.2" src="../images/Entrevista3.2.png">
 
 Resumen de la entrevista:
+
 <p></p>
 
 Entrevista 3:
 
-Fecha entrevistada: 
+Fecha entrevistada:
 
 Entrevistador:
 
 Entrevistado:
 
 Datos del entrevistado:
+
 - Edad:
 - Distrito:
 
 Link de la Entrevista: <a href="">Link</a>
 
-- Minuto de Inicio: 
+- Minuto de Inicio:
 - Minuto de Fin:
 
 <img alt = "Entrevista3.3" src="../images/Entrevista3.3.png">
 
 Resumen de la entrevista:
+
 <p></p>
 
 ### 2.2.3 Analisis de entrevistas
@@ -542,12 +561,15 @@ Resumen de la entrevista:
 ### 2.3.3 User Journey Mapping
 
 #### Segmento 1(pacientes):
+
 <img src="../images/journeyMap_pacientes.png" alt="JourneyMap">
 
 #### Segmento 2(doctor):
+
 <img src="../images/journeyMap_doctor.png" alt="JourneyMap">
 
 #### Segmento 3(laboratorio):
+
 <img src="../images/journeyMap_laboratorio.png" alt="JourneyMap">
 
 ### 2.3.4 Empathy Mapping
@@ -555,6 +577,7 @@ Resumen de la entrevista:
 ### 2.3.4 Empathy Mapping
 
 ### 2.3.5 As-is Scenario Mapping
+
 <p><b>Para el segmento 1 (Pacientes):</b></p>
 <img src="../images/To_Be_Scenario_Mapping_1.jpg">
 
