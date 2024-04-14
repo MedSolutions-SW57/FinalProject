@@ -17,13 +17,13 @@
     <td valign="top">MedSystem</td>
     <td valign="top">Home Medical Management</td>
     <td valign="top">LOLIMSA</td>
-    <td valign="top">SAMMA</td>
+    <td valign="top">SAMA</td>
   </tr>
   <tr>
-    <td valign="top"><img src="" alt="Logo de MedSystem" height="100px"></td>
-    <td valign="top"><img src="" alt="Logo de Home Medical Managment" height="100px"></td>
-    <td valign="top"><img src="" alt="Logo de LOLIMSA" height="100px"></td>
-    <td valign="top"><img src="" alt="Logo de SAMMA" height="100px"></td>
+    <td valign="top"><img src="../images/logo_medsystem.jpg" alt="Logo de MedSystem"  height="100px"></td>
+    <td valign="top"><img src="../images/logo_homeMedical.png" alt="Logo de Home Medical Managment" height="100px"></td>
+    <td valign="top"><img src="../images/logo_lolimsa.jpg" alt="Logo de LOLIMSA" height="100px"></td>
+    <td valign="top"><img src="../images/logo_sama.png" alt="Logo de SAMMA" height="100px"></td>
   </tr>
   <tr>
     <td rowspan="2" valign="top">Perfil</td>
