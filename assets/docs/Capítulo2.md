@@ -194,6 +194,11 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 ### 2.3.4 Empathy Mapping
 
 ### 2.3.5 As-is Scenario Mapping
+<p><b>Para el segmento 1 (Pacientes):</b></p>
+
+<p><b>Para el segmento 2 (Doctores):</b></p>
+
+<p><b>Para el segmento 3 (Laboratorios):</b></p>
 
 ## 2.4 Ubiquitous Language
 
