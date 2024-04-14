@@ -220,6 +220,17 @@ Entrevista 3:
 
 ### 2.3.3 User Journey Mapping
 
+#### Segmento 1(pacientes):
+<img src="../images/journeyMap_pacientes.png" alt="JourneyMap">
+
+#### Segmento 2(doctor):
+<img src="../images/journeyMap_doctor.png" alt="JourneyMap">
+
+#### Segmento 3(laboratorio):
+<img src="../images/journeyMap_laboratorio.png" alt="JourneyMap">
+
+### 2.3.4 Empathy Mapping
+
 ### 2.3.4 Empathy Mapping
 
 ### 2.3.5 As-is Scenario Mapping
