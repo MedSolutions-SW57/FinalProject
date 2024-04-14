@@ -12,6 +12,24 @@
 
 ## 4.3. Landing Page UI Design
 ### 4.3.1. Landing Page Wireframe
+
+<td><p align="center">
+  <img src="../images/wireframe_1_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/wireframe_2_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/wireframe_3_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/wireframe_4_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>  
+<td><p align="center">
+  <img src="../images/wireframe_5_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/wireframe_6_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/wireframe_7_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+<td><p align="center">
+  <img src="../images/wireframe_8_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+
 ### 4.3.2. Landing Page Mock-up
 
 ## 4.4. Web Applications UX/UI Design
