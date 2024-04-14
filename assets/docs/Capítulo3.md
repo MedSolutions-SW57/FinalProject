@@ -1,6 +1,7 @@
 # Capitulo 3
 
 ## 3.1 To-Be Scenario Mapping
+
 <p><b>Para el segmento 1 (Pacientes):</b></p>
 <img src="../images/To_Be_Scenario_Mapping_1.jpg">
 
@@ -58,11 +59,11 @@ Se presentan los siguientes user stories:
 |User Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
 | :-: | :-: | :-: | :-: | :-: |
 |US01| Interfaz de usuario | Como desarrollador, quiero implementar una interfaz de usuario intuitiva para MedSystem, para que los usuarios puedan navegar fácilmente y de manera fluida por la plataforma, y accedan a las funciones principales sin dificultad. ||E01|
-|US02| Gestion de citas | Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los docotres y  pacientes puedan programar y gestionar sus citas de manera eficiente. ||E01|
+|US02| Gestion de citas | Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente. ||E01|
 |US03| Seguimiento de historias clínicas | Como desarrollador, quiero incorporar una función de seguimiento de historias clínicas en MedSystem, para que los doctores puedan acceder fácilmente al historial médico de cada paciente, y puedan realizar un seguimiento preciso de su tratamiento. ||E01|
 |US04| Herramientas de comunicación | Como desarrollador, quiero implementar herramientas de comunicación para MedSystem, como mensajería encriptada, llamadas y videollamadas, para permitir una interacción directa entre los doctores y pacientes , y al mismo tiempo mantener confidencialidad de la información médica. ||E01|
 |US05| Generación de informes | Como desarrollador, necesito implementar un sistema que genere informes personalizados spbre los pacientes en MedSystem, para que permita a los doctores tener informes detallados acerca del progreso del tratamiento en los pacientes. ||E01|
-|US06| Seguridad de los datos médicos |	Como desarrollador, quiero garantizar la seguridad de los datos en MedSystem, implementado medidas robustas de protección de la información, como el cifrado de datos y el acceso basado en roles, para así proteger la privacidad y confidencialidad de los registros médicos de los pacientes y el material multimedia que les pertenece. ||E01|
+|US06| Seguridad de los datos médicos | Como desarrollador, quiero garantizar la seguridad de los datos en MedSystem, implementado medidas robustas de protección de la información, como el cifrado de datos y el acceso basado en roles, para así proteger la privacidad y confidencialidad de los registros médicos de los pacientes y el material multimedia que les pertenece. ||E01|
 |US07|Registro de Nueva Cita|Como paciente, quiero poder programar una nueva cita médica a través de la plataforma en línea de MedSystem para evitar tener que llamar por teléfono.|<p>**Escenario 1: Registro de Cita para Pacientes Registrados**</p><p>- Dado que soy un paciente registrado en MedSystem,,</p><p>- Cuando ingreso a la plataforma y selecciono la opción de programar una nueva cita médica,</p><p>- Entonces se me redirige a un formulario donde puedo ingresar los detalles de la cita, como la fecha, hora y motivo de la consulta.</p><p>**Escenario 2: Registro de Cita para Nuevos Pacientes**</p><p>- Dado que soy un nuevo paciente en MedSystem,</p><p>- Cuando accedo a la plataforma por primera vez y selecciono la opción de programar una cita médica,</p><p>- Entonces se me solicita completar un formulario de registro con mi información personal antes de poder programar la cita.</p>|E02|
 |US08|Selección de Especialista y Ubicación|Como paciente, deseo poder seleccionar al especialista y la ubicación preferida para mi cita médica en MedSystem, para poder planificar de acuerdo a mis necesidades.|<p>**Escenario 1: Selección de Especialista Disponible**</p><p>- Dado que estoy programando una cita médica en MedSystem,</p><p>- Cuando selecciono la opción de elegir un especialista,</p><p>- Entonces se me presenta una lista de especialistas disponibles junto con su especialidad y ubicación para que pueda elegir el más adecuado para mi consulta.</p><p>**Escenario 2: Selección de Ubicación para la Cita Médica**</p><p>- Dado que tengo una preferencia de ubicación para mi cita médica,</p><p>- Cuando selecciono la opción de elegir la ubicación en MedSystem,</p><p>- Entonces se me muestra un mapa interactivo con los diferentes centros médicos disponibles en mi área, lo que me permite seleccionar el más conveniente para mí.</p>|E02|
 |US09|Disponibilidad de Horarios|Como paciente, necesito ver la disponibilidad de horarios de los especialistas en MedSystem para elegir la fecha y hora más conveniente para mi cita médica.|<p>**Escenario 1: Verificación de Disponibilidad de Horarios**</p><p>- Dado que estoy buscando una cita médica en MedSystem,</p><p>- Cuando selecciono la opción de verificar la disponibilidad de horarios,</p><p>- Entonces se me muestra un calendario interactivo con los días y horarios disponibles de los especialistas para que pueda seleccionar el más adecuado para mí.</p><p>**Escenario 2: Destaque de Horarios Disponibles para Citas Urgentes**</p><p>- Dado que necesito una cita médica urgente,</p><p>- Cuando accedo a la plataforma de MedSystem y selecciono la opción de ver la disponibilidad de horarios,</p><p>- Entonces se resaltan en el calendario los próximos horarios disponibles, permitiéndome programar una cita lo antes posible.</p>|E02|
@@ -86,7 +87,7 @@ Se presentan los siguientes user stories:
 |US27|Sistema de comunicación y registro de resultados|Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.|<p>**Escenario 1:Registro automático de resultados**</p><p>- Dado, que un técnico de laboratorio completa un análisis.</p><p>- Cuando, finaliza el proceso, los resultados se registran automáticamente en el sistema.</p><p>- Entonces, el sistema confirma el registro exitoso de los resultados.</p><p>**Escenario 2:Comunicación de resultados al médico**</p><p>- Dado, que un técnico de laboratorio finaliza el registro de resultados.</p><p>- Cuando, utiliza la funcionalidad de comunicación para enviar los resultados al médico a cargo.</p><p>- Entonces, el sistema envía los resultados de manera rápida y eficiente al médico a través de la aplicación.</p>|E05|
 |US28|Protocolo de integridad para las muestras en el proceso de análisis|Como técnico de laboratorio, quiero un protocolo actualizado que asegure la integridad de las muestras durante todo el proceso, desde la recolección hasta el análisis, minimizando así la posibilidad de resultados incorrectos debido a muestras comprometidas.|<p>**Escenario 1:Aplicación del protocolo de integridad**</p><p>- Dado, que un técnico de laboratorio comienza el proceso de análisis de muestras.</p><p>- Cuando, sigue el protocolo de integridad establecido para garantizar la calidad de las muestras.</p><p>- Entonces, se llevan a cabo las medidas necesarias para asegurar que las muestras se mantengan íntegras durante todo el proceso.</p><p>**Escenario 2:Identificación de muestras comprometidas**</p><p>- Dado, que un técnico de laboratorio está realizando un análisis.</p><p>- Cuando, se detecta una muestra comprometida según el protocolo de integridad.</p><p>- Entonces, se toman acciones específicas, como la repetición del análisis o la notificación al supervisor, para evitar resultados incorrectos debido a muestras comprometidas.</p>|E05|
 |US29|Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas|Como técnico de laboratorio, quiero un sistema de registro de resultados que considere automáticamente las implicaciones clínicas de los mismos, proporcionando información contextual al médico y facilitando la toma de decisiones informadas sobre el cuidado del paciente|<p>**Escenario 1:Registro de resultados con consideraciones clínicas automatizadas**</p><p>- Dado, que un técnico de laboratorio completa el registro de resultados de un análisis.</p><p>- Cuando,el sistema automáticamente evalúa las implicaciones clínicas de los resultados. </p><p>- Entonces, proporciona información contextual relevante al médico para apoyar la toma de decisiones informadas sobre el cuidado del paciente.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E05|
-|US30|||<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2: Confirmación de precisión en las consideraciones clínicas**</p><p>- Dado, que un técnico de laboratorio revisa los resultados registrados con consideraciones clínicas automatizadas.</p><p>- Cuando, confirma que la información proporcionada es precisa y útil para el médico.</p><p>- Entonces, se asegura de que las consideraciones clínicas automatizadas estén contribuyendo positivamente a la calidad de la atención médica.</p>|E05|
+|US30|Alertas para detectar problemas en el resultados de las muestras|Como técnico de laboratorio, deseo una función de alertas automáticas que me notifique sobre posibles discrepancias entre resultados de análisis de muestras de un mismo paciente, permitiéndome tomar medidas preventivas y garantizar la precisión de los resultados.|<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2: Confirmación de precisión en las consideraciones clínicas**</p><p>- Dado, que un técnico de laboratorio revisa los resultados registrados con consideraciones clínicas automatizadas.</p><p>- Cuando, confirma que la información proporcionada es precisa y útil para el médico.</p><p>- Entonces, se asegura de que las consideraciones clínicas automatizadas estén contribuyendo positivamente a la calidad de la atención médica.</p>|E05|
 |US31|Sección About Us|Como usuario, quiero encontrar una sección "About Us" en la landing page para conocer la misión, visión y valores de la empresa.|<p>**Escenario 1: Usuario accede a la sección "About Us"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección "About Us".</p><p>- Entonces, encuentra información detallada sobre la historia, misión, visión y valores de la empresa.</p><p>**Escenario 2: Información actualizada en "About Us"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando,revisa la sección "About Us".</p><p>- Entonces, nota que la información está actualizada con los últimos logros y noticias relevantes de la empresa.</p>|E06|
 |US32|Sección sobre el Producto|Como usuario, deseo encontrar una sección dedicada que describa detalladamente el producto o servicio ofrecido por la aplicación.|<p>**Escenario 1: Usuario accede a la sección "Sobre el Producto"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección "Sobre el Producto".</p><p>- Entonces, encuentra una descripción detallada que explica cómo funciona el producto, sus beneficios y ventajas.</p><p>**Escenario 2: Destacar Ventajas Competitivas en la Sección "Sobre el Producto"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección "Sobre el Producto".</p><p>- Entonces, encuentra información que destaca las ventajas competitivas del producto en comparación con otros productos similares.</p>|E06|
 |US33|Funciones que ofrece al paciente|Como paciente, quiero encontrar una sección que detalle las funciones clave que la aplicación ofrece para satisfacer mis necesidades.|<p>**Escenario 1: Usuario accede a la sección de Funciones**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección de Funciones.</p><p>- Entonces, encuentra una lista detallada de las funciones clave que la aplicación ofrece, con explicaciones claras de cada una.</p><p>**Escenario 2: Demostración de Funcionalidades en la Sección de Funciones**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección de Funciones.</p><p>- Entonces, encuentra demostraciones interactivas o videos que muestran cómo utilizar las diferentes funcionalidades de la aplicación.</p>|E06|
@@ -97,3 +98,302 @@ Se presentan los siguientes user stories:
 ## 3.3 Impact Mapping
 
 ## 3.4 Product Backlog
+
+<table border="1">
+  <tr>
+    <th>Epic ID</th>
+    <th>User Story ID</th>
+    <th>User Story</th>
+    <th>Descripción</th>
+    <th>Story Points</th>
+    <th>Prioridad</th>
+  </tr>
+    <tr>
+    <td>E06</td>
+    <td>US36</td>
+    <td>Barra de navegación</td>
+    <td>Como usuario, quiero una barra de navegación bien organizada en la landing page para poder acceder fácilmente a las diferentes secciones.</td>
+    <td>3</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E06</td>
+    <td>US32</td>
+    <td>Sección sobre el Producto</td>
+    <td>Como usuario, deseo encontrar una sección dedicada que describa detalladamente el producto o servicio ofrecido por la aplicación.</td>
+    <td>3</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E06</td>
+    <td>US31</td>
+    <td>Sección About Us</td>
+    <td>Como usuario, quiero encontrar una sección "About Us" en la landing page para conocer la misión, visión y valores de la empresa.</td>
+    <td>3</td>
+    <td>Alta</td>
+  </tr>
+    <tr>
+    <td>E06</td>
+    <td>US34</td>
+    <td>Sección de contactos</td>
+    <td>Como usuario, quiero encontrar una sección de contactos para poder comunicarse fácilmente con el equipo de la empresa.</td>
+    <td>1</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>E06</td>
+    <td>US33</td>
+    <td>Funciones que ofrece al cliente</td>
+    <td>Como paciente, quiero encontrar una sección que detalle las funciones clave que la aplicación ofrece para satisfacer mis necesidades.</td>
+    <td>2</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>E06</td>
+    <td>US35</td>
+    <td>Sección sobre el equipo</td>
+    <td>Como usuario, quiero encontrar una sección dedicada que presente información sobre el equipo detrás de la empresa.</td>
+    <td>2</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>E01</td>
+    <td>US01</td>
+    <td>Interfaz de usuario</td>
+    <td>Como desarrollador, quiero implementar una interfaz de usuario intuitiva para MedSystem, para que los usuarios puedan navegar fácilmente y de manera fluida por la plataforma, y accedan a las funciones principales sin dificultad.</td>
+    <td>5</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E01</td>
+    <td>US02</td>
+    <td>Gestión de citas</td>
+    <td>Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente.</td>
+    <td>8</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E01</td>
+    <td>US03</td>
+    <td>Seguimiento de historias clínicas</td>
+    <td>Como desarrollador, quiero incorporar una función de seguimiento de historias clínicas en MedSystem, para que los doctores puedan acceder fácilmente al historial médico de cada paciente, y puedan realizar un seguimiento preciso de su tratamiento.</td>
+    <td>5</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E01</td>
+    <td>US04</td>
+    <td>Herramientas de comunicación</td>
+    <td>Como desarrollador, quiero implementar herramientas de comunicación para MedSystem, como mensajería encriptada, llamadas y videollamadas, para permitir una interacción directa entre los doctores y pacientes , y al mismo tiempo mantener confidencialidad de la información médica.</td>
+    <td>3</td>
+    <td>Media</td>
+  </tr>
+  <tr>
+    <td>E01</td>
+    <td>US05</td>
+    <td>Generación de informes</td>
+    <td>Como desarrollador, necesito implementar un sistema que genere informes personalizados spbre los pacientes en MedSystem, para que permita a los doctores tener informes detallados acerca del progreso del tratamiento en los pacientes.</td>
+    <td>2</td>
+    <td>Baja</td>
+  </tr>
+  <tr>
+    <td>E01</td>
+    <td>US06</td>
+    <td>Seguridad de los datos médicos</td>
+    <td>Como desarrollador, quiero garantizar la seguridad de los datos en MedSystem, implementado medidas robustas de protección de la información, como el cifrado de datos y el acceso basado en roles, para así proteger la privacidad y confidencialidad de los registros médicos de los pacientes y el material multimedia que les pertenece.</td>
+    <td>8</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E02</td>
+    <td>US07</td>
+    <td>Registro de Nueva Cita</td>
+    <td>Como paciente, quiero poder programar una nueva cita médica a través de la plataforma en línea de MedSystem para evitar tener que llamar por teléfono.</td>
+    <td>2</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E02</td>
+    <td>US08</td>
+    <td>Selección de Especialista y Ubicación</td>
+    <td>Como paciente, deseo poder seleccionar al especialista y la ubicación preferida para mi cita médica en MedSystem, para poder planificar de acuerdo a mis necesidades.</td>
+    <td>8</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E02</td>
+    <td>US09</td>
+    <td>Disponibilidad de Horarios</td>
+    <td>Como paciente, necesito ver la disponibilidad de horarios de los especialistas en MedSystem para elegir la fecha y hora más conveniente para mi cita médica.</td>
+    <td>3</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E02</td>
+    <td>US012</td>
+    <td>Confirmación de Cita</td>
+    <td>Como paciente, quiero recibir una confirmación instantánea de mi cita médica después de programarla en MedSystem, para tener la certeza de que ha sido registrada correctamente.</td>
+    <td>1</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E02</td>
+    <td>US10</td>
+    <td>Recordatorios de Cita</td>
+    <td>Como paciente, quiero recibir recordatorios automáticos de mi cita médica a través de notificaciones por correo electrónico o mensajes de texto en MedSystem, para no olvidarla.</td>
+    <td>5</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E02</td>
+    <td>US11</td>
+    <td>Cancelación y Re-agendamiento de Citas</td>
+    <td>Como paciente, deseo tener la opción de cancelar o reagendar mi cita médica en MedSystem en caso de imprevistos o cambios en mi agenda.</td>
+    <td>5</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E03</td>
+    <td>US17</td>
+    <td>Comunicación Segura con los Pacientes</td>
+    <td>Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.</td>
+    <td>8</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E03</td>
+    <td>US16</td>
+    <td>Alertas de Cambios en Resultados de Análisis</td>
+    <td>Como médico traumatológico, quiero recibir alertas automáticas sobre cambios significativos en los resultados de los análisis médicos de mis pacientes, para poder responder rápidamente a cualquier nueva información relevante y ajustar los tratamientos según sea necesario.</td>
+    <td>3</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E03</td>
+    <td>US13</td>
+    <td>Acceso Eficiente al Historial Médico Completo</td>
+    <td>Como médico traumatológico, quiero poder acceder rápidamente al historial médico completo de mis pacientes, incluyendo su historial de tratamientos pasados y resultados de análisis, para poder evaluar su progreso de manera eficiente y tomar decisiones informadas sobre los próximos pasos del tratamiento</td>
+    <td>1</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E03</td>
+    <td>US14</td>
+    <td>Notificaciones de Citas de Seguimiento</td>
+    <td>Como médico traumatológico, quiero recibir notificaciones automáticas sobre citas de seguimiento programadas con mis pacientes, para poder planificar mi agenda con anticipación y garantizar que ningún paciente se quede sin seguimiento adecuado.</td>
+    <td>5</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E03</td>
+    <td>US15</td>
+    <td>Actualización de Planes de Tratamiento</td>
+    <td>Como médico traumatológico, quiero tener la capacidad de ajustar y actualizar los planes de tratamiento de mis pacientes directamente desde la plataforma MedSystem, para poder adaptar los tratamientos a medida que evoluciona la condición del paciente o surgen nuevas necesidades médicas.</td>
+    <td>2</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E03</td>
+    <td>US18</td>
+    <td>Análisis y Evaluación de Eficacia del Tratamiento</td>
+    <td>Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.</td>
+    <td>5</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E04</td>
+    <td>US24</td>
+    <td>Registro de eventos importantes en el historial médico</td>
+    <td>Como doctor, necesito registrar eventos importantes en el historial médico de mis pacientes, como hospitalizaciones, cirugías importantes, cambios significativos en el estado de salud o eventos relevantes en la historia médica familiar, para tener una visión completa y contextualizada de la salud del paciente a lo largo del tiempo.</td>
+    <td>2</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E04</td>
+    <td>US19</td>
+    <td>Acceso rápido al historial médico del paciente</td>
+    <td>Como doctor, necesito poder acceder rápidamente al historial médico completo de mis pacientes para revisar su historial de enfermedades, tratamientos pasados, alergias y otros datos relevantes antes de una consulta o procedimiento.</td>
+    <td>8</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E04</td>
+    <td>US20</td>
+    <td>Visualización detallada del historial médico</td>
+    <td>Como doctor, necesito poder visualizar de manera detallada el historial médico de mis pacientes, incluyendo información como diagnósticos previos, resultados de exámenes, medicaciones actuales y pasadas, procedimientos realizados, y notas de otros médicos o especialistas.</td>
+    <td>3</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E04</td>
+    <td>US22</td>
+    <td>Registro de nuevas entradas en el historial médico</td>
+    <td>Como doctor, necesito poder registrar nuevas entradas en el historial médico de mis pacientes, como nuevos diagnósticos, tratamientos recetados, resultados de exámenes o notas de la consulta actual, para mantener un registro completo y actualizado de su historial de salud.</td>
+    <td>5</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E04</td>
+    <td>US21</td>
+    <td>Actualización en tiempo real del historial médico</td>
+    <td>Como doctor, necesito que cualquier actualización realizada en el historial médico de un paciente se refleje inmediatamente en el sistema, para garantizar que siempre esté trabajando con la información más reciente y precisa.</td>
+    <td>1</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E04</td>
+    <td>US23</td>
+    <td>Seguridad y privacidad del historial médico</td>
+    <td>Como doctor, necesito que el acceso al historial médico de mis pacientes esté protegido por medidas de seguridad robustas, y que se cumplan estrictamente las regulaciones de privacidad de datos para garantizar la confidencialidad y la integridad de la información médica sensible.</td>
+    <td>5</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E05</td>
+    <td>US30</td>
+    <td>Alertas para detectar problemas en los resultados de las muestras</td>
+    <td>Como técnico de laboratorio, deseo una función de alertas automáticas que me notifique sobre posibles discrepancias entre resultados de análisis de muestras de un mismo paciente, permitiéndome tomar medidas preventivas y garantizar la precisión de los resultados.</td>
+    <td>3</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E05</td>
+    <td>US27</td>
+    <td>Sistema de comunicación y registro de resultados</td>
+    <td>Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.</td>
+    <td>5</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E05</td>
+    <td>US26</td>
+    <td>Acceso a los protocolos actualizados en la aplicación web del laboratorio</td>
+    <td>Como técnico de laboratorio, quiero una funcionalidad en la aplicación web que me permita acceder y revisar los protocolos actualizados de análisis y procedimientos, para asegurar que estoy siguiendo las últimas directrices y garantizar la calidad en la ejecución de las pruebas médicas.</td>
+    <td>1</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E05</td>
+    <td>US28</td>
+    <td>Protocolo de integridad para las muestras en el proceso de análisis</td>
+    <td>Como técnico de laboratorio, quiero un protocolo actualizado que asegure la integridad de las muestras durante todo el proceso, desde la recolección hasta el análisis, minimizando así la posibilidad de resultados incorrectos debido a muestras comprometidas.</td>
+    <td>8</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E05</td>
+    <td>US25</td>
+    <td>Interfaz personalizable para mejorar eficiencia en los análisis medicos</td>
+    <td>Como técnico de laboratorio, necesito una interfaz intuitiva y personalizable en el sistema de análisis para adaptarla a las necesidades específicas de cada tipo de prueba y mejorar la eficiencia en la ejecución de los análisis médicos</td>
+    <td>2</td>
+    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>E05</td>
+    <td>US29</td>
+    <td>Sistema de registro de resultados con consideraciones clínicas automatizadas</td>
+    <td>Como técnico de laboratorio, quiero un sistema de registro de resultados que considere automáticamente las implicaciones clínicas de los mismos, proporcionando información contextual al médico y facilitando la toma de decisiones informadas sobre el cuidado del paciente</td>
+    <td>5</td>
+    <td>Alta</td>
+  </tr>
+</table>
