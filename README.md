@@ -2275,4 +2275,7 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 ## Conclusiones y recomendaciones
 ## Video About the Team 
 
+---
+<br>
+# Anexos
 
