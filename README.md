@@ -2269,5 +2269,10 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 
 ## 5.4 Video About the Product
 
+---
+<br>
+# Conclusiones
+## Conclusiones y recomendaciones
+## Video About the Team 
 
 
