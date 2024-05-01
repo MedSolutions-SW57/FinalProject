@@ -31,10 +31,12 @@
 # Registro de Versiones del informe
 | Version | Fecha | Autor | Descripcion de Modificacion |
 | ----------- | ----------- | ----------- | ----------- |
-| 0.0 | 28/03/2024 |Grupo 1 |Se crea el documento |
+| 0.1 | 28/03/2024 |Jorge Altamirano, Sebastian Flores, Carlos Guimaraes, Manuel Gutierrez, Juan Montes |Se crea el documento, LeanUX, Entrevistas, Web Applicaction wireframes and mockups, product backlog, sprint 1 |
+| 0.2 | 03/05/2024 |Jorge Altamirano, Sebastian Flores, Carlos Guimaraes, Manuel Gutierrez, Juan Montes | Correcciones de la entrega anterior y realizacion del sprint 2
 - - -
 # Project Report Collaboration Insights
-[URL del repositorio](https://github.com/LosLuminosos-SW57/FinalProject.git)
+Link del repositorio de la documentacion: [URL del repositorio](https://github.com/LosLuminosos-SW57/FinalProject.git)
+Link del repositoiro del frontend: [URL del repositorio](https://github.com/LosLuminosos-SW57/medSystem-FrontEnd)
 
 (Imagenes de los commits cada entrega)
 - - -
