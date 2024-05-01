@@ -604,23 +604,15 @@ Analizando las entrevistas de Gonzalo y Abril, es posible identificar varias nec
 
 ## 2.4 Ubiquitous Language
 
-**Paciente**: Un individuo que busca atención médica en el campo de la traumatología.
-<br>
-**Historial Médico**: El registro completo de la información médica y el historial de tratamientos de un paciente.
-<br>
-**Cita Médica**: Una programación de tiempo específico para la atención médica entre un paciente y un médico.
-<br>
-**Análisis Médico**: Proceso de examinar muestras biológicas para obtener información sobre la salud de un paciente.
-<br>
-**Tratamiento**: Un plan de acción médico recomendado para abordar una condición específica del paciente.
-<br>
-**Resultados de Análisis**: Los hallazgos y conclusiones obtenidos a partir de los análisis médicos realizados en muestras de pacientes.
-<br>
-**Notificaciones**: Mensajes automáticos enviados a pacientes y médicos para recordatorios de citas, resultados de análisis, etc.
-<br>
-**Comunicación Segura**: La capacidad de intercambiar información sensible de manera segura entre pacientes y médicos.
-<br>
-**Personal de Laboratorio**: Profesionales responsables de realizar análisis médicos en las muestras de los pacientes.
-<br>
-**Muestra**: Material biológico proporcionado por un paciente para su análisis médico.
-<br>
+| Terms and definitions | Términos y definiciones                                                                                       |
+|-----------------------|---------------------------------------------------------------------------------------------------------------|
+| Patient               | Un individuo que busca atención médica en el campo de la traumatología.                                       |
+| Medical history       | El registro completo de la información médica y el historial de tratamientos de un paciente.                  |
+| Medical appointment   | Una programación de tiempo específico para la atención médica entre un paciente y un médico.                  |
+| Medical analysis      | Proceso de examinar muestras biológicas para obtener información sobre la salud de un paciente.               |
+| Treatment             | Un plan de acción médico recomendado para abordar una condición específica del paciente.                      |
+| Analysis results      | Los hallazgos y conclusiones obtenidos a partir de los análisis médicos realizados en muestras de pacientes.  |
+| Notifications         | Mensajes automáticos enviados a pacientes y médicos para recordatorios de citas, resultados de análisis, etc. |
+| Secure Communication  | La capacidad de intercambiar información sensible de manera segura entre pacientes y médicos.                 |
+| Laboratory staff      | Profesionales responsables de realizar análisis médicos en las muestras de los pacientes.                     |
+| Sample                | Material biológico proporcionado por un paciente para su análisis médico.                                     |
