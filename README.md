@@ -229,26 +229,27 @@ Se aplica la técnica 5W-2H que permite analizar las necesidades de nuestros usu
 
 - **What(¿Qué?)**
 
-  El problema radica en la falta de un sistema integral y automatizado en el área de traumatología, lo que resulta en largos tiempos de espera para programar consultas, cirugías y exámenes. Esto afecta la experiencia del paciente y puede obstaculizar su recuperación. 
+  El problema radica en la falta de un sistema integral y automatizado en el área de traumatología, lo que resulta en largos tiempos de espera para programar consultas, cirugías y exámenes. Esto afecta la experiencia del paciente y puede obstaculizar su recuperación.
 - **When(¿Cuándo?)**
-  
-  El problema ocurre cuando los pacientes necesitan atención médica en el área de traumatología y enfrentan dificultades para programar consultas, cirugías y exámenes. Los pacientes utilizan el producto para gestionar sus citas y seguimientos de tratamiento.
+
+  El problema se manifiesta en el momento en que los pacientes requieren atención médica traumatológica, especialmente en situaciones que demandan decisiones rápidas y coordinadas entre múltiples actores. Las demoras pueden ocurrir en cualquier momento del proceso de atención, desde la consulta inicial hasta la realización de procedimientos o intervenciones quirúrgicas.
 - **Where(¿Dónde?)**
-  
-  Los pacientes pueden encontrarse en sus hogares, trabajos u otros lugares cuando utilizan el sistema para gestionar sus citas y seguimientos de tratamiento. El problema surge principalmente en consultorios médicos y clínicas de traumatología.
+
+  Los problemas se observan en la atención médica traumatológica, tanto en consultorios como en clínicas. Específicamente, se destacan situaciones como la evaluación de interconsultas y la gestión de citas, donde la estructura actual de atención presenta deficiencias.
 - **Who(¿Quién?)**
-  
-  Los pacientes que necesitan atención médica en traumatología, así como los especialistas médicos y el personal administrativo de consultorios y clínicas, están involucrados en el problema. Los pacientes y los especialistas médicos utilizarán el sistema propuesto.
+
+  El problema afecta tanto a pacientes como a especialistas en traumatología, así como a otros actores involucrados en el proceso de atención médica, como personal administrativo y de apoyo.
 - **Why(¿Por qué?)**
 
-  La falta de un sistema integral y automatizado en el área de traumatología conduce a largos tiempos de espera y a una gestión ineficiente de las citas y tratamientos. La dispersión de información médica y la comunicación limitada entre médicos y pacientes agravan la situación.
+  El problema surge debido a la falta de comunicación eficiente entre los diferentes actores involucrados, la falta de centralización en el almacenamiento de historias clínicas, la complejidad en la gestión de citas y la falta de acceso a la atención médica oportuna.
 - **How(¿Cómo?)**
-  
-  Los clientes utilizan el producto en condiciones de necesidad médica, cuando requieren atención en traumatología y deben programar citas, cirugías y exámenes. La situación ha llevado a la necesidad de una solución tecnológica que simplifique la gestión de citas y mejore la comunicación entre pacientes y especialistas.
+
+  El problema se diferencia del estado óptimo por la presencia de demoras en la atención, complicaciones graves para los pacientes y una falta de accesibilidad generalizada. La tendencia indica una necesidad creciente de soluciones tecnológicas que mejoren la comunicación, la gestión de datos y la accesibilidad en la atención traumatológica.
 - **How much(¿Cuánto?)**
 
-  La Encuesta Nacional de Hogares (ENAHO) de 2022 revela que 7 de cada 10 personas que necesitaron atención médica no la obtuvieron, lo que indica que una gran cantidad de personas son afectadas por problemas de acceso y gestión en el área de salud, aunque no todos se refieren específicamente a traumatología. Sin embargo, la problemática específicamente en traumatología también puede afectar a una gran cantidad de pacientes que enfrenta demoras en el proceso de atención.
-  
+  La Encuesta Nacional de Hogares (ENAHO) de 2022 revela que 7 de cada 10 personas que necesitaron atención médica no la obtuvieron, lo que indica que una gran cantidad de personas son afectadas por problemas de acceso y gestión en el área de salud. Los costos asociados pueden ser significativos, tanto en términos de salud pública como en la calidad de vida de los pacientes y la eficiencia de los servicios médicos.
+
+
 ### 1.2.2. Lean UX Process	
 ###   1.2.2.1. Lean UX Problem Statements	
 El estado actual de la atención médica en el campo de la traumatología se ha centrado principalmente en la prestación de servicios tradicionales, lo que ha resultado en demoras significativas en los procedimientos, interconsultas ineficaces y una falta de accesibilidad para muchos pacientes. Lo que los productos/servicios existentes no logran abordar es la integración efectiva de tecnología para facilitar la comunicación entre doctores y pacientes, optimizar el seguimiento de tratamientos, centralizar el almacenamiento de historias clínicas y simplificar la gestión de citas.
