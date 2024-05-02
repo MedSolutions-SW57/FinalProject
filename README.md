@@ -296,7 +296,26 @@ Nuestro enfoque inicial será dirigirnos tanto a doctores especialistas en traum
   - **¿Cómo debe verse nuestro producto y comportarse?**
 
     El producto debe tener una interfaz limpia e intuitiva, ser fácil de navegar e integrarse perfectamente con los sistemas de atención médica actuales para los proveedores de atención médica. Además, debe ser fácil de usar y accesible para pacientes de todos los grupos demográficos.
-    
+
+- **User Benefits:**
+  - **Acceso rápido y fácil a la atención médica en traumatología:** Los usuarios pueden obtener atención médica de forma rápida y sencilla, lo que les permite abordar sus necesidades de salud de manera oportuna.
+  - **Gestión eficiente de citas y procesos médicos:** Los usuarios pueden gestionar sus citas y procesos médicos de manera eficiente, lo que reduce los tiempos de espera y mejora la organización en la clínica.
+  - **Comunicación fluida entre pacientes y especialistas:** Los usuarios pueden comunicarse de manera fluida con los especialistas médicos, lo que facilita la discusión de problemas de salud y la obtención de orientación médica adecuada.
+  - **Centralización de registros médicos para una toma de decisiones informada:** Los usuarios tienen acceso a sus registros médicos centralizados, lo que les permite tomar decisiones informadas sobre su salud y tratamiento en colaboración con los especialistas.
+
+- **Business Assumptions:**
+  - Existe demanda de un sistema de programación y gestión de citas simplificado en consultorios de traumatología.
+  - Las instituciones médicas están dispuestas a adoptar nuevas tecnologías para mejorar sus procesos de programación de citas y gestión de pacientes.
+  - Las consultas virtuales son efectivas para satisfacer las necesidades de pacientes y profesionales médicos en traumatología.
+  - Las características y beneficios de la plataforma conducirán a una mayor eficiencia y una mayor satisfacción del paciente, lo que resultará en rentabilidad para el negocio.
+
+- **Features:**
+  - **Programación de citas en línea:** Permite a los usuarios reservar citas de manera conveniente a través de una interfaz fácil de usar.
+  - **Consulta Virtual:** Permite a los usuarios tener consultas con especialistas médicos de forma remota mediante llamadas de video o audio.
+  - **Historias clínicas centralizadas:** Proporciona a los usuarios acceso seguro a su historial médico, resultados de pruebas y planes de tratamiento.
+  - **Recordatorios automatizados de citas:** Envía recordatorios automatizados a los usuarios por correo electrónico o SMS para notificarles sobre citas próximas.
+  - **Canales de comunicación seguros:** Facilita la comunicación entre usuarios y profesionales médicos mientras se mantiene la seguridad de los datos y la confidencialidad del paciente. 
+
 ###   1.2.2.3. Lean UX Hypothesis Statements	
 * Creemos que los tiempos de espera se reducirán significativamente si los pacientes puede programar citas de manera rápida y eficiente a través de una plataforma en línea
 * Creemos que la comunicación entre especialistas mejorará si se implementa un sistema para compartir historias clínicas y procesos médicos de manera rápida y efectiva
