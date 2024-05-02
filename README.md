@@ -766,13 +766,19 @@ Analizando las entrevistas de Gonzalo y Abril, es posible identificar varias nec
 
 ### 2.3.1 User Personas
 
+Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas. Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
+
 - Paciente:
+
   <img src="../images/Marcos Suarez.png">
 
 - Doctor:
+
   <img src="../images/luistorrres.png">
 
 ### 2.3.2 User Task Matrix
+
+En esta sección se presenta el user task matrix de los segmentos objetivos, con el fin de indentificar la frecuencia de las actividades realizadas por los usuarios, y de esta manera se refleja la importancia de determinadas tareas.
 
 <table>
     <thead>
@@ -906,6 +912,8 @@ Analizando las entrevistas de Gonzalo y Abril, es posible identificar varias nec
 
 ### 2.3.3 User Journey Mapping
 
+En esta sección se presentan los User Journey Mapping de los segmentos objetivos, que realizamos con el fin de dar a entender cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
+
 #### Segmento 1(pacientes):
 
 <img src="../images/journeyMap_pacientes.png" alt="JourneyMap">
@@ -920,9 +928,13 @@ Analizando las entrevistas de Gonzalo y Abril, es posible identificar varias nec
 
 ### 2.3.4 Empathy Mapping
 
+En esta sección mostramos los empathy mapping de los segmentos objetivos realizados con la información recopilada de componentes anteriores.
+
 <img src="../images/Empathy map.png" alt="EmpathyMap">
 
 ### 2.3.5 As-is Scenario Mapping
+
+En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia de ideas individual, revisión e identificación de fases como columnas, para conseguir los As-is Scenario Mapping de los segmentos objetivos.
 
 <p><b>Para el segmento 1 (Pacientes):</b></p>
 <img src="../images/To_Be_Scenario_Mapping_1.jpg">
@@ -961,6 +973,8 @@ Analizando las entrevistas de Gonzalo y Abril, es posible identificar varias nec
 # Capitulo 3
 
 ## 3.1 To-Be Scenario Mapping
+
+En esta sección se presenta el mapeo de los escenarios, realizando una tabla con la situación a mejorar del segmento objetivo, analizando que pasos se realizarán y cómo se siente.
 
 <p><b>Para el segmento 1 (Pacientes):</b></p>
 <img src="../images/To_Be_Scenario_Mapping_1.jpg">
@@ -1056,6 +1070,8 @@ Se presentan los siguientes user stories:
 |US36|Barra de navegación|Como usuario, quiero una barra de navegación bien organizada en la landing page para poder acceder fácilmente a las diferentes secciones.|<p>**Escenario 1:Usuario utiliza la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para acceder a diferentes secciones.</p><p>- Entonces, encuentra que los enlaces funcionan correctamente y lo llevan a las páginas correspondientes.</p><p>**Escenario 2: Navegación intuitiva en la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para moverse por la página.</p><p>- Entonces, encuentra que la disposición de los enlaces es intuitiva y facilita la navegación por las diferentes secciones de la página.</p>|E06|
 
 ## 3.3 Impact Mapping
+
+En esta sección se muestra un gráfico que incluye los business goals del negocio así como tiene un impacto en nuestras user personas.
 
 #### Segmento 1(Paciente):
 <img src="../images/impact_maping-paciente.png">

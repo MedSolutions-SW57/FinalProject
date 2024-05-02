@@ -435,13 +435,19 @@ Analizando las entrevistas de Gonzalo y Abril, es posible identificar varias nec
 
 ### 2.3.1 User Personas
 
+Los user persona que se muestran a continuación, fueron realizados a partir de la información recopilada de la sección de entrevistas. Estos nos ayudarán a describir de forma general nuestro segmento objetivo.
+
 - Paciente:
+
   <img src="../images/Marcos Suarez.png">
 
 - Doctor:
+
   <img src="../images/luistorrres.png">
 
 ### 2.3.2 User Task Matrix
+
+En esta sección se presenta el user task matrix de los segmentos objetivos, con el fin de indentificar la frecuencia de las actividades realizadas por los usuarios, y de esta manera se refleja la importancia de determinadas tareas.
 
 <table>
     <thead>
@@ -575,6 +581,8 @@ Analizando las entrevistas de Gonzalo y Abril, es posible identificar varias nec
 
 ### 2.3.3 User Journey Mapping
 
+En esta sección se presentan los User Journey Mapping de los segmentos objetivos, que realizamos con el fin de dar a entender cómo se siente nuestro usuario al usar la aplicación, detallando cada paso que realiza y las emociones que experimenta.
+
 #### Segmento 1(pacientes):
 
 <img src="../images/journeyMap_pacientes.png" alt="JourneyMap">
@@ -589,9 +597,13 @@ Analizando las entrevistas de Gonzalo y Abril, es posible identificar varias nec
 
 ### 2.3.4 Empathy Mapping
 
+En esta sección mostramos los empathy mapping de los segmentos objetivos realizados con la información recopilada de componentes anteriores.
+
 <img src="../images/Empathy map.png" alt="EmpathyMap">
 
 ### 2.3.5 As-is Scenario Mapping
+
+En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia de ideas individual, revisión e identificación de fases como columnas, para conseguir los As-is Scenario Mapping de los segmentos objetivos.
 
 <p><b>Para el segmento 1 (Pacientes):</b></p>
 <img src="../images/To_Be_Scenario_Mapping_1.jpg">

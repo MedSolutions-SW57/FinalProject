@@ -2,6 +2,8 @@
 
 ## 3.1 To-Be Scenario Mapping
 
+En esta sección se presenta el mapeo de los escenarios, realizando una tabla con la situación a mejorar del segmento objetivo, analizando que pasos se realizarán y cómo se siente.
+
 <p><b>Para el segmento 1 (Pacientes):</b></p>
 <img src="../images/To_Be_Scenario_Mapping_1.jpg">
 
@@ -96,6 +98,8 @@ Se presentan los siguientes user stories:
 |US36|Barra de navegación|Como usuario, quiero una barra de navegación bien organizada en la landing page para poder acceder fácilmente a las diferentes secciones.|<p>**Escenario 1:Usuario utiliza la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para acceder a diferentes secciones.</p><p>- Entonces, encuentra que los enlaces funcionan correctamente y lo llevan a las páginas correspondientes.</p><p>**Escenario 2: Navegación intuitiva en la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para moverse por la página.</p><p>- Entonces, encuentra que la disposición de los enlaces es intuitiva y facilita la navegación por las diferentes secciones de la página.</p>|E06|
 
 ## 3.3 Impact Mapping
+
+En esta sección se muestra un gráfico que incluye los business goals del negocio así como tiene un impacto en nuestras user personas.
 
 #### Segmento 1(Paciente):
 <img src="../images/impact_maping-paciente.png">
