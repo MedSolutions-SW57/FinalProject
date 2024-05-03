@@ -2121,15 +2121,9 @@ Despues tambien esta GitHub Pages que es una función de GitHub que permite aloj
 
 ### 5.2.1.2 Sprint Backlog 1
 
-| User Story ID | User Story Title                | Task ID | Task Title                      | Description                                                                   | Estimation (Hours) | Assigned To                        | Status |
-| ------------- | ------------------------------- | ------- | ------------------------------- | ----------------------------------------------------------------------------- | ------------------ | ---------------------------------- | ------ |
-| US36          | Barra de navegación             | T01     | Implementar barra de navegación | Desarrollar una barra de navegación interactiva en la página de inicio.       | 2                  | Juan Montes, Carlos Guimaraes      | Done   |
-| US32          | Sección sobre el Producto       | T02     | Crear sección del producto      | Diseñar y llenar la sección de detalles del producto o servicio.              | 2                  | Sebastian Flores                   | Done   |
-| US31          | Sección About Us                | T03     | Desarrollar sección About Us    | Preparar contenido y diseño de la sección "About Us" con misión y valores.    | 2                  | Manuel Gutierrez, Jorge Altamirano | Done   |
-| US34          | Sección de contactos            | T04     | Organizar sección de contactos  | Implementar formulario de contacto y detalles de comunicación en la web.      | 2                  | Manuel Gutierrez                   | Done   |
-| US33          | Funciones que ofrece al cliente | T05     | Detallar funciones clave        | Describir las funcionalidades principales que la aplicación ofrece a usuarios | 2                  | Sebastian Flores                   | Done   |
-| US35          | Sección sobre el equipo         | T06     | Mostrar equipo de trabajo       | Crear sección con perfiles y roles del equipo de trabajo.                     | 2                  | Jorge Altamirano, Carlos Guimaraes | Done   |
+<p>El principal objetivo de este primer sprint es lograr completar todos los requisitos que se piden para el Landing Page. Además, se lleva en simultáneo el Sprint 1 con un archivo en Trello:</p>
 
+<a href="https://trello.com/invite/b/7HI3sRn5/ATTIe053b759a6699daf162bb0e5f6faba2c991C93B4/sprint-1-medsystem">https://trello.com/invite/b/7HI3sRn5/ATTIe053b759a6699daf162bb0e5f6faba2c991C93B4/sprint-1-medsystem</a>
 
 <table border="1">
   <tr>
