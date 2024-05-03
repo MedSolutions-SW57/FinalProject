@@ -1632,31 +1632,31 @@ Login consultancy
   <img src="assets/images/Mockup-Login-consultancy.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Register patient
 <td><p align="center">
-  <img src="../images/Mockup-Register-patient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Register-patient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Register doctor
 <td><p align="center">
-  <img src="../images/Mockup-Register-doctor.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Register-doctor.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Register consultancy
 <td><p align="center">
-  <img src="../images/Mockup-Register-consultancy.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Register-consultancy.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Doctor appointment
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-appointment.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Doctor-appointment.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Doctor appointment 2
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-appointment-2.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Doctor-appointment-2.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
   Doctor chat
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-chat.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Doctor-chat.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Doctor treatments for pacient
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-Treatments-for-pacient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Doctor-Treatments-for-pacient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Doctor request history
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-request-history.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Doctor-request-history.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Doctor request results
 <td><p align="center">
-  <img src="../images/Mockup-Doctor-request-results.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Doctor-request-results.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 
 Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
 
@@ -1665,29 +1665,29 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 User goal 1: Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente.
 
 <td><p align="center">
-  <img src="../images/mockup-user-goal-1.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/mockup-user-goal-1.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/mockup-user-goal-1_2.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/mockup-user-goal-1_2.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
 
 User goal 2: Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.
 
 <td><p align="center">
-  <img src="../images/mockup-user-goal-2.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/mockup-user-goal-2.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
 
 User goal 3: Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.
 
 <td><p align="center">
-  <img src="../images/mockup-user-goal-3.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/mockup-user-goal-3.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
 
 User goal 4: Como desarrollador, quiero incorporar una función de seguimiento de historias clínicas en MedSystem, para que los doctores puedan acceder fácilmente al historial médico de cada paciente, y puedan realizar un seguimiento preciso de su tratamiento.
 
 <td><p align="center">
-  <img src="../images/mockup-user-goal-4.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/mockup-user-goal-4.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
 
 User goal 5: Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.
 
 <td><p align="center">
-  <img src="../images/mockup-user-goal-5.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/mockup-user-goal-5.PNG" alt="Web_Applications_User_Flow_Diagrams" width="100%"></p></td>
 
 Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
 
@@ -1696,23 +1696,15 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 ## 4.6. Domain-Driven Software Architecture
 ### 4.6.1. Software Architecture Context Diagram
 
-<img alt= "c41" src="../images/c41.png">
+<img alt= "c41" src="assets/images/c41.png">
 
 ### 4.6.2. Software Architecture Container Diagrams
 
-<img alt= "c42" src="../images/c42.png">
+<img alt= "c42" src="assets/images/c42.png">
 
 ### 4.6.3. Software Architecture Components Diagrams
 
-<img alt= "c43" src="../images/c43.png">
-
-<img alt= "c44" src="../images/c44.png">
-
-<img alt= "c45" src="../images/c45.png">
-
-<img alt= "c46" src="../images/c46.png">
-
-<img alt= "c47" src="../images/c47.png">
+<img alt= "c43" src="assets/images/c43.png">
 
 
 ## 4.7. Software Object-Oriented Design
@@ -1720,23 +1712,23 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 
 <u>Bounded Context 1</u>
 
-<img alt= "BC!" src="../images/BC1.png">
+<img alt= "BC!" src="assets/images/BC1.png">
 
 <u>Bounded Context 2</u>
 
-<img alt= "BC!" src="../images/BC2.png">
+<img alt= "BC!" src="assets/images/BC2.png">
 
 <u>Bounded Context 3</u>
 
-<img alt= "BC!" src="../images/BC3.png">
+<img alt= "BC!" src="assets/images/BC3.png">
 
 <u>Bounded Context 4</u>
 
-<img alt= "BC!" src="../images/BC4.png">
+<img alt= "BC!" src="assets/images/BC4.png">
 
 <u>Bounded Context 5</u>
 
-<img alt= "BC!" src="../images/BC5.png">
+<img alt= "BC!" src="assets/images/BC5.png">
 
 ### 4.7.2. Class Dictionary
 
@@ -2284,23 +2276,23 @@ Examples: OUTPUT
 
 Desarollo de la barra de navegacion para la correcta navagacion a travez de todo el documento y la seccion home.
 
-<img src="../images/home.png">
+<img src="assets/images/home.png">
 
 Seccion de About Us:
 
-<img src="../images/aboutus.png">
+<img src="assets/images/aboutus.png">
 
 Seccion de Product:
 
-<img src="../images/product.png">
+<img src="assets/images/product.png">
 
 Seccion de Team:
 
-<img src="../images/team.png">
+<img src="assets/images/team.png">
 
 Seccion de Contact Us y Footer:
 
-<img src="../images/contact.png">
+<img src="assets/images/contact.png">
 
 ### 5.2.1.6 Services Documentation Evidence for Sprint Review
 
@@ -2312,23 +2304,23 @@ Se procede a desplegar la landing page una vez terminada, por lo que se usarla G
 
 Entrar a la configuracion del repositorio de la landing, vamos al apartado de Pages:
 
-<img src="../images/pages.png">
+<img src="assets/images/pages.png">
 
 Luego en la seccion "branch" cambiamos en donde dice "None" a "main" que es la rama donde estaria el html:
 
-<img src="../images/pages1.png">
+<img src="assets/images/pages1.png">
 
 Presionamos save y tendremos que esperar que se despliegue la pagina
 
-<img src="../images/deploy.png">
+<img src="assets/images/deploy.png">
 
-<img src="../images/pages2.png">
+<img src="assets/images/pages2.png">
 
 ### 5.2.1.8 Team Collaboration Insights during Sprint
 
 Los insights se sacaron del mismo apartado de Insights dentro del repositiorio de la landing page:
 
-<img src="../images/insights.png">
+<img src="assets/images/insights.png">
 
 ## 5.4 Video About the Product
 
