@@ -990,51 +990,14 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 
 ## 3.2 User Stories
 
-<table><tr><th valign="top"><b>Epic ID</b></th><th valign="top"><b>Epic</b></th><th valign="top"><b>User story ID</b></th><th valign="top"><b>User stories</b></th></tr>
-<tr><td rowspan="6" valign="top">E01</td><td rowspan="6" valign="top"><p>Como developer, quiero crear un sistema médico innovador para el área de traumatología en clínicas, para optimizar los procesos que se realizan, y así mejorar la eficiencia y calidad del servicio que se brinda a los pacientes
- </p></td><td valign="top">US01</td><td valign="top">Interfaz de usuario</td></tr>
-<tr><td valign="top">US02</td><td valign="top">Gestión de citas</td></tr>
-<td valign="top">US03</td><td valign="top">Seguimiento de historias clínicas</td></tr>
-<tr><td valign="top">US04</td><td valign="top">Herramientas de comunicación</td></tr>
-<tr><td valign="top">US05</td><td valign="top">Generación de informes</td></tr>
-<tr><td valign="top">US06</td><td valign="top">Seguridad de los datos médicos</td></tr>
-<tr><td rowspan="6" valign="top">E02</td><td rowspan="6" valign="top"><p>Como paciente, deseo tener acceso a una plataforma tecnológica que facilite la gestión de mis citas médicas, para poder organizar mi agenda de manera eficiente y recibir una atención médica oportuna y de calidad.
-</p></td><td valign="top">US07</td><td valign="top">Registro de Nueva Cita</td></tr>
-<tr><td valign="top">US08</td><td valign="top">Selección de Especialista y Ubicación</td></tr>
-<tr><td valign="top">US09</td><td valign="top">Disponibilidad de Horarios</td></tr>
-<tr><td valign="top">US10</td><td valign="top">Recordatorios de Cita</td></tr>
-<tr><td valign="top">US11</td><td valign="top">Cancelación y Re-agendamiento de Citas</td></tr>
-<tr><td valign="top">US12</td><td valign="top">Confirmación de Cita</td></tr>
-<tr><td rowspan="6" valign="top">E03</td><td rowspan="6" valign="top"><p>Como médico traumatológico,</p><p>Quiero tener una plataforma tecnológica que me permita gestionar eficientemente los tratamientos de mis pacientes,</p><p>Para poder proporcionar una atención médica de alta calidad y personalizada.</p></td><td valign="top">US13</td><td valign="top">Acceso Eficiente al Historial Médico Completo</td></tr>
-<tr><td valign="top">US14</td><td valign="top">Notificaciones de Citas de Seguimiento</td></tr>
-<tr><td valign="top">US15</td><td valign="top">Actualización de Planes de Tratamiento</td></tr>
-<tr><td valign="top">US16</td><td valign="top">Alertas de Cambios en Resultados de Análisis</td></tr>
-<tr><td valign="top">US17</td><td valign="top">Comunicación Segura con los Pacientes</td></tr>
-<tr><td valign="top">US18</td><td valign="top">Análisis y Evaluación de Eficacia del Tratamiento</td></tr>
-<tr><td rowspan="6" valign="top">E04</td><td rowspan="6" valign="top"><p>Como médico traumatológico,</p><p>deseo poder acceder al historial médico completo de mis pacientes,</p><p>para tomar decisiones informadas y brindarles la mejor atención posible.</p>
-</td><td valign="top">US19</td><td valign="top">Acceso rápido al historial médico del paciente</td></tr>
-<tr><td valign="top">US20</td><td valign="top">Visualización detallada del historial médico</td></tr>
-<tr><td valign="top">US21</td><td valign="top">Actualización en tiempo real del historial médico</td></tr>
-<tr><td valign="top">US22</td><td valign="top">Registro de nuevas entradas en el historial médico</td></tr>
-<tr><td valign="top">US23</td><td valign="top">Seguridad y privacidad del historial médico</td></tr>
-<tr><td valign="top">US24</td><td valign="top">Registro de eventos importantes en el historial médico</td></tr>
-<tr><td rowspan="6" valign="top">E05</td><td rowspan="6" valign="top"><p>Como técnico de laboratorio, deseo contar con una aplicación web que me permita optimizar la gestión de muestras y resultados de los pacientes.</p></td><td valign="top">US25</td><td valign="top">Interfaz personalizable para mejorar eficiencia en los análisis medicos</td></tr>
-<tr><td valign="top">US26</td><td valign="top">Acceso a los protocolos actualizados en la aplicación web del laboratorio</td></tr>
-<tr><td valign="top">US27</td><td valign="top">Sistema de comunicación y registro de resultados</td></tr>
-<tr><td valign="top">US28</td><td valign="top">Protocolo de integridad para las muestras en el proceso de análisis</td></tr>
-<tr><td valign="top">US29</td><td valign="top">Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas</td></tr>
-  <tr><td valign="top">US30</td><td valign="top">Alertas para detectar problemas en el resultados de las muestras</td></tr>
-<tr><td rowspan="6">E06</td><td rowspan="6"><p>Como paciente quiero poder entrar una landing page donde esté la información esencial sobre la aplicación web</p></td><td valign="top">US31</td><td valign="top">Sección About Us</td></tr>
-<tr><td valign="top">US32</td><td valign="top">Sección sobre el Producto</td></tr>
-<tr><td valign="top">US33</td><td valign="top">Funciones que ofrece al cliente</td></tr>
-<tr><td valign="top">US34</td><td valign="top">Sección de contactos</td></tr>
-<tr><td valign="top">US35</td><td valign="top">Sección sobre el equipo</td></tr>
-<tr><td valign="top">US36</td><td valign="top">Barra de navegación</td></tr>
-</table>
-
-Se presentan los siguientes user stories:
-|User Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
+|Epic / Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
 | :-: | :-: | :-: | :-: | :-: |
+|E01|titulo|Como developer, quiero crear un sistema médico innovador para el área de traumatología en clínicas, para optimizar los procesos que se realizan, y así mejorar la eficiencia y calidad del servicio que se brinda a los pacientes|-|-|
+|E02|titulo|Como paciente, deseo tener acceso a una plataforma tecnológica que facilite la gestión de mis citas médicas, para poder organizar mi agenda de manera eficiente y recibir una atención médica oportuna y de calidad.|-|-|
+|E03|titulo|Como médico traumatológico, quiero tener una plataforma tecnológica que me permita gestionar eficientemente los tratamientos de mis pacientes, para poder proporcionar una atención médica de alta calidad y personalizada.|-|-|
+|E04|titulo|Como médico traumatológico,deseo poder acceder al historial médico completo de mis pacientes, para tomar decisiones informadas y brindarles la mejor atención posible.|-|-|
+|E05|titulo|Como técnico de laboratorio, deseo contar con una aplicación web que me permita optimizar la gestión de muestras y resultados de los pacientes.|-|-|
+|E06|titulo|Como paciente quiero poder entrar una landing page donde esté la información esencial sobre la aplicación web|-|-|
 |US01| Interfaz de usuario | Como desarrollador, quiero implementar una interfaz de usuario intuitiva para MedSystem, para que los usuarios puedan navegar fácilmente y de manera fluida por la plataforma, y accedan a las funciones principales sin dificultad. |<p>**Escenario 1: Acceso a la interfaz**</p><p>- Dado que el usuario ha iniciado sesión en MedSystem,</p><p>- Cuando esta navegando por la plataforma,</p><p>- Entonces podrá visualizar todos los elementos de manera clara y organizados de manera intutiiva, para que no tenga ninguna confusión al momento de acceder a las funciones de la aplicación.</p><p> <p>**Escenario 2: Facilidad al Navegar**</p><p>- Dado que el usuario ha iniciado sesión en MedSystem,</p><p>- Cuando quiera buscar una función en específico en la plataforma,</p><p>- Entonces podrá encontrar la función que desea de manera rápida y sencilla, sin necesidad de reccurir a alguna ayuda externa.</p><p>|E01|
 |US02| Gestión de citas | Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los doctores y pacientes puedan programar y gestionar sus citas de manera eficiente. | <p>**Escenario 1: Registro de citas**</p><p>- Dado que el doctor o paciente quieren programar una cita,</p><p>- Cuando ingresen a la aplicación y elijan la fecha, hora y el tipo de consulta que desean,</p><p>- Entonces la cita se registrará en el calendario y sistema, con la información dada.</p><p> <p>**Escenario 2: Notificacion de una cita**</p><p>- Dado que el doctor o paciente han programado una cita,</p><p>- Cuando se acerque la fecha u hora de la cita,</p><p>- Entonces tanto el doctor como el paciente recibirán una notificación automática de la aplicación que les avisa sobre la cita programada.</p><p> |E01|
 |US03| Seguimiento de historias clínicas | Como desarrollador, quiero incorporar una función de seguimiento de historias clínicas en MedSystem, para que los doctores puedan acceder fácilmente al historial médico de cada paciente, y puedan realizar un seguimiento preciso de su tratamiento. | <p>**Escenario 1: Acceso a las historias clínicas**</p><p>- Dado que el doctor desea ver la historia clínica de cierto paciente,</p><p>- Cuando ingrese al perfil de ese paciente, </p><p>- Entonces el sistema le muestra de manera clara y organizada toda la información del historial médico, incluyendo diagnosticos anteriores, tratamientos y resultados de pruebas.</p><p> <p>**Escenario 2: Registro de actualizaciones en las historias clínicas**</p><p>- Dado que el doctor desea actualizar la historia clínica de un paciente,</p><p>- Cuando realice los cambios en la información del paciente,</p><p>- Entonces el sistema registrará todas las actualizaciones de manera precisa, añadiendo datos como fecha y hora del registro, y el doctor que relizó la actualización.</p><p> |E01|
