@@ -1032,6 +1032,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 
 |Epic / Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
 | :-: | :-: | :-: | :-: | :-: |
+|US01|Desarrollo del Módulo de Historias Clínicas Electrónicas|Como desarrollador, quiero crear un módulo de historias clínicas electrónicas que permita a los médicos registrar y acceder fácilmente a la información médica de los pacientes, mejorando así la eficiencia en la atención.|<p>**Escenario 1: Registro Eficiente de Información Médica**</p><p>- Dado que un médico está utilizando el módulo de historias clínicas electrónicas en MedSystem,</p><p>- Cuando accede al formulario de registro de pacientes,</p><p>- Entonces puede ingresar antecedentes médicos de manera eficiente y sin errores, asegurando una documentación completa y precisa de la información médica del paciente.</p>||
 
 ## 3.3 Impact Mapping
 
