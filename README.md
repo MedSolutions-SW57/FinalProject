@@ -1031,6 +1031,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 ### Technical Stories
 
 |Epic / Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
+| :-: | :-: | :-: | :-: | :-: |
 
 ## 3.3 Impact Mapping
 
