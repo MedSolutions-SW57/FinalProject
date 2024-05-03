@@ -2119,11 +2119,79 @@ Despues tambien esta GitHub Pages que es una función de GitHub que permite aloj
 | US33          | Funciones que ofrece al cliente | T05     | Detallar funciones clave        | Describir las funcionalidades principales que la aplicación ofrece a usuarios | 2                  | Sebastian Flores                   | Done   |
 | US35          | Sección sobre el equipo         | T06     | Mostrar equipo de trabajo       | Crear sección con perfiles y roles del equipo de trabajo.                     | 2                  | Jorge Altamirano, Carlos Guimaraes | Done   |
 
+
+<table border="1">
+  <tr>
+    <td>Sprint #</td><td colspan="7" align="center">Sprint 2</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">User Story</td><td colspan="6" align="center">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>ID</td><td>Title</td><td>ID</td><td>Title</td><td>Description</td><td>Estimation (Hours)</td><td>Assigned To</td><td>Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US36</td><td rowspan="2">Barra de navegación</td><td></td><td>Implementar barra de navegación</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>WI4</td><td>Implementar barra de navegación</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US32</td><td rowspan="2">Sección sobre el Producto</td><td></td><td>Crear sección del producto</td><td>.</td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>WI4</td><td>Implementar barra de navegación</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US31</td><td rowspan="2">Sección About Us</td><td></td><td>Desarrollar sección About Us</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>WI4</td><td>Implementar barra de navegación</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US34</td><td rowspan="2">Sección de contactos</td><td></td><td>Organizar sección de contactos</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>WI4</td><td>Implementar barra de navegación</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US33</td><td rowspan="2">Funciones que ofrece al cliente</td><td></td><td>Detallar funciones clave</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>WI4</td><td>Implementar barra de navegación</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td rowspan="2">US35</td><td rowspan="2">Sección sobre el equipo</td><td></td><td>Mostrar equipo de trabajo</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>WI4</td><td>Implementar barra de navegación</td><td></td><td></td><td></td><td></td>
+  </tr>
+</table>
+
+<table border="1">
+  <tr>
+    <td>Sprint #</td><td colspan="8" align="center">Sprint 2</td>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">User Story</td><td colspan="7" align="center">Work-Item / Task</td>
+  </tr>
+  <tr>
+    <td>ID</td><td>Title</td><td>ID</td><td>Title</td><td>Description</td><td>Estimation (Hours)</td><td>Assigned To</td><td>Status (To-Do / In-Process / Review / Done)</td>
+  </tr>
+  <tr>
+    <td rowspan="2">US36</td><td rowspan="2">Barra de navegación</td><td>WI2</td><td>Implementar barra de navegación</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <tr>
+    <td>WI4</td><td>Implementar barra de navegación</td><td></td><td></td><td></td><td></td>
+  </tr>
+  <!-- Puedes continuar con las demás filas de la misma manera -->
+</table>
+
 ### 5.2.1.3 Deployment Evidence for Sprint Review
 
 Evidencias de los commits de los miembros del equipo:
 
-<img src="../images/commits.png">
+<img src="assets/images/commits.png">
 
 ### 5.2.1.4 Testing Suite Evidence for Sprint Review
 
@@ -2281,6 +2349,7 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 
 ---
 <br>
+
 # Conclusiones
 ## Conclusiones y recomendaciones
 ## Video About the Team 
