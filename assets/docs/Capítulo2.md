@@ -439,11 +439,11 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 - Paciente:
 
-  <img src="../images/Marcos Suarez.png">
+  <img src="../images/user-persona-patient.png">
 
 - Doctor:
 
-  <img src="../images/luistorrres.png">
+  <img src="../images/user-persona-doctor.png">
 
 ### 2.3.2 User Task Matrix
 
