@@ -1028,6 +1028,10 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 |US36|Sección sobre el equipo|Como usuario, quiero encontrar una sección dedicada que presente información sobre el equipo detrás de la empresa.|<p>**Escenario 1:Usuario accede a la sección "Equipo"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, busca la sección "Equipo".</p><p>- Entonces, encuentra información detallada sobre los miembros del equipo, incluyendo sus roles, responsabilidades y una breve biografía.</p><p>**Escenario 2:Información actualizada en la sección "Equipo"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección "Equipo".</p><p>- Entonces., nota que la información está actualizada con los últimos miembros del equipo y cambios relevantes.</p>|E06|
 |US37|Barra de navegación|Como usuario, quiero una barra de navegación bien organizada en la landing page para poder acceder fácilmente a las diferentes secciones.|<p>**Escenario 1:Usuario utiliza la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para acceder a diferentes secciones.</p><p>- Entonces, encuentra que los enlaces funcionan correctamente y lo llevan a las páginas correspondientes.</p><p>**Escenario 2: Navegación intuitiva en la barra de navegación**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, utiliza la barra de navegación para moverse por la página.</p><p>- Entonces, encuentra que la disposición de los enlaces es intuitiva y facilita la navegación por las diferentes secciones de la página.</p>|E06|
 
+### Technical Stories
+
+|Epic / Story ID|Título|Descripción|Criterios de Aceptación |Relacionado con (Epic ID)|
+
 ## 3.3 Impact Mapping
 
 En esta sección se muestra un gráfico que incluye los business goals del negocio así como tiene un impacto en nuestras user personas.
