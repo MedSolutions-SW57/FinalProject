@@ -632,7 +632,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 Resumen de la entrevista:
 
 <p>
-Durante la entrevista, Gaby compartió los desafíos diarios que enfrenta en su práctica como especialista en traumatología, destacando la necesidad de herramientas tecnológicas que optimicen la gestión de citas y la comunicación interprofesional. Resaltó la importancia de características como la accesibilidad de información previa a la consulta y la seguridad de los datos médicos en plataformas digitales. Además, expresó su interés en mejorar la coordinación entre especialistas y servicios médicos, y su entusiasmo por la integración de tecnología para mejorar la atención médica en traumatología.</p>
+Durante la entrevista con Gaby, llevada a cabo a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos diarios que enfrenta en su práctica médica. La doctora destacó la necesidad de herramientas tecnológicas eficientes para gestionar sus citas y comunicarse con otros profesionales de la salud y laboratorios. Mencionó que prefiere recibir pedidos médicos y resultados de pruebas de manera electrónica, utilizando plataformas seguras y fáciles de usar. En cuanto a la tecnología, el médico utilizó su computadora de escritorio con el navegador Chrome durante la videoconferencia. Además, expresó preocupación por la seguridad y privacidad de los datos médicos, destacando la importancia de medidas sólidas de protección de la información en línea.</p>
 
 Entrevista 2:
 
@@ -704,7 +704,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 Resumen de la entrevista:
 
-<p>Durante la entrevista con el Luis, se exploraron los desafíos principales que enfrenta su laboratorio en la recepción y gestión de información de pacientes, destacando la relevancia de la exactitud e integridad de los resultados de las pruebas. Se enfatizó la importancia de la seguridad y privacidad de los datos médicos, así como la necesidad de optimizar la coordinación entre médicos y laboratorios para la realización de pruebas. También se discutieron las funcionalidades esenciales en una plataforma web para la gestión de pedidos y resultados de pruebas médicas, resaltando la importancia de la comunicación efectiva y la colaboración con los médicos remitentes.</p>
+<p>Durante la entrevista Luis, realizada a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos que enfrenta su laboratorio en la recepción y gestión de información de pacientes.Mencionó que utilizan una variedad de herramientas digitales para recibir y procesar pedidos médicos, incluyendo un sistema de gestión de laboratorio basado en la web. Destacó la importancia de la precisión y la integridad de los resultados de las pruebas, y expresó interés en mejorar la coordinación con médicos remitentes a través de plataformas de comunicación seguras. Durante la entrevista, Luis utilizó una laptop Lenovo con el navegador Chrome para acceder a la videoconferencia.</p>
 
 Entrevista 2:
 
