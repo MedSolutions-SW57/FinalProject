@@ -214,11 +214,11 @@ Los luminosos es una startup creada por estudiantes de la Facultad de Ingenierí
 ### 1.1.1 Perfiles de integrantes del equipo
 |   | Miembros del equipo                 | Código de estudiante | Carrera                | Conocimientos/Habilidades                                                                                                                                                                                                                                                                               |
 |---|-------------------------------------|----------------------|------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| <img src="../members-profile/manuel.jpg" width="50%" alt="Imagen del compañero">  | Gutierrez Zumaeta Manuel Alonso     | u202112353           | Ingeniería de Software | Soy un estudiante de la carrera de ingeniería de software de la UPC, tengo 20 años. Tengo experiencia usando lenguajes de programación como C++, Python y JS. Además puedo ayudar al equipo en todas las tareas que se realicen para lograr un resultado óptimo.                                        |
-|  <img src="../members-profile/Carlos.png" width="50%" alt="Imagen del compañero"> | Guimaraes Escalante, Carlos Eduardo | u202210364           | Ingeniería de Software |   Soy estudiante de la carrera de Ingeniería de Software, estoy cursando el tercer ciclo de mi carrera y tengo 17 años. Soy una persona responsable y puntual, por lo que me gusta terminar y presentar los trabajos en los tiempos establecidos. Siempre me ha gustado la innovación y la creación de nuevas ideas. Estoy capacitado en algunos temas de edición de videos, y me considero bueno en programación. Voy a aportar al grupo de manera proactiva e intentaré aportar ideas que ayuden a mejorar el trabajo, siempre intentando mantener un ambiente positivo dentro del área de trabajo. |
-| <img src="../members-profile/altamirano.jpg" width="50%" alt="Imagen del compañero">  | Altamirano Saenz, Jorge Armando     | u202215888           | Ingeniería de Software |  Me llamo Jorge Altamirano, tengo 19 años. Tengo conocimientos en programación en los lenguajes de C++, Python, Java y C# básico. Me considero una persona responsable e investigadora y creo que puedo aportar con ideas propias al equipo. |                                                                                                                                                                                                                                                                                                       |
-|  <img src="../members-profile/Juan.JPG" width="50%" alt="Imagen del compañero"> | Montes Figueroa, Juan Eduardo       | u202210775           | Ingeniería de Software | Mi nombre es Juan Montes, tengo 19 años, tengo conocimientos en C++, asimismo poseo conocimientos básicos en Java y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles. |                                                                                                                                                                                                                                                                                                        |
-|  <img src="../members-profile/sebastian.jpeg" width="50%" alt="Imagen del compañero">  | Flores Manrique, Sebastian Enrique  | u201611430           | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web. |
+| <img src="assets/members-profile/manuel.jpg" width="50%" alt="Imagen del compañero">  | Gutierrez Zumaeta Manuel Alonso     | u202112353           | Ingeniería de Software | Soy un estudiante de la carrera de ingeniería de software de la UPC, tengo 20 años. Tengo experiencia usando lenguajes de programación como C++, Python y JS. Además puedo ayudar al equipo en todas las tareas que se realicen para lograr un resultado óptimo.                                        |
+|  <img src="assets/members-profile/Carlos.png" width="50%" alt="Imagen del compañero"> | Guimaraes Escalante, Carlos Eduardo | u202210364           | Ingeniería de Software |   Soy estudiante de la carrera de Ingeniería de Software, estoy cursando el tercer ciclo de mi carrera y tengo 17 años. Soy una persona responsable y puntual, por lo que me gusta terminar y presentar los trabajos en los tiempos establecidos. Siempre me ha gustado la innovación y la creación de nuevas ideas. Estoy capacitado en algunos temas de edición de videos, y me considero bueno en programación. Voy a aportar al grupo de manera proactiva e intentaré aportar ideas que ayuden a mejorar el trabajo, siempre intentando mantener un ambiente positivo dentro del área de trabajo. |
+| <img src="assets/members-profile/altamirano.jpg" width="50%" alt="Imagen del compañero">  | Altamirano Saenz, Jorge Armando     | u202215888           | Ingeniería de Software |  Me llamo Jorge Altamirano, tengo 19 años. Tengo conocimientos en programación en los lenguajes de C++, Python, Java y C# básico. Me considero una persona responsable e investigadora y creo que puedo aportar con ideas propias al equipo. |                                                                                                                                                                                                                                                                                                       |
+|  <img src="assets/members-profile/Juan.JPG" width="50%" alt="Imagen del compañero"> | Montes Figueroa, Juan Eduardo       | u202210775           | Ingeniería de Software | Mi nombre es Juan Montes, tengo 19 años, tengo conocimientos en C++, asimismo poseo conocimientos básicos en Java y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles. |                                                                                                                                                                                                                                                                                                        |
+|  <img src="assets/members-profile/sebastian.jpeg" width="50%" alt="Imagen del compañero">  | Flores Manrique, Sebastian Enrique  | u201611430           | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web. |
 
 ## 1.2 Solution Profile
 ### 1.2.1. Antecedentes y problemática
@@ -324,7 +324,7 @@ Nuestro enfoque inicial será dirigirnos tanto a doctores especialistas en traum
 * Creemos que la comunicación entre especialistas mejorará si se implementa un sistema para compartir historias clínicas y procesos médicos de manera rápida y efectiva
 * Creemos que la experiencia del paciente mejorará si se ofrecen consultas virtuales y recordatorios automáticos de citas
 ###   1.2.2.4. Lean UX Canvas
-<img src="../solution-profile/LeanUXCanvas.jpg" alt="Lean Ux Canvas">
+<img src="assets/solution-profile/LeanUXCanvas.jpg" alt="Lean Ux Canvas">
 
 ###   1.3. Segmento Ojetivo
 Nuestros segmentos objetivos en este se dividen en tres grupos fundamentales. Como primer segmento contamos con los pacientes que son los que han sufrido algún tipo de accidente y requieren una atención en el área de traumatología. En segundo lugar serían los médicos especialistas en el área de traumatología que requerirán de nuestro sistema para la gestión de sus citas y establecer una buena comunicación entre sus demás colegas de profesión, o laboratorios para una correcta coordinación de algún proceso que se lleve a cabo con el paciente. Por último están las consultorías o laboratorios quienes recibirán la información del paciente, brindada por los doctores, incluyendo procedimientos que requiera el paciente ya sea un tratamiento o algún tipo de examen.
@@ -354,10 +354,10 @@ Nuestros segmentos objetivos en este se dividen en tres grupos fundamentales. Co
     <td valign="top">SAMA</td>
   </tr>
   <tr>
-    <td valign="top"><img src="../images/logo_medsystem.jpg" alt="Logo de MedSystem"  height="100px"></td>
-    <td valign="top"><img src="../images/logo_homeMedical.png" alt="Logo de Home Medical Managment" height="100px"></td>
-    <td valign="top"><img src="../images/logo_lolimsa.jpg" alt="Logo de LOLIMSA" height="100px"></td>
-    <td valign="top"><img src="../images/logo_sama.png" alt="Logo de SAMMA" height="100px"></td>
+    <td valign="top"><img src="assets/images/logo_medsystem.jpg" alt="Logo de MedSystem"  height="100px"></td>
+    <td valign="top"><img src="assets/images/logo_homeMedical.png" alt="Logo de Home Medical Managment" height="100px"></td>
+    <td valign="top"><img src="assets/images/logo_lolimsa.jpg" alt="Logo de LOLIMSA" height="100px"></td>
+    <td valign="top"><img src="assets/images/logo_sama.png" alt="Logo de SAMMA" height="100px"></td>
   </tr>
   <tr>
     <td rowspan="2" valign="top">Perfil</td>
@@ -551,7 +551,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 - Minuto de Inicio:
 - Minuto de Fin:
 
-<img alt = "Entrevista1.1" src="../images/Entrevista1.1.png">
+<img alt = "Entrevista1.1" src="assets/images/Entrevista1.1.png">
 
 Resumen de la entrevista:
 
@@ -577,7 +577,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 - Minuto de Inicio: 31:33
 - Minuto de Fin: 35:45
 
-<img alt = "Entrevista1.2" src="../images/Entrevista1.2.PNG">
+<img alt = "Entrevista1.2" src="assets/images/Entrevista1.2.PNG">
 
 Resumen de la entrevista:
 
@@ -601,7 +601,7 @@ Link de la Entrevista: <a href="">Link</a>
 - Minuto de Inicio:
 - Minuto de Fin:
 
-<img alt = "Entrevista1.3" src="../images/Entrevista1.3.png">
+<img alt = "Entrevista1.3" src="assets/images/Entrevista1.3.png">
 
 Resumen de la entrevista:
 
@@ -627,7 +627,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 - Minuto de Inicio: 00:00
 - Minuto de Fin: 07:40
 
-<img alt = "Entrevista2.1" src="../images/Entrevista2.1.png">
+<img alt = "Entrevista2.1" src="assets/images/Entrevista2.1.png">
 
 Resumen de la entrevista:
 
@@ -651,7 +651,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 - Minuto de Inicio: 11:59
 - Minuto de Fin: 22:24
 
-<img alt = "Entrevista2.2" src="../images/Entrevista_traumatologia.png">
+<img alt = "Entrevista2.2" src="assets/images/Entrevista_traumatologia.png">
 
 Resumen de la entrevista:
 <p>
@@ -675,7 +675,7 @@ Link de la Entrevista: <a href="">Link</a>
 - Minuto de Inicio: 
 - Minuto de Fin:
 
-<img alt = "Entrevista2.3" src="../images/Entrevista2.3.png">
+<img alt = "Entrevista2.3" src="assets/images/Entrevista2.3.png">
 
 Resumen de la entrevista:
 <p></p>
@@ -700,7 +700,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 - Minuto de Inicio: 07:40
 - Minuto de Fin: 11:59
 
-<img alt = "Entrevista3.1" src="../images/Entrevista3.1.png">
+<img alt = "Entrevista3.1" src="assets/images/Entrevista3.1.png">
 
 Resumen de la entrevista:
 
@@ -723,7 +723,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 - Minuto de Inicio:
 - Minuto de Fin:
 
-<img alt = "Entrevista3.2" src="../images/entrevista_lab2.png">
+<img alt = "Entrevista3.2" src="assets/images/entrevista_lab2.png">
 
 Resumen de la entrevista:
 <p>
@@ -748,7 +748,7 @@ Link de la Entrevista: <a href="">Link</a>
 - Minuto de Inicio:
 - Minuto de Fin:
 
-<img alt = "Entrevista3.3" src="../images/Entrevista3.3.png">
+<img alt = "Entrevista3.3" src="assets/images/Entrevista3.3.png">
 
 Resumen de la entrevista:
 
@@ -773,11 +773,11 @@ Los user persona que se muestran a continuación, fueron realizados a partir de 
 
 - Paciente:
 
-  <img src="../images/Marcos Suarez.png">
+  <img src="assets/images/Marcos Suarez.png">
 
 - Doctor:
 
-  <img src="../images/luistorrres.png">
+  <img src="assets/images/luistorrres.png">
 
 ### 2.3.2 User Task Matrix
 
@@ -919,34 +919,34 @@ En esta sección se presentan los User Journey Mapping de los segmentos objetivo
 
 #### Segmento 1(pacientes):
 
-<img src="../images/journeyMap_pacientes.png" alt="JourneyMap">
+<img src="assets/images/journeyMap_pacientes.png" alt="JourneyMap">
 
 #### Segmento 2(doctor):
 
-<img src="../images/journeyMap_doctor.png" alt="JourneyMap">
+<img src="assets/images/journeyMap_doctor.png" alt="JourneyMap">
 
 #### Segmento 3(laboratorio):
 
-<img src="../images/journeyMap_laboratorio.png" alt="JourneyMap">
+<img src="assets/images/journeyMap_laboratorio.png" alt="JourneyMap">
 
 ### 2.3.4 Empathy Mapping
 
 En esta sección mostramos los empathy mapping de los segmentos objetivos realizados con la información recopilada de componentes anteriores.
 
-<img src="../images/Empathy map.png" alt="EmpathyMap">
+<img src="assets/images/Empathy map.png" alt="EmpathyMap">
 
 ### 2.3.5 As-is Scenario Mapping
 
 En esta sección se realizaron las distintas etapas de preparación, tales como la lluvia de ideas individual, revisión e identificación de fases como columnas, para conseguir los As-is Scenario Mapping de los segmentos objetivos.
 
 <p><b>Para el segmento 1 (Pacientes):</b></p>
-<img src="../images/To_Be_Scenario_Mapping_1.jpg">
+<img src="assets/images/To_Be_Scenario_Mapping_1.jpg">
 
 <p><b>Para el segmento 2 (Doctores):</b></p>
-<img src="../images/To_Be_Scenario_Mapping_2.jpg">
+<img src="assets/images/To_Be_Scenario_Mapping_2.jpg">
 
 <p><b>Para el segmento 3 (Laboratorios):</b></p>
-<img src="../images/To_Be_Scenario_Mapping_3.jpg">
+<img src="assets/images/To_Be_Scenario_Mapping_3.jpg">
 
 ## 2.4 Ubiquitous Language
 
@@ -980,13 +980,13 @@ En esta sección se realizaron las distintas etapas de preparación, tales como 
 En esta sección se presenta el mapeo de los escenarios, realizando una tabla con la situación a mejorar del segmento objetivo, analizando que pasos se realizarán y cómo se siente.
 
 <p><b>Para el segmento 1 (Pacientes):</b></p>
-<img src="../images/To_Be_Scenario_Mapping_1.jpg">
+<img src="assets/images/To_Be_Scenario_Mapping_1.jpg">
 
 <p><b>Para el segmento 2 (Doctores):</b></p>
-<img src="../images/To_Be_Scenario_Mapping_2.jpg">
+<img src="assets/images/To_Be_Scenario_Mapping_2.jpg">
 
 <p><b>Para el segmento 3 (Laboratorios):</b></p>
-<img src="../images/To_Be_Scenario_Mapping_3.jpg">
+<img src="assets/images/To_Be_Scenario_Mapping_3.jpg">
 
 ## 3.2 User Stories
 
@@ -1077,11 +1077,11 @@ Se presentan los siguientes user stories:
 En esta sección se muestra un gráfico que incluye los business goals del negocio así como tiene un impacto en nuestras user personas.
 
 #### Segmento 1(Paciente):
-<img src="../images/impact_maping-paciente.png">
+<img src="assets/images/impact_maping-paciente.png">
 
 
 #### Segmento 2(Doctor):
-<img src="../images/impact_maping-doctor.png">
+<img src="assets/images/impact_maping-doctor.png">
 
 ## 3.4 Product Backlog
 
@@ -1400,29 +1400,29 @@ Link del Pivotal Tracker: https://www.pivotaltracker.com/projects/2701194
 <p>
 Nuestro logro hace alusión al tema que se está trabajando en este proyecto, el cual busca ayudar a los traumatólogos con un sistema médico, es por esto que en nuestro logo se ve una cruz que hace referencia a la salud de una persona. De este modo, se crea una representación visual efectiva y reconocible ante cualquier usuario que lo vea. 
 </p>
-<img src="../images/logo_branding.png" alt="Logo del sistema" width="30%">
+<img src="assets/images/logo_branding.png" alt="Logo del sistema" width="30%">
 
 <h4><strong>Typography:</strong><br></h4>
 <p>
 En cuanto a la elección de la tipografía, se eligió la fuente “Poppins”, puesto que no solo se quería que la fuente sea solo un estilo que intentara captar la atención del usuario, sino también era fundamental que sea legible y estéticamente agradable para el usuario. Con esta fuente, se logra lo deseado y se consigue brindar la información de manera clara dentro de la página. Además, para algunos subtitulos se utiliza la fuente "Oswald", para brindar variedad; y en caso de errores se utiliza fuentes "sans-serif" en caso de que alguna de las fuentes anteriores no funcionen.
 </p>
-<img src="../images/typography_1.png" alt="Tipografia 1" width="30%"><br>
-<img src="../images/typography_2.png" alt="Tipografia 2" width="30%">
+<img src="assets/images/typography_1.png" alt="Tipografia 1" width="30%"><br>
+<img src="assets/images/typography_2.png" alt="Tipografia 2" width="30%">
 
 <h4><strong>Paleta de colores:</strong><br></h4>
 <p>
 La paleta de colores se baso en algunos colores llamativos parecidos al color azul, que tuvo ciertas variaciones en la página, como el difuminado en la imagen representativa o el degradado que tuvo en el footer.
 </p>
-<img src="../images/color_1.png" alt="Color 1" width="30%"><br>
-<img src="../images/color_3.png" alt="Color 3" width="30%"><br>
-<img src="../images/color_2.png" alt="Color 2" width="30%">
+<img src="assets/images/color_1.png" alt="Color 1" width="30%"><br>
+<img src="assets/images/color_3.png" alt="Color 3" width="30%"><br>
+<img src="assets/images/color_2.png" alt="Color 2" width="30%">
 
 
 <h4><strong>Colores neutros:</strong><br></h4>
 <p>
 El único color neutro que se eligió fue el blanco
 </p>
-<img src="../images/color_neutro.png" alt="Color neutro" width="30%">
+<img src="assets/images/color_neutro.png" alt="Color neutro" width="30%">
 
 
 ### 4.1.2. Web Style Guidelines
@@ -1431,21 +1431,21 @@ El único color neutro que se eligió fue el blanco
 En MedSystem, se ha elegido cuidadosamente los elementos de estilo web para que el usuario tenga una experiencia que refleje la esencia de la plataforma y atienda a las necesidades de los segmentos objetivo de pacientes, doctores y laboratorios. Los colores base elegidos son variaciones al azul, para que haya más sintonía con la página y se vea agradable a la vista. Para el estilo de letra elegido, se optó por una tipografía legible y formal, ya que se desea que el usuario logre entender la información de manera clara y efectiva, es por esto que también se emplean distintos tamaños de fuente, con el fin de dar accesibilidad a todo los usuarios, y puedan interactuar con la plataforma sin ningún problema. 
 </p>
 <h4><strong>Colores base:</strong><br></h4>
-<img src="../images/color_1.png" alt="Color 1" width="30%"><br>
-<img src="../images/color_3.png" alt="Color 3" width="30%"><br>
-<img src="../images/color_2.png" alt="Color 2" width="30%">
+<img src="assets/images/color_1.png" alt="Color 1" width="30%"><br>
+<img src="assets/images/color_3.png" alt="Color 3" width="30%"><br>
+<img src="assets/images/color_2.png" alt="Color 2" width="30%">
 
 <h4><strong>Colores neutros:</strong><br></h4>
-<img src="../images/color_neutro.png" alt="Color neutro" width="30%">
+<img src="assets/images/color_neutro.png" alt="Color neutro" width="30%">
 
 <h4><strong>Estilo de letras:</strong><br></h4>
-<img src="../images/estilo_letra_1.jpg" alt="Estilo de letra 1" width="30%"><br>
-<img src="../images/estilo_letra_2.jpg" alt="Estilo de letra 1" width="30%">
+<img src="assets/images/estilo_letra_1.jpg" alt="Estilo de letra 1" width="30%"><br>
+<img src="assets/images/estilo_letra_2.jpg" alt="Estilo de letra 1" width="30%">
 
 
 <h4><strong>Botones:</strong><br></h4>
-<img src="../images/botones_1.png" alt="Botones 1" width="30%"><br>
-<img src="../images/botones_2.png" alt="Botones 2" width="30%">
+<img src="assets/images/botones_1.png" alt="Botones 1" width="30%"><br>
+<img src="assets/images/botones_2.png" alt="Botones 2" width="30%">
 
 
 ## 4.2. Information Architecture
@@ -1508,42 +1508,42 @@ El método de navegación entre las diversas secciones de la landing page estar�
 ### 4.3.1. Landing Page Wireframe
 
 <td><p align="center">
-  <img src="../images/wireframe_1_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/wireframe_1_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/wireframe_2_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/wireframe_2_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/wireframe_3_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/wireframe_3_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/wireframe_4_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>  
+  <img src="assets/images/wireframe_4_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>  
 <td><p align="center">
-  <img src="../images/wireframe_5_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/wireframe_5_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/wireframe_6_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/wireframe_6_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/wireframe_7_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/wireframe_7_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/wireframe_8_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/wireframe_8_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 
 Figma:https://www.figma.com/file/xe8QMJ0qrwJtStkiB7l8zH/MEDSYSTEM?type=design&node-id=0%3A1&mode=design&t=ZtX8VrqTo4qt5UtH-1
 
 ### 4.3.2. Landing Page Mock-up
 
 <td><p align="center">
-  <img src="../images/Landing-page-mockup-1.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/Landing-page-mockup-1.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/Landing-page-mockup-2.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/Landing-page-mockup-2.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/Landing-page-mockup-3.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/Landing-page-mockup-3.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/Landing-page-mockup-4.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/Landing-page-mockup-4.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/Landing-page-mockup-5.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/Landing-page-mockup-5.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/Landing-page-mockup-6.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/Landing-page-mockup-6.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/Landing-page-mockup-7.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/Landing-page-mockup-7.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/Landing-page-mockup-8.PNG" alt="wireframes" width="100%"></p></td>
+  <img src="assets/images/Landing-page-mockup-8.PNG" alt="wireframes" width="100%"></p></td>
 
 Figma:https://www.figma.com/file/xe8QMJ0qrwJtStkiB7l8zH/MEDSYSTEM?type=design&node-id=0%3A1&mode=design&t=ZtX8VrqTo4qt5UtH-1
 
@@ -1551,40 +1551,40 @@ Figma:https://www.figma.com/file/xe8QMJ0qrwJtStkiB7l8zH/MEDSYSTEM?type=design&no
 
 Login patient
 <td><p align="center">
-  <img src="../images/Wireframe-Login-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td> 
+  <img src="assets/images/Wireframe-Login-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td> 
 Login doctor
 <td><p align="center">
-  <img src="../images/Wireframe-Login-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Login-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Login consultancy
 <td><p align="center">
-  <img src="../images/Wireframe-Login-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Login-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Register patient
 <td><p align="center">
-  <img src="../images/Wireframe-Register-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Register-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Register doctor
 <td><p align="center">
-  <img src="../images/Wireframe-Register-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Register-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Register consultancy
 <td><p align="center">
-  <img src="../images/Wireframe-Register-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Register-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor appointment
 <td><p align="center">
-  <img src="../images/Wireframe-Doctor-appointment.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Doctor-appointment.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor appointment 2
 <td><p align="center">
-  <img src="../images/Wireframe-Doctor-appointment-2.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Doctor-appointment-2.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
   Doctor chat
 <td><p align="center">
-  <img src="../images/Wireframe-Doctor-chat.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Doctor-chat.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor treatments for pacient
 <td><p align="center">
-  <img src="../images/Wireframe-Doctor-Treatments-for-pacient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Doctor-Treatments-for-pacient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor request history
 <td><p align="center">
-  <img src="../images/Wireframe-Doctor-request-history.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Doctor-request-history.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor request results
 <td><p align="center">
-  <img src="../images/Wireframe-Doctor-request-results.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
+  <img src="assets/images/Wireframe-Doctor-request-results.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 
 Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
 
@@ -1593,29 +1593,29 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 User goal 1: Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente.
 
 <td><p align="center">
-  <img src="../images/wireframes-user-goal-1.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/wireframes-user-goal-1.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
 <td><p align="center">
-  <img src="../images/wireframes-user-goal-1_2.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/wireframes-user-goal-1_2.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
 
 User goal 2: Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.
 
 <td><p align="center">
-  <img src="../images/wireframes-user-goal-2.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/wireframes-user-goal-2.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
 
 User goal 3: Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.
 
 <td><p align="center">
-  <img src="../images/wireframes-user-goal-3.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/wireframes-user-goal-3.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
 
 User goal 4: Como desarrollador, quiero incorporar una función de seguimiento de historias clínicas en MedSystem, para que los doctores puedan acceder fácilmente al historial médico de cada paciente, y puedan realizar un seguimiento preciso de su tratamiento.
 
 <td><p align="center">
-  <img src="../images/wireframes-user-goal-4.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/wireframes-user-goal-4.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
 
 User goal 5: Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.
 
 <td><p align="center">
-  <img src="../images/wireframes-user-goal-5.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
+  <img src="assets/images/wireframes-user-goal-5.PNG" alt="Web_Applications_Wireflow_Diagrams" width="100%"></p></td>
 
 Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
 
@@ -1623,13 +1623,13 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 
 Login patient
 <td><p align="center">
-  <img src="../images/Mockup-Login-patient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td> 
+  <img src="assets/images/Mockup-Login-patient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td> 
 Login doctor
 <td><p align="center">
-  <img src="../images/Mockup-Login-doctor.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Login-doctor.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Login consultancy
 <td><p align="center">
-  <img src="../images/Mockup-Login-consultancy.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+  <img src="assets/images/Mockup-Login-consultancy.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 Register patient
 <td><p align="center">
   <img src="../images/Mockup-Register-patient.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
