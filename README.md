@@ -2104,6 +2104,8 @@ Despues tambien esta GitHub Pages que es una función de GitHub que permite aloj
 
 ### 5.2.1.1 Sprint Planning 1
 
+<p>Se planeó el primer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
+
 | **Sprint #**                       | Sprint 1                                                                                                                                                                                                    |
 | :--------------------------------- | :---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
 | **Sprint Planning Background**     |                                                                                                                                                                                                             |
@@ -2334,6 +2336,8 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 ### 5.2.2 Sprint 2
 
 ### 5.2.2.1 Sprint Planning 2
+
+<p>Se planeó el segundo sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
 
 | **Sprint #**                       | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                          |
 |:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
