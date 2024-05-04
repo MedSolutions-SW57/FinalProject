@@ -1656,27 +1656,10 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 
 
 ## 4.7. Software Object-Oriented Design
-### 4.7.1. Class Diagrams
+### 4.7.1. Class Diagram
 
-<u>Bounded Context 1</u>
 
-<img alt= "BC!" src="assets/images/BC1.png">
-
-<u>Bounded Context 2</u>
-
-<img alt= "BC!" src="assets/images/BC2.png">
-
-<u>Bounded Context 3</u>
-
-<img alt= "BC!" src="assets/images/BC3.png">
-
-<u>Bounded Context 4</u>
-
-<img alt= "BC!" src="assets/images/BC4.png">
-
-<u>Bounded Context 5</u>
-
-<img alt= "BC!" src="assets/images/BC5.png">
+<img alt= "BC1" src="assets/images/OPENSOURCE.png">
 
 ### 4.7.2. Class Dictionary
 
@@ -2334,28 +2317,144 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 | Sprint n - 1 Retrospective Summary | El equipo identificó como aciertos la comunicación efectiva y la colaboración en la resolución de problemas. No obstante, se señaló la necesidad de una mejor planificación inicial, especialmente en cuanto a la estimación del tiempo necesario para ciertas tareas, y se identificó la posibilidad de optimizar el proceso de revisión de código para garantizar una mayor calidad del producto entregado.                                                                                                                                                                                                                                                                                                                                     |
 | **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
 | Sprint 2 Goal                      | El objetivo principal que tiene este sprint 2 es elaborar la primera versión y despliegue del front end web applications para el negocio.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                         |
-| Sprint 2 Velocity                  |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
-| Sum of Story Points                |                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Sprint 2 Velocity                  |    19                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
+| Sum of Story Points                |    19                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
 ### 5.2.1.2 Sprint Backlog 2
 
 
-| User Story ID | User Story Title                       | Task ID | Task Title                                     | Description                                                                                                                                                                         | Estimation (Hours) | Assigned To                | Status     |
-|---------------|----------------------------------------|---------|------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------|----------------------------|------------|
-| US07          | Registro de nueva cita                 | T01     | Sección de registar nueva cita                 | Crear la sección de registar nueva cita, donde el paciente podrá progrmar su cita escogiendo la fecha y hora, la especialidad(de momento solo traumatología), el doctor y el campus | 8                  | Manuel Gutierrez Zumaeta   | Done       |
-| US02          | Gestión de citas                       | T02     | Sección de gestionar citas                     | Crear la sección de gestionar citas, donde el doctor podrá visualizar una lista de citas pendientes y acceder a cada una para ver la información completa                           | 6                  | Manuel Gutierrez Zumaeta   | Done       |
-| US06          | Seguridad de los datos médicos         | T03     | Opción de acceso personalizado basado en roles | Agregar la opción que permita seleccionar un rol específico y así acceder con sus respectivas credenciales.                                                                         | 2                  | Jorge Altamirano Saenz     | Done       |
-| US12          | Confirmación de cita                   | T04     | Enviar la confirmación de la cita              | Implementar un envio de confirmación de la cita programada al correo electrónico y/o mensaje del paciente una vez realizado el pago.                                                | 4                  | Jorge Altamirano Saenz     | In-process |
-| US10          | Recordatorio de citas                  | T05     | Opción para habilitar las notificaciones       | Implementar un botón para que el usuario pueda activar o desactivar  si desea recibir notificaciones respecto a sus citas.                                                          | 2                  | Sebastian Flores Manrique  | Done       |
-| US11          | Cancelación y re-agendamiento de citas | T06     | Crear sección de Mis citas                     | Crear la sección de mis citas donde el paciente podrá editar su cita programada, como cambiar la fecha y hora, seleccionar otro doctor o cancelar la cita.                          | 4                  | Manuel Gutierrez Zumaeta   | Done       |
-| US04          | Herramienta de comunicación            | T07     | Implementación de un chat                      | Implementar un chat tanto para pacientes y doctores, donde podrán enviar mensajes en tiempo real y visualizar el listado de todos sus chats                                         | 6                  | Sebastian Flores Manrique  | In-process |
-| US15          | Actualización de Planes de Tratamiento | T08     | Crear sección de tratamientos                  | Crear la sección de tratamientos donde el doctor podrá agregar, editar o remover algún tratamiento de la lista.                                                                     | 6                  | Juan Moetes Figueroa       | Done       |
-| US19          | Acceso rápido al historial médico del paciente | T09     | Crear sección de historial médico              | Crear la sección de historial del paciente donde mostrará una tabla con los historiales, además de una opción de búsqueda.                                                          | 6                  | Carlos Guimaraes Escalante | Done       |
-| US15          | Visualización detallada del historial médico | T10     | Ver información completa del historial médico  | Implementar un botón en la sección de historiales de pacientes para poder mostrar al detalle el historial de cada paciente.                                                         | 4                  | Carlos Guimaraes Escalante | Done       |
-| US29          | Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas                 | T11     | Sección para visualizar resultados de exámenes | Crear una sección donde se mostrará los resultados de exámenes de pacientes en una tabla, además contará con un botón de búsqueda.                                                  | 6                  | Sebastian Flores Manrique  | Done       |
-| US05          | Generación de informes                 | T12     | Opción que permitia descargar un iforme final  | Crear una opción que al finalizar un tratamiento permita generar un informe completo sobre este y a la vez poder descargarlo                                                        | 2                  | Juan Moetes Figueroa       | In-process |
-
-
+<table>
+	<tbody>
+		<tr>
+			<td>User Story ID</td>
+			<td>User Story Title</td>
+			<td>Task ID</td>
+			<td>Task Title</td>
+			<td>Description</td>
+			<td>Estimation(hours)</td>
+			<td>Assigned to</td>
+			<td>Status</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US07</td>
+			<td rowspan="2">Registro de nueva cita</td>
+			<td>T01</td>
+			<td>Creación de la sección de registar nueva cita</td>
+			<td>Crear la sección de registar nueva cita, que permite programar una cita seleccionando la fecha, hora, doctor, y lugar.</td>
+			<td>6</td>
+			<td>Manuel Gutierrez Zumaeta </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T02</td>
+			<td>Crear sección de citas</td>
+			<td>Crear la sección de citas donde el paciente podrá ver el listado de sus citas pendientes asi como el historial de sus citas.</td>
+			<td>4</td>
+			<td>Manuel Gutierrez Zumaeta</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US02</td>
+			<td rowspan="2">Gestión de citas</td>
+			<td>T03</td>
+			<td>Sección de gestionar citas</td>
+			<td>Crear la sección que le permitrá al doctor ver todas sus citas pendientes del día.</td>
+			<td>4</td>
+			<td>Jorge Altamirano Saenz </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T04</td>
+			<td>Citas detalladas</td>
+			<td>Incorporar un botón para mostar los detalles completos de las citas y permitir añadir notas</td>
+			<td>3</td>
+			<td>Jorge Altamirano Saenz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US04</td>
+			<td rowspan="2">Acceso Eficiente al Historial Médico Completo</td>
+			<td>T05</td>
+			<td>Sección de historial Médico</td>
+			<td>Crear la sección donde el doctor podrá ver una lista de historiales médicos de sus pacientes a cargo.</td>
+			<td>4</td>
+			<td>Carlos Guimaraes Escalante</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T06</td>
+			<td>Añadir filtro de búsqueda</td>
+			<td>Añadir un cuadro de texto para que el doctor pueda lograr una búsqueda más personalizada.</td>
+			<td>2</td>
+			<td>Carlos Guimaraes Escalante</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US15</td>
+			<td rowspan="2">Actualización de Planes de Tratamient</td>
+			<td>T07</td>
+			<td>Crear Sección de tratamientos</td>
+			<td>Crear la sección donde el paciente podrá visualizar su lista de tratamientos a detalle.</td>
+			<td>6</td>
+			<td>Juan Moetes Figueroa</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T08</td>
+			<td>Gestionar sección de tratamientos</td>
+			<td>Incorporar botones en la vista del doctor para la creación, edición o eliminación de los tratamientos.</td>
+			<td>4</td>
+			<td>Juan Moetes Figueroa</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US29</td>
+			<td rowspan="2">Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas</td>
+			<td>T09</td>
+			<td>Sección de registro de resultados</td>
+			<td>Crear la sección de registro de resultados, donde el doctor visualizará la lista de exámenes médicos realizados pacientes.</td>
+			<td>6</td>
+			<td>Sebastian Flores Manrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T10</td>
+			<td>Sección Historial de resultados</td>
+			<td>Crear la sección de historial de resultados donde el paciente visualizará todos sus exámenes médicos realizados</td>
+			<td>4</td>
+			<td>Sebastian Flores Manrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US12</td>
+			<td>Re-agendamiento de Citas</td>
+			<td>T11</td>
+			<td>Opción de posponer cita</td>
+			<td>Crear la opción posponer cita que permita aplazar la cita una hora durante el día.</td>
+			<td>2</td>
+			<td>Jorge Altamirano Saenz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US04</td>
+			<td rowspan="2">Herramienta de comunicación</td>
+			<td>T12</td>
+			<td>Chat de texto</td>
+			<td>Implementar un chat de texto en tiempo real</td>
+			<td>6</td>
+			<td>Sebastian Flores Manrique</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td>T13/td>
+			<td>Lista de chats</td>
+			<td>Implementar una lista de chats, donde visualizará el historial de los mensajes</td>
+			<td>6</td>
+			<td>Sebastian Flores Manrique</td>
+			<td>In-process</td>
+		</tr>
+	</tbody>
+</table>
 
 ### 5.2.1.3 Development Evidence for Sprint Review
 
@@ -2384,15 +2483,41 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 | LosLuminosos-SW57medSystem-FrontEnd | feat/request-results           | a4bd117a8975948d5034c43ca124a0fd5f6557f7 | feat: add patient exam results page                                                                                           |                     | 01/05/24           |
 | LosLuminosos-SW57medSystem-FrontEnd | feat/login                     | 2ae56bd54b28859ce06a228c89af7872b7958716 | feat: added login and register and routes                                                                                     |                     | 01/05/24           |
 
-
+### 5.2.2.5 Execution Evidence for Sprint Review
+- Login
+<img src="assets/images/login1.png">
+- Doctor Appointments
+<img src="assets/images/appointmentDoctor.png">
+- Doctor Treatements
+<img src="assets/images/treatmentsDoctor.png">
+- Doctor Request History
+<img src="assets/images/historyDoctor.png">
+- Doctor Request Results
+<img src="assets/images/resulsDoctor.png">
+- Patient Appointments
+<img src="assets/images/appointmentDoctor.png">
+- Patient Request Results
+<img src="assets/images/resultsPatient.png">
+- Patient Request History
+<img src="assets/images/historyPatient.png">
 
 ## 5.4 Video About the Product
+Link del video en youtube: https://youtu.be/Qp7P37eMdgY 
+Link del video en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112353_upc_edu_pe/EUp9HZi_3P9FhX2vh3B1AkUBAu3sqtdvcnAZw89YQInELQ?e=WWLLpq 
 
+<img src="assets/images/aboutheteam.png">
 ---
 <br>
 
 # Conclusiones
-## Conclusiones y recomendaciones
+<p>-Validación del Modelo de Negocio:
+A lo largo del proyecto, se ha confirmado la viabilidad del modelo de negocio centrado en el desarrollo y comercialización de una plataforma tecnológica destinada a la gestión de clientes en el sector automotriz peruano.</p>
+<p>-Importancia de la Colaboración Interdisciplinaria:
+Se ha demostrado la relevancia de la colaboración entre el equipo para crear una solución integral que satisfaga tanto las necesidades tecnológicas como comerciales del mercado automotriz.</p>
+<p>-Enfoque en la Innovación Continua:
+Se ha subrayado la necesidad de mantener una innovación constante y adaptarse a las cambiantes demandas del mercado para asegurar la relevancia y competitividad a largo plazo de la plataforma.</p>
+<p>-Potencial de Escalabilidad y Expansión:
+Con una base establecida sólidamente, existe un gran potencial para la escalabilidad y expansión del proyecto hacia nuevos mercados y sectores relacionados con la industria automotriz en el futuro.</p>
 ## Video About the Team 
 
 ---
