@@ -1661,7 +1661,7 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 ### 4.7.1. Class Diagram
 
 
-<img alt= "BC1" src="assets/images/OPENSOURCE.png">
+<img alt= "class-diagram" src="assets/images/OPENSOURCE.PNG">
 
 ### 4.7.2. Class Dictionary
 
