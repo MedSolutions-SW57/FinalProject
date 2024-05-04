@@ -639,23 +639,23 @@ Resumen de la entrevista:
 
 Entrevista 3:
 
-Fecha entrevistada:
+Fecha entrevistada: 14/04/24
 
-Entrevistador:
+Entrevistador: Sebastian Flores Manrique
 
-Entrevistado:
+Entrevistado: Juan Mendevil Quispe
 
 Datos del entrevistado:
 
-- Edad:
-- Distrito:
+- Edad: 26
+- Distrito: Villa María del triunfo
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Dpaciente%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E81f75b7c%2D03ec%2D4f5b%2D9184%2Db857233d0a2c">Link</a>
 
 - Minuto de Inicio:
 - Minuto de Fin:
 
-<img alt = "Entrevista1.3" src="assets/images/Entrevista1.3.png">
+<img alt = "Entrevista1.3" src="assets/images/entevista-paciente-3.png">
 
 Resumen de la entrevista:
 
@@ -2503,6 +2503,34 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 <img src="assets/images/resultsPatient.png">
 - Patient Request History
 <img src="assets/images/historyPatient.png">
+
+### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services. Por ello, aún no se puede incluir los Endpoints documentados con OpenAPI y se realizará en las próximas entregas. 
+
+### 5.2.2.7 Software Deployment Evidence for Sprint Review 
+- Creamos un proyecto en Firebase
+<img src="assets/images/firebase1.png">
+
+- Seguimos los pasosque nos indican hasta llegar a esta pestana
+<img src="assets/images/firebase2.png">
+
+Luego en la terminal del proyecyo ponemos el siguiente comando
+<br>
+ng run build
+<br>
+Una vez heho eso ponemos lo siguiente
+<br>
+firebase deploy
+<br>
+Una vez hecho eso ya estaria desplegada la pagina
+<br>
+firebase deploy
+
+### 5.2.2.8 Team Collaboration Insights during Sprint
+
+Los insights del repositorio del frontend
+<img src="assets/images/insights2.png">
 
 ## 5.4 Video About the Product
 Link del video en youtube: https://youtu.be/Qp7P37eMdgY 
