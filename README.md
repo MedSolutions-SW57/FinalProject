@@ -2483,6 +2483,31 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 | LosLuminosos-SW57medSystem-FrontEnd | feat/request-results           | a4bd117a8975948d5034c43ca124a0fd5f6557f7 | feat: add patient exam results page                                                                                           |                     | 01/05/24           |
 | LosLuminosos-SW57medSystem-FrontEnd | feat/login                     | 2ae56bd54b28859ce06a228c89af7872b7958716 | feat: added login and register and routes                                                                                     |                     | 01/05/24           |
 
+### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+### 5.2.2.7 Software Deployment Evidence for Sprint Review 
+- Creamos un proyecto en Firebase
+<img src="assets/images/firebase1.png">
+
+- Seguimos los pasosque nos indican hasta llegar a esta pestana
+<img src="assets/images/firebase2.png">
+
+Luego en la terminal del proyecyo ponemos el siguiente comando
+<br>
+ng run build
+<br>
+Una vez heho eso ponemos lo siguiente
+<br>
+firebase deploy
+<br>
+Una vez hecho eso ya estaria desplegada la pagina
+<br>
+firebase deploy
+
+### 5.2.2.8 Team Collaboration Insights during Sprint
+
+Los insights del repositorio del frontend
+<img src="assets/images/insights2.png">
 ### 5.2.2.5 Execution Evidence for Sprint Review
 - Login
 <img src="assets/images/login1.png">
