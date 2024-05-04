@@ -102,8 +102,10 @@ A lo largo del proyecto, el equipo ha estado comprometido en la creación del in
 - La revisión y corrección de los capítulos del informe, asegurando la coherencia y calidad del contenido.
 
 (Imagenes de los commits cada entrega)
-
-<img src="assets/images/commits1.png" width="50%" alt="Commits"> 
+- TB1
+<img src="assets/images/commits1.png" width="50%" alt="Commits">
+- TP
+<img src="assets/images/commits2.png" width="50%" alt="Commits"> 
 
 - - -
 # Contenido
