@@ -2501,6 +2501,10 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 - Patient Request History
 <img src="assets/images/historyPatient.png">
 
+### 5.2.2.6 Services Documentation Evidence for Sprint Review
+
+Para este sprint 2, aún no se ha empezado con el desarrollo de los Web Services. Por ello, aún no se puede incluir los Endpoints documentados con OpenAPI y se realizará en las próximas entregas. 
+
 ## 5.4 Video About the Product
 Link del video en youtube: https://youtu.be/Qp7P37eMdgY 
 Link del video en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112353_upc_edu_pe/EUp9HZi_3P9FhX2vh3B1AkUBAu3sqtdvcnAZw89YQInELQ?e=WWLLpq 
