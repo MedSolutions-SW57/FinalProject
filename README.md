@@ -1697,7 +1697,7 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 
 
 ## 4.7. Software Object-Oriented Design
-### 4.7.1. Class Diagrams
+### 4.7.1. Class Diagram
 
 
 <img alt= "BC1" src="assets/images/OPENSOURCE.png">
