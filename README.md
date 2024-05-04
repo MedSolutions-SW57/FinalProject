@@ -2428,7 +2428,10 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 
 
 ## 5.4 Video About the Product
+Link del video en youtube: https://youtu.be/Qp7P37eMdgY 
+Link del video en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112353_upc_edu_pe/EUp9HZi_3P9FhX2vh3B1AkUBAu3sqtdvcnAZw89YQInELQ?e=WWLLpq 
 
+<img src="assets/images/aboutheteam.png">
 ---
 <br>
 
