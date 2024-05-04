@@ -1699,25 +1699,8 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 ## 4.7. Software Object-Oriented Design
 ### 4.7.1. Class Diagrams
 
-<u>Bounded Context 1</u>
 
-<img alt= "BC!" src="assets/images/BC1.png">
-
-<u>Bounded Context 2</u>
-
-<img alt= "BC!" src="assets/images/BC2.png">
-
-<u>Bounded Context 3</u>
-
-<img alt= "BC!" src="assets/images/BC3.png">
-
-<u>Bounded Context 4</u>
-
-<img alt= "BC!" src="assets/images/BC4.png">
-
-<u>Bounded Context 5</u>
-
-<img alt= "BC!" src="assets/images/BC5.png">
+<img alt= "BC1" src="assets/images/OPENSOURCE.png">
 
 ### 4.7.2. Class Dictionary
 
