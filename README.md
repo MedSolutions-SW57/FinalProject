@@ -2408,7 +2408,23 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 | LosLuminosos-SW57medSystem-FrontEnd | feat/request-results           | a4bd117a8975948d5034c43ca124a0fd5f6557f7 | feat: add patient exam results page                                                                                           |                     | 01/05/24           |
 | LosLuminosos-SW57medSystem-FrontEnd | feat/login                     | 2ae56bd54b28859ce06a228c89af7872b7958716 | feat: added login and register and routes                                                                                     |                     | 01/05/24           |
 
-
+### 5.2.2.5 Execution Evidence for Sprint Review
+- Login
+<img src="assets/images/login1.png">
+- Doctor Appointments
+<img src="assets/images/appointmentDoctor.png">
+- Doctor Treatements
+<img src="assets/images/treatmentsDoctor.png">
+- Doctor Request History
+<img src="assets/images/historyDoctor.png">
+- Doctor Request Results
+<img src="assets/images/resulsDoctor.png">
+- Patient Appointments
+<img src="assets/images/appointmentDoctor.png">
+- Patient Request Results
+<img src="assets/images/resultsPatient.png">
+- Patient Request History
+<img src="assets/images/historyPatient.png">
 
 ## 5.4 Video About the Product
 Link del video en youtube: https://youtu.be/Qp7P37eMdgY 
