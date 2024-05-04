@@ -29,14 +29,64 @@
 ##### Abril, 2024
 - - -
 # Registro de Versiones del informe
-| Version | Fecha      | Autor                     | Descripcion de Modificacion                                                  |
-|-------|------------|---------------------------|------------------------------------------------------------------------------|
-| 0.1   | 23/03/2024 | Manuel Gutierrez Zumaeta  | Creé el documento.                                                           |
-| 0.2   | 24/0/2024 | Jorge Altamirano Saenz    | Agregué la definición del startup, antecedentes y problemáticas del startup. | 
-| 0.3   | 24/03/2024 | Sebastian Flores Manrique | Agregué el Lean UX Problem Statements y Lean UX Assumptions.                 | 
-| 0.4   | 26/04/2024 | Manuel Alonso Gutierrez Zumaeta| Correciones                | 
-| 0.5   | 29/04/2024 | Sebastian Flores Manrique | Agregué el Lean UX Problem Statements y Lean UX Assumptions.                 | 
-| 0.6   | 1/05/2024 | Sebastian Flores Manrique | Agregué el Lean UX Problem Statements y Lean UX Assumptions.                 | 
+</div>
+
+<table>
+  <thead>
+    <tr>
+        <th>Versión</th>
+        <th>Fecha</th>
+        <th>Autor</th>
+        <th>Descripción de modificación</th>
+    </tr>
+  </thead>
+  <tbody>
+  <tr>
+      <td><strong>TB1</strong></td>
+      <td>Miércoles 10 de Abril</td>
+      <td>
+        <ul>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Altamirano Saenz, Jorge Armando</li>
+          <li>Guimaraes Escalante, Carlos Eduardo</li>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Montes Figueroa, Juan Eduardo	</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Capítulo I: Introducción</li>
+          <li>Capítulo II: Requirements Elicitation & Analysis</li>
+          <li>Capítulo III: Requirements Specification</li>
+          <li>Capítulo IV: Product Design</li>
+          <li>Avance del Capítulo V: Product Implementation, Validation & Deployment hasta el punto 5.2.1.8</li>
+          <li>Avance de Conclusiones, Bibliografía y Anexos</li>
+        </ul>
+      </td>
+  </tr>
+  <tr>
+      <td><strong>TP</strong></td>
+      <td>Viernes 3 de mayo</td>
+      <td>
+        <ul>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Altamirano Saenz, Jorge Armando</li>
+          <li>Guimaraes Escalante, Carlos Eduardo</li>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Montes Figueroa, Juan Eduardo	</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Frontend</li>
+          <li>Avance del Capítulo V: Sprint 2</li>
+        </ul>
+      </td>
+  </tr>
+  </tbody>
+</table>
 - - -
 # Project Report Collaboration Insights
 
