@@ -42,7 +42,7 @@
   </thead>
   <tbody>
   <tr>
-      <td><strong>TB1</strong></td>
+      <td><strong>0.1</strong></td>
       <td>Miércoles 10 de Abril</td>
       <td>
         <ul>
@@ -66,7 +66,7 @@
       </td>
   </tr>
   <tr>
-      <td><strong>TP</strong></td>
+      <td><strong>0.2</strong></td>
       <td>Viernes 3 de mayo</td>
       <td>
         <ul>
