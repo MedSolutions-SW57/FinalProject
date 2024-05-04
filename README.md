@@ -32,8 +32,11 @@
 | Version | Fecha      | Autor                     | Descripcion de Modificacion                                                  |
 |-------|------------|---------------------------|------------------------------------------------------------------------------|
 | 0.1   | 23/03/2024 | Manuel Gutierrez Zumaeta  | Creé el documento.                                                           |
-| 0.2   | 24/03/2024 | Jorge Altamirano Saenz    | Agregué la definición del startup, antecedentes y problemáticas del startup. | 
+| 0.2   | 24/0/2024 | Jorge Altamirano Saenz    | Agregué la definición del startup, antecedentes y problemáticas del startup. | 
 | 0.3   | 24/03/2024 | Sebastian Flores Manrique | Agregué el Lean UX Problem Statements y Lean UX Assumptions.                 | 
+| 0.4   | 26/04/2024 | Manuel Alonso Gutierrez Zumaeta| Correciones                | 
+| 0.5   | 29/04/2024 | Sebastian Flores Manrique | Agregué el Lean UX Problem Statements y Lean UX Assumptions.                 | 
+| 0.6   | 1/05/2024 | Sebastian Flores Manrique | Agregué el Lean UX Problem Statements y Lean UX Assumptions.                 | 
 - - -
 # Project Report Collaboration Insights
 
@@ -2371,6 +2374,37 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 | US15          | Visualización detallada del historial médico | T10     | Ver información completa del historial médico  | Implementar un botón en la sección de historiales de pacientes para poder mostrar al detalle el historial de cada paciente.                                                         | 4                  | Carlos Guimaraes Escalante | Done       |
 | US29          | Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas                 | T11     | Sección para visualizar resultados de exámenes | Crear una sección donde se mostrará los resultados de exámenes de pacientes en una tabla, además contará con un botón de búsqueda.                                                  | 6                  | Sebastian Flores Manrique  | Done       |
 | US05          | Generación de informes                 | T12     | Opción que permitia descargar un iforme final  | Crear una opción que al finalizar un tratamiento permita generar un informe completo sobre este y a la vez poder descargarlo                                                        | 2                  | Juan Moetes Figueroa       | In-process |
+
+
+
+### 5.2.1.3 Development Evidence for Sprint Review
+
+| Repository                          | Branch                         | Commit Id                                | Commit Message                                                                                                                | Commit Message Body | Commited on (Date) |
+|-------------------------------------|--------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
+| LosLuminosos-SW57medSystem-FrontEnd | master                         | 8a46e23543954eddda2eb37cd34ad4d6af1ca96a | chore:initial commit                                                                                                          |                     | 22/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | master                         | d57196a2c022906cfa5ae32010e283d43f05d0c4 | feat: side-nav created                                                                                                        |                     | 23/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-request-results       | a8ed508d91d70ca3cf1c992d8b1bd7de9a94f70a | feat: create request results component                                                                                        |                     | 24/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-request-results       | e8177b5689b48528b2ff5e9bfb1227964eeb448e | feat: update request results component                                                                                        |                     | 24/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-request-results       | b700ef792920527fd0b4aef0f2b89bb6435b2379 | feat: add request top appmodule.                                                                                              |                     | 24/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-request-results       | 11daf5f513481ecbce313ec70ff606633a77ee60 | feat: fix request-results and add module table                                                                                |                     | 24/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | master                         | 17596dd0ebfd4c6441dadcaee2b22b00d2b40741 | feat: add imports to module                                                                                                   |                     | 25/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | master                         | 197bb6a0dddddc24547491b55f5782377317811f | feat: create db.json and routes.json                                                                                          |                     | 25/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-request-results       | 200a65d5383715d8fcf50e25d00ce9aa883c4dc9 | feat: create service and results class                                                                                        |                     | 25/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-appointments          | 00bb0ec116e017303d0715e26c802d5dc8114ef5 | feat: appointments component updated                                                                                          |                     | 25/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-appointment-routing   | b07be04649a78902381d4f9d80c5b64851303bc6 | feat: routes were implemented, side-nav component was eliminated and directory pages was created.                             |                     | 25/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | master                         | 13ab1f3e09e43a33155494ed71982a6db0799b42 | feat: page not found component created                                                                                        |                     | 25/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-treatments            | c5a29031469a992b83975d771358914bdf997817 | feat: updated treatments components                                                                                           |                     | 26/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-request-history       | a4ca5dea8012299f6ef47d867f2ab9f00a749377 | feat: added request history                                                                                                   |                     | 27/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-request-history       | 2b7da8520ecdc2d151b42a3e2da71982e77196b1 | feat: modified db.json and way to retrieve the data for rquest history                                                        |                     | 27/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-appointments-patients | 0dc6a77dfced7d2d873ab4cf6dda230c7c1ce96a | feat: review-appointment component and route created                                                                          |                     | 27/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-treatments            | c483c1bfc8c7a14c69e05f95b5c9305cea2f6316 | feat: treatments component updated                                                                                            |                     | 27/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/dev-appointments          | f4646c18f1046b431ede237b924b52bf014ac328 | chore: refactor appointments components to doctor-appointments, created new directory for the bounded context of appointments |                     | 28/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/login                     | c84690b9d5a6110a4046496d237fdbc376b31bb3 | feat: created register page                                                                                                   |                     | 30/04/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/request-history           | 0c8693c59fb2ce486ef55cadde8371e5ea2d9a17 | feat: added patients request history                                                                                          |                     | 01/05/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/request-results           | a4bd117a8975948d5034c43ca124a0fd5f6557f7 | feat: add patient exam results page                                                                                           |                     | 01/05/24           |
+| LosLuminosos-SW57medSystem-FrontEnd | feat/login                     | 2ae56bd54b28859ce06a228c89af7872b7958716 | feat: added login and register and routes                                                                                     |                     | 01/05/24           |
+
+
 
 ## 5.4 Video About the Product
 
