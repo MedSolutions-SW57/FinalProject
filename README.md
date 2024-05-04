@@ -709,29 +709,10 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 Resumen de la entrevista:
 <p>
-Durante la entrevista, el Dr. Gerardo Villaroel nos explica los procesos que suele haber en el área de traumatología y como es que en el centro donde trabaja ya cuenta con un sistema tecnológico que les da mayor facilidad para comunicarse con sus pacientes. En este caso nos dice que los pacientes ingresan con sus credenciales a este portal médico, y de esa forma pueden visualizar el contenido multimedia que es de ellos, como radiografías por ejemplo. El Dr. Villaroel reafirma la importancia de la tecnología en su práctica médica, y como facilita su forma de trabajo.
+Durante la entrevista, el Dr. Gerardo Villaroel nos explica los procesos que suele haber en el área de traumatología y como es que en el centro donde trabaja ya cuenta con un sistema tecnológico que les da mayor facilidad para comunicarse con sus pacientes. En este caso nos dice que los pacientes ingresan con sus credenciales a este portal médico, y de esa forma pueden visualizar el contenido multimedia que es de ellos, como radiografías por ejemplo. El Dr. Villaroel reafirma la importancia de la tecnología en su práctica médica, y como facilita su forma de trabajo. En su caso el demuestra ser una persona experta, amable y fiable. El prefiere marcas como GE HealthCare, Bowa Medical o Stryker y suele usar WhatsApp, Facebook, Instagram y Tik Tok como canal de interacción. Por último, el usa Opera GX como browser de preferencia y prefiere utilziar dispositivos IOS.
+</p>
 </p>
 
-Entrevista 3:
-
-Fecha entrevistada: 
-
-Entrevistador:
-
-Entrevistado:
-
-Datos del entrevistado:
-- Edad:
-- Distrito:
-
-Link de la Entrevista: <a href="">Link</a>
-
-- Minuto de Inicio: 
-- Minuto de Fin:
-
-<img alt = "Entrevista2.3" src="assets/images/Entrevista2.3.png">
-
-Resumen de la entrevista:
 <p></p>
 
 <u>Segmento objetivo - Laboratorio</u>
@@ -781,30 +762,8 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 Resumen de la entrevista:
 <p>
-En esta entrevista, Giannina nos comenta la importancia de que los resultado médicos llegue en las horas establecida, asi como lo importante que es que las indicaciones el doctor para realizar una prueba médica sea concisa. Según ella, los examenes se deben realizar una y otra vez para que el resultado de la prueba sea fiable. Asimismo, nos habla de lo importante que sería la tecnología para poder tener un contacto más directo con el médico, y de esta forma agilizar los procesos de laboratorio.
+En esta entrevista, Giannina nos comenta la importancia de que los resultado médicos llegue en las horas establecida, asi como lo importante que es que las indicaciones el doctor para realizar una prueba médica sea concisa. Según ella, los examenes se deben realizar una y otra vez para que el resultado de la prueba sea fiable. Asimismo, nos habla de lo importante que sería la tecnología para poder tener un contacto más directo con el médico, y de esta forma agilizar los procesos de laboratorio. En su caso ella es una persona muy racional y objetiva. Ella prefiere marcas como Sony, MEDISONIC, Samsung y suele usar WhatsApp o Facebook como canal de interacción. Por último, ella usa Google Chrome como browser de preferencia y utliza dispositivos Android.
 </p>
-
-Entrevista 3:
-
-Fecha entrevistada:
-
-Entrevistador:
-
-Entrevistado:
-
-Datos del entrevistado:
-
-- Edad:
-- Distrito:
-
-Link de la Entrevista: <a href="">Link</a>
-
-- Minuto de Inicio:
-- Minuto de Fin:
-
-<img alt = "Entrevista3.3" src="assets/images/Entrevista3.3.png">
-
-Resumen de la entrevista:
 
 <p></p>
 
