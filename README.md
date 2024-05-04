@@ -998,7 +998,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 |US03| Gestión de Pedidos Internos | Como técnico de laboratorio, desea poder realizar pedidos de reposición de suministros de manera fácil y rápida a través de la plataforma, para mantener los niveles de inventario óptimos y asegurar un flujo de trabajo eficiente. | <p>**Escenario 1: Creación de Pedido Exitosa**</p><p>- Dado que el técnico de laboratorio está en la página de gestión de pedidos internos,</p><p>- Cuando selecciona los suministros necesarios y confirma la creación del pedido,</p><p>- Entonces el sistema registra el pedido correctamente y muestra un mensaje de confirmación.</p><p>**Escenario 2: Pedido de Suministros Insuficientes**<p></p><p>- Dado que el técnico de laboratorio está en la página de gestión de pedidos internos,</p><p>- Cuando intenta realizar un pedido con suministros no disponibles en el inventario,</p><p>- Entonces el sistema muestra un mensaje de error indicando que algunos suministros no están disponibles y sugiere revisar el inventario antes de continuar.</p>|E01|
 |US04| Organización de Equipos |  Como técnico de laboratorio, quiere poder mantener un registro detallado de los equipos disponibles en el laboratorio, incluyendo información sobre su estado, mantenimiento programado y ubicación actual, para facilitar su uso y mantenimiento. | <p>**Escenario 1: Registro Exitoso de Equipo**</p><p>- Dado que el técnico de laboratorio está en la página de organización de equipos,</p><p>- Cuando ingresa los detalles de un nuevo equipo correctamente,</p><p>- Entonces el sistema registra el equipo en la base de datos y muestra un mensaje de confirmación.</p><p>**Escenario 2: Actualización de Estado de Equipo**</p><p>- Dado que el técnico de laboratorio está en la página de organización de equipos,</p><p>- Cuando actualiza el estado de un equipo después de realizar el mantenimiento programado,</p><p>- Entonces el sistema actualiza la información del equipo en la base de datos y muestra un mensaje indicando que la actualización se ha realizado con éxito.</p>|E01|
 |US05| Integración de Datos |  Como técnico de laboratorio, necesita que la plataforma tenga la capacidad de integrar los datos del inventario con otros sistemas internos del laboratorio, para garantizar una gestión coherente y eficiente del inventario y evitar discrepancias en los registros. | <p>**Escenario 1: Actualización Exitosa del Inventario**</p><p>- Dado que el técnico de laboratorio está en la página de integración de datos,</p><p>- Cuando se realiza una actualización en el inventario desde otro sistema interno del laboratorio,</p><p>- Entonces el sistema integra los nuevos datos con el inventario existente y muestra un mensaje de confirmación.</p><p>**Escenario 2: Sincronización Automatizada de Información**</p><p>- Dado que el técnico de laboratorio está en la página de integración de datos,</p><p>- Cuando se activa la sincronización automática entre la aplicación web del laboratorio y otros sistemas internos,</p><p>- Entonces el sistema verifica periódicamente la información en ambos sistemas y asegura que estén alineados, garantizando la consistencia de los datos.</p>|E01|
-|US06| Seguridad de los datos médicos | Como desarrollador, quiero garantizar la seguridad de los datos en MedSystem, implementado medidas robustas de protección de la información, como el cifrado de datos y el acceso basado en roles, para así proteger la privacidad y confidencialidad de los registros médicos de los pacientes y el material multimedia que les pertenece.| <p>**Escenario 1: Acceso basado en roles**</p><p>- Dado que el paciente intenta acceder a datos médicos en la aplicación de MedSystem,</p><p>- Cuando intenta acceder a datos a los cuales no tiene acceso, </p><p>- Entonces el sistema le rechazará el acceso y registrará este intento junto con sus credenciales, y así de este modo se cumplen las políticas de seguridad y privacidad de datos de la aplicación.</p><p> <p>**Escenario 2: Protección de datos sensibles**</p><p>- Dado que todos los datos médicos estan almacenados en la aplicación de MedSystem,</p><p>- Cuando se intente acceder a estos datos para su visualización o procesamiento,</p><p>- Entonces el sistema aplicará las medidas de cifrado de extremo a extremo, para garantizar la protección de la información confidencial del paciente.</p><p> |E02|
+|US06| Gestión de Mantenimiento de Equipos | Como técnico de laboratorio, necesito una funcionalidad en la plataforma que me permita gestionar el mantenimiento de los equipos del laboratorio, para garantizar su correcto funcionamiento y prolongar su vida útil.| <p>**Escenario 1: Programación de Mantenimiento**</p><p>- Dado que el encargado de laboratorio accede a la página de gestión de mantenimiento de equipos,<p>- Cuando selecciona un equipo específico que requiere mantenimiento preventivo,</p> </p><p>- Entonces puede programar una fecha y hora para la realización del mantenimiento.</p><p> <p>**Escenario 2: Registro de Mantenimiento Realizado**</p><p>- Dado que se ha completado el mantenimiento programado de un equipo,</p><p>- Cuando el técnico responsable del mantenimiento ingresa los detalles del trabajo realizado,</p><p>- Entonces el sistema registra la información del mantenimiento en la base de datos y actualiza el historial del equipo con los nuevos datos.</p><p> |E01|
 |US07|Registro de Nueva Cita|Como paciente, quiero programar una nueva cita médica a través de la plataforma en línea de MedSystem para evitar tener que llamar por teléfono.|<p>**Escenario 1: Registro de Cita para Pacientes Registrados**</p><p>- Dado que el usuario es un paciente registrado en MedSystem,</p><p>- Cuando selecciona la opción de programar una nueva cita médica desde la plataforma,</p><p>- Entonces es redirigido a un formulario donde puede ingresar los detalles de la cita, como la fecha, hora y motivo de la consulta.</p><p>**Escenario 2: Registro de Cita para Nuevos Pacientes**</p><p>- Dado que el usuario es un nuevo paciente en MedSystem,</p><p>- Cuando accede a la plataforma por primera vez y elige programar una cita médica,</p><p>- Entonces se le solicita completar un formulario de registro con su información personal antes de poder programar la cita.</p>|E02|
 |US08|Selección de Especialista y Ubicación|Como paciente, deseo poder seleccionar al especialista y la ubicación preferida para mi cita médica en MedSystem, para poder planificar de acuerdo a mis necesidades.|<p>**Escenario 1: Selección de Especialista Disponible**</p><p>- Dado que el usuario está programando una cita médica en MedSystem,</p><p>- Cuando elige la opción de seleccionar un especialista desde la plataforma,</p><p>- Entonces se le presenta una lista de especialistas disponibles junto con su especialidad y ubicación, lo que le permite elegir el más adecuado para su consulta.</p><p>**Escenario 2: Selección de Ubicación para la Cita Médica**</p><p>- Dado que el usuario tiene una preferencia de ubicación para su cita médica,</p><p>- Cuando selecciona la opción de elegir la ubicación en MedSystem,</p><p>- Entonces se le muestra un mapa interactivo con los diferentes centros médicos disponibles en su área, lo que le permite seleccionar el más conveniente para él.</p>|E02|
 |US09|Disponibilidad de Horarios|Como paciente, necesito ver la disponibilidad de horarios de los especialistas en MedSystem para elegir la fecha y hora más conveniente para mi cita médica.|<p>**Escenario 1: Verificación de Disponibilidad de Horarios**</p><p>- Dado que el usuario está buscando una cita médica en MedSystem,</p><p>- Cuando selecciona la opción de verificar la disponibilidad de horarios desde la plataforma,</p><p>- Entonces se le muestra un calendario interactivo con los días y horarios disponibles de los especialistas, lo que le permite seleccionar el más adecuado para él.</p><p>**Escenario 2: Destaque de Horarios Disponibles para Citas Urgentes**</p><p>- Dado que el usuario necesita una cita médica urgente,</p><p>- Cuando accede a la plataforma de MedSystem y selecciona la opción de ver la disponibilidad de horarios,</p><p>- Entonces se resaltan en el calendario los próximos horarios disponibles, lo que le permite programar una cita lo antes posible.</p>|E02|
@@ -1022,8 +1022,8 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 |US27|Acceso a los protocolos actualizados en la aplicación web del laboratorio|Como técnico de laboratorio, quiero una funcionalidad en la aplicación web que me permita acceder y revisar los protocolos actualizados de análisis y procedimientos, para asegurar que estoy siguiendo las últimas directrices y garantizar la calidad en la ejecución de las pruebas médicas.|<p>**Escenario 1:Acceso a los protocolos actualizados**</p><p>- Dado, que un técnico de laboratorio necesita revisar los protocolos actualizados.</p><p>- Cuando, accede a la sección de protocolos en la aplicación web.</p><p>- Entonces, encuentra una lista clara y organizada de los protocolos actualizados, con la posibilidad de ver detalles adicionales si es necesario.</p><p>**Escenario 2: Revisión y confirmación de los protocolos**</p><p>- Dado, que un técnico de laboratorio revisa un protocolo actualizado.</p><p>- Cuando, lee y comprende los detalles del protocolo.</p><p>- Entonces, confirma que está siguiendo las últimas directrices y procedimientos al ejecutar el análisis correspondiente.</p>|E05|
 |US28|Sistema de comunicación y registro de resultados|Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.|<p>**Escenario 1:Registro automático de resultados**</p><p>- Dado, que un técnico de laboratorio completa un análisis.</p><p>- Cuando, finaliza el proceso, los resultados se registran automáticamente en el sistema.</p><p>- Entonces, el sistema confirma el registro exitoso de los resultados.</p><p>**Escenario 2:Comunicación de resultados al médico**</p><p>- Dado, que un técnico de laboratorio finaliza el registro de resultados.</p><p>- Cuando, utiliza la funcionalidad de comunicación para enviar los resultados al médico a cargo.</p><p>- Entonces, el sistema envía los resultados de manera rápida y eficiente al médico a través de la aplicación.</p>|E05|
 |US29|Protocolo de integridad para las muestras en el proceso de análisis|Como técnico de laboratorio, quiero un protocolo actualizado que asegure la integridad de las muestras durante todo el proceso, desde la recolección hasta el análisis, minimizando así la posibilidad de resultados incorrectos debido a muestras comprometidas.|<p>**Escenario 1:Aplicación del protocolo de integridad**</p><p>- Dado, que un técnico de laboratorio comienza el proceso de análisis de muestras.</p><p>- Cuando, sigue el protocolo de integridad establecido para garantizar la calidad de las muestras.</p><p>- Entonces, se llevan a cabo las medidas necesarias para asegurar que las muestras se mantengan íntegras durante todo el proceso.</p><p>**Escenario 2:Identificación de muestras comprometidas**</p><p>- Dado, que un técnico de laboratorio está realizando un análisis.</p><p>- Cuando, se detecta una muestra comprometida según el protocolo de integridad.</p><p>- Entonces, se toman acciones específicas, como la repetición del análisis o la notificación al supervisor, para evitar resultados incorrectos debido a muestras comprometidas.</p>|E05|
-|US30|Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas|Como técnico de laboratorio, quiero un sistema de registro de resultados que considere automáticamente las implicaciones clínicas de los mismos, proporcionando información contextual al médico y facilitando la toma de decisiones informadas sobre el cuidado del paciente|<p>**Escenario 1:Registro de resultados con consideraciones clínicas automatizadas**</p><p>- Dado, que un técnico de laboratorio completa el registro de resultados de un análisis.</p><p>- Cuando,el sistema automáticamente evalúa las implicaciones clínicas de los resultados. </p><p>- Entonces, proporciona información contextual relevante al médico para apoyar la toma de decisiones informadas sobre el cuidado del paciente.</p><p>**Escenario 2:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p>|E05|
-|US31|Alertas para detectar problemas en el resultados de las muestras|Como técnico de laboratorio, deseo una función de alertas automáticas que me notifique sobre posibles discrepancias entre resultados de análisis de muestras de un mismo paciente, permitiéndome tomar medidas preventivas y garantizar la precisión de los resultados.|<p>**Escenario 1:**</p><p>- Dado,</p><p>- Cuando,</p><p>- Entonces.</p><p>**Escenario 2: Confirmación de precisión en las consideraciones clínicas**</p><p>- Dado, que un técnico de laboratorio revisa los resultados registrados con consideraciones clínicas automatizadas.</p><p>- Cuando, confirma que la información proporcionada es precisa y útil para el médico.</p><p>- Entonces, se asegura de que las consideraciones clínicas automatizadas estén contribuyendo positivamente a la calidad de la atención médica.</p>|E05|
+|US30|Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas|Como técnico de laboratorio, quiero un sistema de registro de resultados que considere automáticamente las implicaciones clínicas de los mismos, proporcionando información contextual al médico y facilitando la toma de decisiones informadas sobre el cuidado del paciente|<p>**Escenario 1:Registro de resultados con consideraciones clínicas automatizadas**</p><p>- Dado, que un técnico de laboratorio completa el registro de resultados de un análisis.</p><p>- Cuando,el sistema automáticamente evalúa las implicaciones clínicas de los resultados. </p><p>- Entonces, proporciona información contextual relevante al médico para apoyar la toma de decisiones informadas sobre el cuidado del paciente.</p>|E05|
+|US31|Alertas para detectar problemas en el resultados de las muestras|Como técnico de laboratorio, deseo una función de alertas automáticas que me notifique sobre posibles discrepancias entre resultados de análisis de muestras de un mismo paciente, permitiéndome tomar medidas preventivas y garantizar la precisión de los resultados.|<p>**Escenario 1: Confirmación de precisión en las consideraciones clínicas**</p><p>- Dado, que un técnico de laboratorio revisa los resultados registrados con consideraciones clínicas automatizadas.</p><p>- Cuando, confirma que la información proporcionada es precisa y útil para el médico.</p><p>- Entonces, se asegura de que las consideraciones clínicas automatizadas estén contribuyendo positivamente a la calidad de la atención médica.</p>|E05|
 |US32|Sección About Us|Como usuario, quiero encontrar una sección "About Us" en la landing page para conocer la misión, visión y valores de la empresa.|<p>**Escenario 1: Usuario accede a la sección "About Us"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección "About Us".</p><p>- Entonces, encuentra información detallada sobre la historia, misión, visión y valores de la empresa.</p><p>**Escenario 2: Información actualizada en "About Us"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando,revisa la sección "About Us".</p><p>- Entonces, nota que la información está actualizada con los últimos logros y noticias relevantes de la empresa.</p>|E06|
 |US33|Sección sobre el Producto|Como usuario, deseo encontrar una sección dedicada que describa detalladamente el producto o servicio ofrecido por la aplicación.|<p>**Escenario 1: Usuario accede a la sección "Sobre el Producto"**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección "Sobre el Producto".</p><p>- Entonces, encuentra una descripción detallada que explica cómo funciona el producto, sus beneficios y ventajas.</p><p>**Escenario 2: Destacar Ventajas Competitivas en la Sección "Sobre el Producto"**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección "Sobre el Producto".</p><p>- Entonces, encuentra información que destaca las ventajas competitivas del producto en comparación con otros productos similares.</p>|E06|
 |US34|Funciones que ofrece al paciente|Como paciente, quiero encontrar una sección que detalle las funciones clave que la aplicación ofrece para satisfacer mis necesidades.|<p>**Escenario 1: Usuario accede a la sección de Funciones**</p><p>- Dado,que un usuario visita la landing page.</p><p>- Cuando, busca la sección de Funciones.</p><p>- Entonces, encuentra una lista detallada de las funciones clave que la aplicación ofrece, con explicaciones claras de cada una.</p><p>**Escenario 2: Demostración de Funcionalidades en la Sección de Funciones**</p><p>- Dado, que un usuario visita la landing page.</p><p>- Cuando, revisa la sección de Funciones.</p><p>- Entonces, encuentra demostraciones interactivas o videos que muestran cómo utilizar las diferentes funcionalidades de la aplicación.</p>|E06|
@@ -1054,304 +1054,273 @@ En esta sección se muestra un gráfico que incluye los business goals del negoc
 
 ## 3.4 Product Backlog
 
+<p>Para elaborar nuestro Product Backlog hemos utilizado la secuencia de Fibonacci (1,2,3,5,8). Aplicamos esto con el objetivo de evaluar la complejidad de las tareas.
+
+<b>Historia de usuario base:</b>
+
+Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente. (Posee 5 puntos de historia)</p>
+
 Link del Pivotal Tracker: https://www.pivotaltracker.com/projects/2701194
 
 <table border="1">
   <tr>
-    <th>Epic ID</th>
+    <th>#Orden</th>
     <th>User Story ID</th>
-    <th>User Story</th>
+    <th>Título</th>
     <th>Descripción</th>
-    <th>Story Points</th>
-    <th>Prioridad</th>
+    <th>Story Points (1/2/3/5/8)</th>
   </tr>
     <tr>
-    <td>E06</td>
+    <td>1</td>
     <td>US36</td>
     <td>Barra de navegación</td>
     <td>Como usuario, quiero una barra de navegación bien organizada en la landing page para poder acceder fácilmente a las diferentes secciones.</td>
     <td>1</td>
-    <td>Media</td>
   </tr>
   <tr>
-    <td>E06</td>
+    <td>2</td>
     <td>US32</td>
     <td>Sección sobre el Producto</td>
     <td>Como usuario, deseo encontrar una sección dedicada que describa detalladamente el producto o servicio ofrecido por la aplicación.</td>
     <td>2</td>
-    <td>Media</td>
   </tr>
   <tr>
-    <td>E06</td>
+    <td>3</td>
     <td>US31</td>
     <td>Sección About Us</td>
     <td>Como usuario, quiero encontrar una sección "About Us" en la landing page para conocer la misión, visión y valores de la empresa.</td>
     <td>2</td>
-    <td>Media</td>
   </tr>
     <tr>
-    <td>E06</td>
+    <td>4</td>
     <td>US34</td>
     <td>Sección de contactos</td>
     <td>Como usuario, quiero encontrar una sección de contactos para poder comunicarse fácilmente con el equipo de la empresa.</td>
     <td>2</td>
-    <td>Media</td>
   </tr>
   <tr>
-    <td>E06</td>
+    <td>5</td>
     <td>US33</td>
     <td>Funciones que ofrece al cliente</td>
     <td>Como paciente, quiero encontrar una sección que detalle las funciones clave que la aplicación ofrece para satisfacer mis necesidades.</td>
-    <td>2</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E06</td>
+    <td>6</td>
     <td>US35</td>
     <td>Sección sobre el equipo</td>
     <td>Como usuario, quiero encontrar una sección dedicada que presente información sobre el equipo detrás de la empresa.</td>
     <td>2</td>
-    <td>Media</td>
   </tr>
   <tr>
-    <td>E01</td>
-    <td>US01</td>
-    <td>Registro de Suministros</td>
-    <td>Como técnico de laboratorio, quiere poder registrar nuevos suministros en el sistema, incluyendo detalles como nombre del producto, cantidad, fecha de vencimiento y ubicación en el laboratorio, para mantener un inventario actualizado y organizado.</td>
-    <td>5</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>E01</td>
-    <td>US02</td>
-    <td>Seguimiento de Inventario</td>
-    <td> Como técnico de laboratorio, necesita poder monitorear en tiempo real el nivel de existencias de cada suministro, recibir notificaciones cuando los niveles sean bajos y generar informes de inventario periódicos, para garantizar la disponibilidad de materiales necesarios en el laboratorio.</td>
-    <td>8</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>E01</td>
-    <td>US03</td>
-    <td>Gestión de Pedidos Internos</td>
-    <td>Como técnico de laboratorio, desea poder realizar pedidos de reposición de suministros de manera fácil y rápida a través de la plataforma, para mantener los niveles de inventario óptimos y asegurar un flujo de trabajo eficiente.</td>
-    <td>5</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>E01</td>
-    <td>US04</td>
-    <td>Organización de Equipos</td>
-    <td>Como técnico de laboratorio, quiere poder mantener un registro detallado de los equipos disponibles en el laboratorio, incluyendo información sobre su estado, mantenimiento programado y ubicación actual, para facilitar su uso y mantenimiento.</td>
-    <td>3</td>
-    <td>Media</td>
-  </tr>
-  <tr>
-    <td>E01</td>
-    <td>US05</td>
-    <td>Integración de Datos</td>
-    <td>Integración de Datos: Como técnico de laboratorio, necesita que la plataforma tenga la capacidad de integrar los datos del inventario con otros sistemas internos del laboratorio, para garantizar una gestión coherente y eficiente del inventario y evitar discrepancias en los registros.</td>
-    <td>2</td>
-    <td>Baja</td>
-  </tr>
-  <tr>
-    <td>E01</td>
-    <td>US06</td>
-    <td>Seguridad de los datos médicos</td>
-    <td>Como desarrollador, quiero garantizar la seguridad de los datos en MedSystem, implementado medidas robustas de protección de la información, como el cifrado de datos y el acceso basado en roles, para así proteger la privacidad y confidencialidad de los registros médicos de los pacientes y el material multimedia que les pertenece.</td>
-    <td>8</td>
-    <td>Alta</td>
-  </tr>
-  <tr>
-    <td>E02</td>
+    <td>7</td>
     <td>US07</td>
     <td>Registro de Nueva Cita</td>
     <td>Como paciente, quiero poder programar una nueva cita médica a través de la plataforma en línea de MedSystem para evitar tener que llamar por teléfono.</td>
-    <td>2</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E02</td>
+    <td>8</td>
     <td>US08</td>
     <td>Selección de Especialista y Ubicación</td>
     <td>Como paciente, deseo poder seleccionar al especialista y la ubicación preferida para mi cita médica en MedSystem, para poder planificar de acuerdo a mis necesidades.</td>
-    <td>8</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E02</td>
+    <td>9</td>
     <td>US09</td>
     <td>Disponibilidad de Horarios</td>
     <td>Como paciente, necesito ver la disponibilidad de horarios de los especialistas en MedSystem para elegir la fecha y hora más conveniente para mi cita médica.</td>
-    <td>3</td>
-    <td>Alta</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>E02</td>
+    <td>10</td>
     <td>US012</td>
     <td>Confirmación de Cita</td>
     <td>Como paciente, quiero recibir una confirmación instantánea de mi cita médica después de programarla en MedSystem, para tener la certeza de que ha sido registrada correctamente.</td>
     <td>1</td>
-    <td>Alta</td>
   </tr>
   <tr>
-    <td>E02</td>
+    <td>11</td>
     <td>US10</td>
     <td>Recordatorios de Cita</td>
     <td>Como paciente, quiero recibir recordatorios automáticos de mi cita médica a través de notificaciones por correo electrónico o mensajes de texto en MedSystem, para no olvidarla.</td>
-    <td>5</td>
-    <td>Alta</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td>E02</td>
+    <td>12</td>
     <td>US11</td>
     <td>Cancelación y Re-agendamiento de Citas</td>
     <td>Como paciente, deseo tener la opción de cancelar o reagendar mi cita médica en MedSystem en caso de imprevistos o cambios en mi agenda.</td>
-    <td>5</td>
-    <td>Alta</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>E03</td>
+    <td>13</td>
     <td>US17</td>
     <td>Comunicación Segura con los Pacientes</td>
     <td>Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.</td>
-    <td>8</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E03</td>
+    <td>14</td>
     <td>US16</td>
     <td>Alertas de Cambios en Resultados de Análisis</td>
     <td>Como médico traumatológico, quiero recibir alertas automáticas sobre cambios significativos en los resultados de los análisis médicos de mis pacientes, para poder responder rápidamente a cualquier nueva información relevante y ajustar los tratamientos según sea necesario.</td>
     <td>3</td>
-    <td>Alta</td>
   </tr>
   <tr>
-    <td>E03</td>
+    <td>15</td>
     <td>US13</td>
     <td>Acceso Eficiente al Historial Médico Completo</td>
     <td>Como médico traumatológico, quiero poder acceder rápidamente al historial médico completo de mis pacientes, incluyendo su historial de tratamientos pasados y resultados de análisis, para poder evaluar su progreso de manera eficiente y tomar decisiones informadas sobre los próximos pasos del tratamiento</td>
-    <td>1</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E03</td>
+    <td>16</td>
     <td>US14</td>
     <td>Notificaciones de Citas de Seguimiento</td>
     <td>Como médico traumatológico, quiero recibir notificaciones automáticas sobre citas de seguimiento programadas con mis pacientes, para poder planificar mi agenda con anticipación y garantizar que ningún paciente se quede sin seguimiento adecuado.</td>
-    <td>5</td>
-    <td>Alta</td>
+    <td>1</td>
   </tr>
   <tr>
-    <td>E03</td>
+    <td>17</td>
     <td>US15</td>
     <td>Actualización de Planes de Tratamiento</td>
     <td>Como médico traumatológico, quiero tener la capacidad de ajustar y actualizar los planes de tratamiento de mis pacientes directamente desde la plataforma MedSystem, para poder adaptar los tratamientos a medida que evoluciona la condición del paciente o surgen nuevas necesidades médicas.</td>
-    <td>2</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E03</td>
+    <td>18</td>
     <td>US18</td>
     <td>Análisis y Evaluación de Eficacia del Tratamiento</td>
     <td>Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.</td>
-    <td>5</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E04</td>
+    <td>19</td>
     <td>US24</td>
     <td>Registro de eventos importantes en el historial médico</td>
     <td>Como doctor, necesito registrar eventos importantes en el historial médico de mis pacientes, como hospitalizaciones, cirugías importantes, cambios significativos en el estado de salud o eventos relevantes en la historia médica familiar, para tener una visión completa y contextualizada de la salud del paciente a lo largo del tiempo.</td>
-    <td>2</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E04</td>
+    <td>20</td>
     <td>US19</td>
     <td>Acceso rápido al historial médico del paciente</td>
     <td>Como doctor, necesito poder acceder rápidamente al historial médico completo de mis pacientes para revisar su historial de enfermedades, tratamientos pasados, alergias y otros datos relevantes antes de una consulta o procedimiento.</td>
-    <td>8</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E04</td>
+    <td>21</td>
     <td>US20</td>
     <td>Visualización detallada del historial médico</td>
     <td>Como doctor, necesito poder visualizar de manera detallada el historial médico de mis pacientes, incluyendo información como diagnósticos previos, resultados de exámenes, medicaciones actuales y pasadas, procedimientos realizados, y notas de otros médicos o especialistas.</td>
     <td>3</td>
-    <td>Alta</td>
   </tr>
   <tr>
-    <td>E04</td>
+    <td>22</td>
     <td>US22</td>
     <td>Registro de nuevas entradas en el historial médico</td>
     <td>Como doctor, necesito poder registrar nuevas entradas en el historial médico de mis pacientes, como nuevos diagnósticos, tratamientos recetados, resultados de exámenes o notas de la consulta actual, para mantener un registro completo y actualizado de su historial de salud.</td>
-    <td>5</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E04</td>
+    <td>23</td>
     <td>US21</td>
     <td>Actualización en tiempo real del historial médico</td>
     <td>Como doctor, necesito que cualquier actualización realizada en el historial médico de un paciente se refleje inmediatamente en el sistema, para garantizar que siempre esté trabajando con la información más reciente y precisa.</td>
-    <td>1</td>
-    <td>Alta</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>E04</td>
+    <td>24</td>
     <td>US23</td>
     <td>Seguridad y privacidad del historial médico</td>
     <td>Como doctor, necesito que el acceso al historial médico de mis pacientes esté protegido por medidas de seguridad robustas, y que se cumplan estrictamente las regulaciones de privacidad de datos para garantizar la confidencialidad y la integridad de la información médica sensible.</td>
-    <td>5</td>
-    <td>Alta</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>E05</td>
+    <td>25</td>
     <td>US30</td>
     <td>Alertas para detectar problemas en los resultados de las muestras</td>
     <td>Como técnico de laboratorio, deseo una función de alertas automáticas que me notifique sobre posibles discrepancias entre resultados de análisis de muestras de un mismo paciente, permitiéndome tomar medidas preventivas y garantizar la precisión de los resultados.</td>
     <td>3</td>
-    <td>Alta</td>
   </tr>
   <tr>
-    <td>E05</td>
+    <td>26</td>
     <td>US27</td>
     <td>Sistema de comunicación y registro de resultados</td>
     <td>Como técnico de laboratorio, quiero un sistema que registre automáticamente los resultados de los análisis y los comunique al médico a través de la aplicación para agilizar la entrega de información y mejorar la atención al paciente.</td>
     <td>5</td>
-    <td>Alta</td>
   </tr>
   <tr>
-    <td>E05</td>
+    <td>27</td>
     <td>US26</td>
     <td>Acceso a los protocolos actualizados en la aplicación web del laboratorio</td>
     <td>Como técnico de laboratorio, quiero una funcionalidad en la aplicación web que me permita acceder y revisar los protocolos actualizados de análisis y procedimientos, para asegurar que estoy siguiendo las últimas directrices y garantizar la calidad en la ejecución de las pruebas médicas.</td>
-    <td>1</td>
-    <td>Alta</td>
+    <td>2</td>
   </tr>
   <tr>
-    <td>E05</td>
+    <td>28</td>
     <td>US28</td>
     <td>Protocolo de integridad para las muestras en el proceso de análisis</td>
     <td>Como técnico de laboratorio, quiero un protocolo actualizado que asegure la integridad de las muestras durante todo el proceso, desde la recolección hasta el análisis, minimizando así la posibilidad de resultados incorrectos debido a muestras comprometidas.</td>
-    <td>8</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E05</td>
+    <td>29</td>
     <td>US25</td>
     <td>Interfaz personalizable para mejorar eficiencia en los análisis medicos</td>
     <td>Como técnico de laboratorio, necesito una interfaz intuitiva y personalizable en el sistema de análisis para adaptarla a las necesidades específicas de cada tipo de prueba y mejorar la eficiencia en la ejecución de los análisis médicos</td>
-    <td>2</td>
-    <td>Alta</td>
+    <td>3</td>
   </tr>
   <tr>
-    <td>E05</td>
+    <td>30</td>
     <td>US29</td>
     <td>Sistema de registro de resultados con consideraciones clínicas automatizadas</td>
     <td>Como técnico de laboratorio, quiero un sistema de registro de resultados que considere automáticamente las implicaciones clínicas de los mismos, proporcionando información contextual al médico y facilitando la toma de decisiones informadas sobre el cuidado del paciente</td>
+    <td>2</td>
+  </tr>
+    <tr>
+    <td>31</td>
+    <td>US01</td>
+    <td>Registro de Suministros</td>
+    <td>Como técnico de laboratorio, quiere poder registrar nuevos suministros en el sistema, incluyendo detalles como nombre del producto, cantidad, fecha de vencimiento y ubicación en el laboratorio, para mantener un inventario actualizado y organizado.</td>
     <td>5</td>
-    <td>Alta</td>
+  </tr>
+  <tr>
+    <td>32</td>
+    <td>US02</td>
+    <td>Seguimiento de Inventario</td>
+    <td> Como técnico de laboratorio, necesita poder monitorear en tiempo real el nivel de existencias de cada suministro, recibir notificaciones cuando los niveles sean bajos y generar informes de inventario periódicos, para garantizar la disponibilidad de materiales necesarios en el laboratorio.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>33</td>
+    <td>US03</td>
+    <td>Gestión de Pedidos Internos</td>
+    <td>Como técnico de laboratorio, desea poder realizar pedidos de reposición de suministros de manera fácil y rápida a través de la plataforma, para mantener los niveles de inventario óptimos y asegurar un flujo de trabajo eficiente.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>34</td>
+    <td>US04</td>
+    <td>Organización de Equipos</td>
+    <td>Como técnico de laboratorio, quiere poder mantener un registro detallado de los equipos disponibles en el laboratorio, incluyendo información sobre su estado, mantenimiento programado y ubicación actual, para facilitar su uso y mantenimiento.</td>
+    <td>2</td>
+  </tr>
+  <tr>
+    <td>35</td>
+    <td>US05</td>
+    <td>Integración de Datos</td>
+    <td>Integración de Datos: Como técnico de laboratorio, necesita que la plataforma tenga la capacidad de integrar los datos del inventario con otros sistemas internos del laboratorio, para garantizar una gestión coherente y eficiente del inventario y evitar discrepancias en los registros.</td>
+    <td>3</td>
+  </tr>
+  <tr>
+    <td>36</td>
+    <td>US06</td>
+    <td>Gestión de Mantenimiento de Equipos</td>
+    <td>Como técnico de laboratorio, necesito una funcionalidad en la plataforma que me permita gestionar el mantenimiento de los equipos del laboratorio, para garantizar su correcto funcionamiento y prolongar su vida útil.</td>
+    <td>3</td>
   </tr>
 </table>
 
@@ -2020,10 +1989,11 @@ Class Treatment
 
 ## 4.8. Database Design
 ### 4.8.1. Database Diagram
-<img src="../images/database_model.png" alt="database image" width="100%">
+<img src="assets/images/database_model.png" alt="database image" width="100%">
 
 ---
 <br>
+
 # Capitulo 5
 
 ## 5.1 Software Cpmfiguration Managment
@@ -2121,8 +2091,8 @@ Despues tambien esta GitHub Pages que es una función de GitHub que permite aloj
 | Sprint n - 1 Retrospective Summary | No hubo sprint anterior                                                                                                                                                                                     |
 | **Sprint Goal & User Stories**     |                                                                                                                                                                                                             |
 | Sprint 1 Goal                      | Desarollo de la landing page                                                                                                                                                                                |
-| Sprint 1 Velocity                  | 18                                                                                                                                                                                                          |
-| Sum of Story Points                | 18                                                                                                                                                                                                          |
+| Sprint 1 Velocity                  | 12                                                                                                                                                                                                          |
+| Sum of Story Points                | 12                                                                                                                                                                                                          |
 
 ### 5.2.1.2 Sprint Backlog 1
 
