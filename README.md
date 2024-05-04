@@ -639,23 +639,23 @@ Resumen de la entrevista:
 
 Entrevista 3:
 
-Fecha entrevistada:
+Fecha entrevistada: 14/04/24
 
-Entrevistador:
+Entrevistador: Sebastian Flores Manrique
 
-Entrevistado:
+Entrevistado: Juan Mendevil Quispe
 
 Datos del entrevistado:
 
-- Edad:
-- Distrito:
+- Edad: 26
+- Distrito: Villa María del triunfo
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Dpaciente%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E81f75b7c%2D03ec%2D4f5b%2D9184%2Db857233d0a2c">Link</a>
 
 - Minuto de Inicio:
 - Minuto de Fin:
 
-<img alt = "Entrevista1.3" src="assets/images/Entrevista1.3.png">
+<img alt = "Entrevista1.3" src="assets/images/entevista-paciente-3.png">
 
 Resumen de la entrevista:
 
