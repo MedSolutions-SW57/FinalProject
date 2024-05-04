@@ -2322,6 +2322,9 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 
 ### 5.2.1.2 Sprint Backlog 2
 
+<p>El principal objetivo de este primer sprint es lograr completar todos los requisitos que se piden para el Landing Page. Además, se lleva en simultáneo el Sprint 2 con un archivo en Trello:</p>
+
+<a href="https://trello.com/invite/b/uOdcrPFh/ATTI03134d2cbddb16e1ca7ef57f4fbc72f24163A26A/sprint-2-medsystem">https://trello.com/invite/b/uOdcrPFh/ATTI03134d2cbddb16e1ca7ef57f4fbc72f24163A26A/sprint-2-medsystem</a>
 
 <table>
 	<tbody>
@@ -2518,11 +2521,10 @@ Se ha demostrado la relevancia de la colaboración entre el equipo para crear un
 Se ha subrayado la necesidad de mantener una innovación constante y adaptarse a las cambiantes demandas del mercado para asegurar la relevancia y competitividad a largo plazo de la plataforma.</p>
 <p>-Potencial de Escalabilidad y Expansión:
 Con una base establecida sólidamente, existe un gran potencial para la escalabilidad y expansión del proyecto hacia nuevos mercados y sectores relacionados con la industria automotriz en el futuro.</p>
+
 ## Video About the Team 
 
----
-<br>
 # Anexos
----
-<br>
+
+
 # Bibliografía
