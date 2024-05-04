@@ -32,8 +32,11 @@
 | Version | Fecha      | Autor                     | Descripcion de Modificacion                                                  |
 |-------|------------|---------------------------|------------------------------------------------------------------------------|
 | 0.1   | 23/03/2024 | Manuel Gutierrez Zumaeta  | Creé el documento.                                                           |
-| 0.2   | 24/03/2024 | Jorge Altamirano Saenz    | Agregué la definición del startup, antecedentes y problemáticas del startup. | 
+| 0.2   | 24/0/2024 | Jorge Altamirano Saenz    | Agregué la definición del startup, antecedentes y problemáticas del startup. | 
 | 0.3   | 24/03/2024 | Sebastian Flores Manrique | Agregué el Lean UX Problem Statements y Lean UX Assumptions.                 | 
+| 0.4   | 26/04/2024 | Manuel Alonso Gutierrez Zumaeta| Correciones                | 
+| 0.5   | 29/04/2024 | Sebastian Flores Manrique | Agregué el Lean UX Problem Statements y Lean UX Assumptions.                 | 
+| 0.6   | 1/05/2024 | Sebastian Flores Manrique | Agregué el Lean UX Problem Statements y Lean UX Assumptions.                 | 
 - - -
 # Project Report Collaboration Insights
 
