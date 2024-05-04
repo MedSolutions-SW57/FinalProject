@@ -2551,14 +2551,14 @@ Link del video en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/per
 <br>
 
 # Conclusiones
-<p>Validación del Modelo de Negocio:
+<p>-Validación del Modelo de Negocio:
 A lo largo del proyecto, se ha confirmado la viabilidad del modelo de negocio centrado en el desarrollo y comercialización de una plataforma tecnológica destinada a la gestión de clientes en el sector automotriz peruano.</p>
--Importancia de la Colaboración Interdisciplinaria:
-Se ha demostrado la relevancia de la colaboración entre el equipo para crear una solución integral que satisfaga tanto las necesidades tecnológicas como comerciales del mercado automotriz.
--Enfoque en la Innovación Continua:
-Se ha subrayado la necesidad de mantener una innovación constante y adaptarse a las cambiantes demandas del mercado para asegurar la relevancia y competitividad a largo plazo de la plataforma.
--Potencial de Escalabilidad y Expansión:
-Con una base establecida sólidamente, existe un gran potencial para la escalabilidad y expansión del proyecto hacia nuevos mercados y sectores relacionados con la industria automotriz en el futuro.
+<p>-Importancia de la Colaboración Interdisciplinaria:
+Se ha demostrado la relevancia de la colaboración entre el equipo para crear una solución integral que satisfaga tanto las necesidades tecnológicas como comerciales del mercado automotriz.</p>
+<p>-Enfoque en la Innovación Continua:
+Se ha subrayado la necesidad de mantener una innovación constante y adaptarse a las cambiantes demandas del mercado para asegurar la relevancia y competitividad a largo plazo de la plataforma.</p>
+<p>-Potencial de Escalabilidad y Expansión:
+Con una base establecida sólidamente, existe un gran potencial para la escalabilidad y expansión del proyecto hacia nuevos mercados y sectores relacionados con la industria automotriz en el futuro.</p>
 ## Video About the Team 
 
 ---
