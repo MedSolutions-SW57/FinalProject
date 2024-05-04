@@ -1067,31 +1067,31 @@ Link del Pivotal Tracker: https://www.pivotaltracker.com/projects/2701194
     <td>US36</td>
     <td>Barra de navegación</td>
     <td>Como usuario, quiero una barra de navegación bien organizada en la landing page para poder acceder fácilmente a las diferentes secciones.</td>
-    <td>5</td>
-    <td>Alta</td>
+    <td>1</td>
+    <td>Media</td>
   </tr>
   <tr>
     <td>E06</td>
     <td>US32</td>
     <td>Sección sobre el Producto</td>
     <td>Como usuario, deseo encontrar una sección dedicada que describa detalladamente el producto o servicio ofrecido por la aplicación.</td>
-    <td>3</td>
-    <td>Alta</td>
+    <td>2</td>
+    <td>Media</td>
   </tr>
   <tr>
     <td>E06</td>
     <td>US31</td>
     <td>Sección About Us</td>
     <td>Como usuario, quiero encontrar una sección "About Us" en la landing page para conocer la misión, visión y valores de la empresa.</td>
-    <td>3</td>
-    <td>Alta</td>
+    <td>2</td>
+    <td>Media</td>
   </tr>
     <tr>
     <td>E06</td>
     <td>US34</td>
     <td>Sección de contactos</td>
     <td>Como usuario, quiero encontrar una sección de contactos para poder comunicarse fácilmente con el equipo de la empresa.</td>
-    <td>3</td>
+    <td>2</td>
     <td>Media</td>
   </tr>
   <tr>
@@ -1100,7 +1100,7 @@ Link del Pivotal Tracker: https://www.pivotaltracker.com/projects/2701194
     <td>Funciones que ofrece al cliente</td>
     <td>Como paciente, quiero encontrar una sección que detalle las funciones clave que la aplicación ofrece para satisfacer mis necesidades.</td>
     <td>2</td>
-    <td>Media</td>
+    <td>Alta</td>
   </tr>
   <tr>
     <td>E06</td>
@@ -1113,40 +1113,40 @@ Link del Pivotal Tracker: https://www.pivotaltracker.com/projects/2701194
   <tr>
     <td>E01</td>
     <td>US01</td>
-    <td>Interfaz de usuario</td>
-    <td>Como desarrollador, quiero implementar una interfaz de usuario intuitiva para MedSystem, para que los usuarios puedan navegar fácilmente y de manera fluida por la plataforma, y accedan a las funciones principales sin dificultad.</td>
+    <td>Registro de Suministros</td>
+    <td>Como técnico de laboratorio, quiere poder registrar nuevos suministros en el sistema, incluyendo detalles como nombre del producto, cantidad, fecha de vencimiento y ubicación en el laboratorio, para mantener un inventario actualizado y organizado.</td>
     <td>5</td>
     <td>Alta</td>
   </tr>
   <tr>
     <td>E01</td>
     <td>US02</td>
-    <td>Gestión de citas</td>
-    <td>Como desarrollador, quiero desarrollar un sistema de gestión de citas para MedSystem, para que los docotres y pacientes puedan programar y gestionar sus citas de manera eficiente.</td>
+    <td>Seguimiento de Inventario</td>
+    <td> Como técnico de laboratorio, necesita poder monitorear en tiempo real el nivel de existencias de cada suministro, recibir notificaciones cuando los niveles sean bajos y generar informes de inventario periódicos, para garantizar la disponibilidad de materiales necesarios en el laboratorio.</td>
     <td>8</td>
     <td>Alta</td>
   </tr>
   <tr>
     <td>E01</td>
     <td>US03</td>
-    <td>Seguimiento de historias clínicas</td>
-    <td>Como desarrollador, quiero incorporar una función de seguimiento de historias clínicas en MedSystem, para que los doctores puedan acceder fácilmente al historial médico de cada paciente, y puedan realizar un seguimiento preciso de su tratamiento.</td>
+    <td>Gestión de Pedidos Internos</td>
+    <td>Como técnico de laboratorio, desea poder realizar pedidos de reposición de suministros de manera fácil y rápida a través de la plataforma, para mantener los niveles de inventario óptimos y asegurar un flujo de trabajo eficiente.</td>
     <td>5</td>
     <td>Alta</td>
   </tr>
   <tr>
     <td>E01</td>
     <td>US04</td>
-    <td>Herramientas de comunicación</td>
-    <td>Como desarrollador, quiero implementar herramientas de comunicación para MedSystem, como mensajería encriptada, llamadas y videollamadas, para permitir una interacción directa entre los doctores y pacientes , y al mismo tiempo mantener confidencialidad de la información médica.</td>
+    <td>Organización de Equipos</td>
+    <td>Como técnico de laboratorio, quiere poder mantener un registro detallado de los equipos disponibles en el laboratorio, incluyendo información sobre su estado, mantenimiento programado y ubicación actual, para facilitar su uso y mantenimiento.</td>
     <td>3</td>
     <td>Media</td>
   </tr>
   <tr>
     <td>E01</td>
     <td>US05</td>
-    <td>Generación de informes</td>
-    <td>Como desarrollador, necesito implementar un sistema que genere informes personalizados spbre los pacientes en MedSystem, para que permita a los doctores tener informes detallados acerca del progreso del tratamiento en los pacientes.</td>
+    <td>Integración de Datos</td>
+    <td>Integración de Datos: Como técnico de laboratorio, necesita que la plataforma tenga la capacidad de integrar los datos del inventario con otros sistemas internos del laboratorio, para garantizar una gestión coherente y eficiente del inventario y evitar discrepancias en los registros.</td>
     <td>2</td>
     <td>Baja</td>
   </tr>
