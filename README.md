@@ -2322,7 +2322,7 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 | Sprint 2 Velocity                  |    19                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Sum of Story Points                |    19                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 
-### 5.2.1.2 Sprint Backlog 2
+### 5.2.2.2 Sprint Backlog 2
 
 <p>El principal objetivo de este primer sprint es lograr completar todos los requisitos que se piden para el Landing Page. Además, se lleva en simultáneo el Sprint 2 con un archivo en Trello:</p>
 
@@ -2461,7 +2461,7 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 	</tbody>
 </table>
 
-### 5.2.1.3 Development Evidence for Sprint Review
+### 5.2.2.3 Development Evidence for Sprint Review
 
 | Repository                          | Branch                         | Commit Id                                | Commit Message                                                                                                                | Commit Message Body | Commited on (Date) |
 |-------------------------------------|--------------------------------|------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
@@ -2533,6 +2533,174 @@ firebase deploy
 
 Los insights del repositorio del frontend
 <img src="assets/images/insights2.png">
+
+### 5.2.3 Sprint 3
+
+### 5.2.3.1 Sprint Planning 3
+
+<p>Se planeó el tercer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
+
+| **Sprint #**                       | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                                  |
+|:-----------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Date                               | 2024-06-02                                                                                                                                                                                                                                                                                                                                                                                                                |
+| Time                               | 10:30 AM                                                                                                                                                                                                                                                                                                                                                                                                                  |
+| Location                           | Virtual                                                                                                                                                                                                                                                                                                                                                                                                                   |
+| Prepared by                        | Gutierrez Zumaeta, Manuel Alonso                                                                                                                                                                                                                                                                                                                                                                                          |
+| Attendees (to planning meeting)    | <p>Guimaraes Escalante, Carlos Eduardo</p><p>Altamirano Saenz, Jorge Armando</p><p>Montes Figueroa, Juan Eduardo</p><p>Flores Manrique, Sebastian Enrique</p><p>Gutierrez Zumaeta, Manuel Alonso</p><p></p>                                                                                                                                                                                                               |
+| Sprint n - 3 Review Summary        | Durante el tercer sprint, el equipo logró implementar una primera versión del BackEnd y desplegarlo satisfactoriamente, además se corrigió y mejoró el FrontEnd y LandingPage. Todas las tareas planificadas fueron completadas según las especificaciones requeridas.El despliegue se llevó a cabo sin problemas y el backend está funcionando correctamente en producción, reflejando una ejecución exitosa del sprint. |
+| Sprint n - 3 Retrospective Summary | El equipo identificó como aciertos la comunicación efectiva y la colaboración en la resolución de problemas. No obstante, se señaló la necesidad de una mejor planificación inicial, especialmente en cuanto a la estimación del tiempo necesario para ciertas tareas, y se identificó la posibilidad de optimizar el proceso de revisión de código para garantizar una mayor calidad del producto entregado.             |
+| **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                                           |
+| Sprint 3 Goal                      | El objetivo principal que tiene este sprint 3 es elaborar la primera versión y despliegue del back end web applications para el negocio.                                                                                                                                                                                                                                                                                  |
+| Sprint 3 Velocity                  | 19                                                                                                                                                                                                                                                                                                                                                                                                                        |
+| Sum of Story Points                | 19                                                                                                                                                                                                                                                                                                                                                                                                                        |
+
+### 5.2.3.2 Sprint Backlog 3
+
+<p>El principal objetivo de este tercer sprint es lograr completar todos los requisitos que se piden para el BackEnd. Además, se lleva en simultáneo el Sprint 1 y Sprint 2 con un archivo en Trello:</p>
+
+<a href="https://trello.com/invite/b/uOdcrPFh/ATTI03134d2cbddb16e1ca7ef57f4fbc72f24163A26A/sprint-2-medsystem">https://trello.com/invite/b/uOdcrPFh/ATTI03134d2cbddb16e1ca7ef57f4fbc72f24163A26A/sprint-2-medsystem</a>
+
+<table>
+	<tbody>
+		<tr>
+			<td>User Story ID</td>
+			<td>User Story Title</td>
+			<td>Task ID</td>
+			<td>Task Title</td>
+			<td>Description</td>
+			<td>Estimation(hours)</td>
+			<td>Assigned to</td>
+			<td>Status</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US07</td>
+			<td rowspan="2">Registro de nueva cita</td>
+			<td>T01</td>
+			<td>Creación de la sección de registar nueva cita</td>
+			<td>Crear la sección de registar nueva cita, que permite programar una cita seleccionando la fecha, hora, doctor, y lugar.</td>
+			<td>6</td>
+			<td>Manuel Gutierrez Zumaeta </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            <td>T02</td>
+			<td>Crear sección de citas</td>
+			<td>Crear la sección de citas donde el paciente podrá ver el listado de sus citas pendientes asi como el historial de sus citas.</td>
+			<td>4</td>
+			<td>Manuel Gutierrez Zumaeta</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US02</td>
+			<td rowspan="2">Gestión de citas</td>
+			<td>T03</td>
+			<td>Sección de gestionar citas</td>
+			<td>Crear la sección que le permitrá al doctor ver todas sus citas pendientes del día.</td>
+			<td>4</td>
+			<td>Jorge Altamirano Saenz </td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T04</td>
+			<td>Citas detalladas</td>
+			<td>Incorporar un botón para mostar los detalles completos de las citas y permitir añadir notas</td>
+			<td>3</td>
+			<td>Jorge Altamirano Saenz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US04</td>
+			<td rowspan="2">Acceso Eficiente al Historial Médico Completo</td>
+			<td>T05</td>
+			<td>Sección de historial Médico</td>
+			<td>Crear la sección donde el doctor podrá ver una lista de historiales médicos de sus pacientes a cargo.</td>
+			<td>4</td>
+			<td>Carlos Guimaraes Escalante</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T06</td>
+			<td>Añadir filtro de búsqueda</td>
+			<td>Añadir un cuadro de texto para que el doctor pueda lograr una búsqueda más personalizada.</td>
+			<td>2</td>
+			<td>Carlos Guimaraes Escalante</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US15</td>
+			<td rowspan="2">Actualización de Planes de Tratamient</td>
+			<td>T07</td>
+			<td>Crear Sección de tratamientos</td>
+			<td>Crear la sección donde el paciente podrá visualizar su lista de tratamientos a detalle.</td>
+			<td>6</td>
+			<td>Juan Moetes Figueroa</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T08</td>
+			<td>Gestionar sección de tratamientos</td>
+			<td>Incorporar botones en la vista del doctor para la creación, edición o eliminación de los tratamientos.</td>
+			<td>4</td>
+			<td>Juan Moetes Figueroa</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US29</td>
+			<td rowspan="2">Sistema de Registro de Resultados con Consideraciones Clínicas Automatizadas</td>
+			<td>T09</td>
+			<td>Sección de registro de resultados</td>
+			<td>Crear el endpoint GET para la sección de registro de resultados, donde el doctor podrá obtener y visualizar la lista de exámenes médicos realizados a los pacientes.</td>
+			<td>6</td>
+			<td>Sebastian Flores Manrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T10</td>
+			<td>Sección Historial de resultados</td>
+			<td>Crear el endpoint GET para la sección de historial de resultados, donde el paciente podrá obtener y visualizar todos sus exámenes médicos realizados.</td>
+			<td>4</td>
+			<td>Sebastian Flores Manrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US12</td>
+			<td>Re-agendamiento de Citas</td>
+			<td>T11</td>
+			<td>Opción de posponer cita</td>
+			<td>Crear la opción posponer cita que permita aplazar la cita una hora durante el día.</td>
+			<td>2</td>
+			<td>Jorge Altamirano Saenz</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
+
+### 5.2.1.3 Development Evidence for Sprint Review
+
+| Repository                     | Branch                   | Commit Id                                | Commit Message                                                                                                                                                | Commit Message Body | Commited on (Date) |
+|--------------------------------|--------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
+| LosLuminosos-SW57medSystem-Backend | master                   | bf3356eea6a8789fd8669fd0e963afe58de968a6 | chore:initial commit                                                                                                                                          |                     | 25/05/24           |
+| LosLuminosos-SW57medSystem-Backend | master                   | 47a5766356ee27545f3fce9649812ee89f691202 | feat: OpenApiConfiguration file modified.                                                                                                                     |                     | 25/04/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-appointments    | 162fda99873f469d54d33d14e0aaadc89f3572cf | feat: add AppointmentDateTime value object                                                                                                                    |                     | 01/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-appointments    | 7a23f01b1294a31d3e724df5dad04b58b245f399 | feat: add missing lines in AuditableAbstractAggregateRoot, files for bounded context of Appointments created and simple CRUD methods for appointments created |  | 01/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-appointments    | c2a0439e1478fef73b1a44a777f91f056e3d603c | feat: added new endpoints                                                                                                                                     |                     | 05/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-appointments    | 409cbe6b479c4c99d2308df2d891b752e3dcd508 | feat: appointments update reason                                                                                                                              |                     | 05/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-appointments    | 3c955c95f6a12091c43b14e011a4108125086f08 | feat: created delete method for appointments                                                                                                                  |                     | 05/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-medicService    | 596637aff1f201e1f971d03d3206bc90de4cbfc8 | feat: add aggregate RequestResult                                                                                                                             |                     | 06/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-medicService    | d35bc9e9a52bca148347b68845a231c48c45a78d | feat: add aggregate RequestRepository.                                                                                                                        |                     | 06/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-medicService    | c994c26e865d97e1f0bf8017084d996754260dcf | feat: add RequestQueryService and implement.                                                                                                                  |                     | 06/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-medicService    | 99de669569a17cb5e20edc750736568390369b7f | feat: add RequestResultResource.                                                                                                                              |                     | 06/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-medicService    | 7c12ec476a0dc76c89027eeed4a101fb0ce3c651 | feat: add controller RequestResult.                                                                                                                           |                     | 06/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-treatments      | 866a15052e04c10acaed3538032afc534c15d776 | feat: added Treatments aggregates, commands, queries and value objects                                                                                       |                     | 06/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-treatments      | f54a14b4f6cc595752ed956fdcc33b171c81204c | feat: added Treatments services and repository                                                                                                              |                     | 06/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-treatments      | 4da3472dd3cbb9563e71c7beeb7c561e5253338c | feat: added transform and resource for Treatments                                                                                                              |                     | 06/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-treatments      | a1865a8480136f129cf2f28649c428ed9759aa86 | feat: added the implementation of the services and the controller for the treatments.                                                                        |                     | 07/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-request-history | e1b6acb694d133100e4503d50a5920c851f79c94 | feat: created history entity and command                                                                                                                     |                     | 09/06/24           |
+| LosLuminosos-SW57medSystem-Backend | feat/dev-request-history | b6ea42735b3cec667357eebd91d0e5ef0925e426 | feat: created history repository and command service                                                                                                         |                     | 09/06/24           |
+| LosLuminosos-SW57medSystem-Backend | master                   | d7d7eb0b8ef9bec479ad229c96fe3c98b99601ac | Merge pull request #1 from LosLuminosos-SW57/dev-appointments                                                                                     |                     | 01/06/24           |
+| LosLuminosos-SW57medSystem-Backend | master                   | c49aced5880302ee9494ef4445245d1f7f5a9817 | Merge pull request #4 from LosLuminosos-SW57/dev-medicService                                                                                     |                     | 06/06/24           |
+| LosLuminosos-SW57medSystem-Backend | master                   | 2940572fdfc702d29c58f18546564ea86f3d39ce | Merge pull request #5 from LosLuminosos-SW57/dev-appointments                                                                                  |                     | 08/06/24           |
 
 ## 5.4 Video About the Product
 Link del video en youtube: https://youtu.be/Qp7P37eMdgY 
