@@ -2792,6 +2792,30 @@ Entrevista 1:
 
 Fecha entrevistada: 08/06/2024
 
+Entrevistador: Manuel Alonso Gutierrez Zumaeta
+
+Entrevistado: Gonzalo Jaime Zapata Campos
+
+Datos del entrevistado:
+
+- Edad: 20 años
+- Distrito: San Martin de Porres
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio:
+- Minuto de Fin:
+
+<img alt = "EntrevistaPaciente2" src="assets/images/">
+
+Resumen de la entrevista:
+
+<p>En una entrevista de validación con Gonzalo Jaime Zapata Campos, llevada a cabo mediante una videollamada en Zoom desde su teléfono móvil, Abril examinó tanto la página de inicio como el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto le pareció completa y beneficiosa para los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es detallado y la tabla de citas programadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de los exámenes.</p>
+
+Entrevista 2: 
+
+Fecha entrevistada: 08/06/2024
+
 Entrevistador: Juan Eduardo Montes Figueroa
 
 Entrevistado: Abril Gloria Montes Jiménez
@@ -2812,42 +2836,18 @@ Resumen de la entrevista:
 
 <p>En la entrevista de validación con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, revisó la landing page y el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto es completa y beneficia a los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es completo y la tabla de citas agendadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de exámenes.</p>
 
-Entrevista 2: 
-
-Fecha entrevistada: 
-
-Entrevistador: 
-
-Entrevistado: 
-
-Datos del entrevistado:
-
-- Edad: 
-- Distrito: 
-
-Link de la Entrevista: <a href="">Link</a>
-
-- Minuto de Inicio:
-- Minuto de Fin:
-
-<img alt = "EntrevistaPaciente2" src="assets/images/">
-
-Resumen de la entrevista:
-
-<p></p>
-
 Entrevista 3: 
 
-Fecha entrevistada: 
+Fecha entrevistada: 08/06/24
 
-Entrevistador: 
+Entrevistador: Sebastian Flores Manrique
 
-Entrevistado: 
+Entrevistado: Juan Mendevil Quispe
 
 Datos del entrevistado:
 
-- Edad: 
-- Distrito: 
+- Edad: 26  
+- Distrito: Villa María del Triunfo
 
 Link de la Entrevista: <a href="">Link</a>
 
@@ -2857,6 +2857,12 @@ Link de la Entrevista: <a href="">Link</a>
 <img alt = "EntrevistaPaciente3" src="assets/images/">
 
 Resumen de la entrevista:
+
+Durante la entrevista Juan evaluó positivamente el sitio web de la startup, destacando varios aspectos importantes.
+Apreció la información bien estructurada sobre la empresa y sus productos, incluyendo descripciones detalladas y datos 
+de contacto. Valoró el formulario de reserva de citas por su exhaustividad y la tabla de citas por facilitar la gestión 
+de su agenda. También destacó la ayuda para recordar recomendaciones médicas y el acceso continuo a exámenes para el seguimiento
+de su salud. Subrayó la importancia de la seguridad y privacidad de los datos médicos en línea.
 
 <p></p>
 
