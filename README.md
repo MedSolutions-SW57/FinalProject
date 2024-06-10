@@ -2852,8 +2852,8 @@ Datos del entrevistado:
 
 Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaTslIJVMBlOk6TUcIeiXX8B_4mcLeYdGviRsmrfoc7Njw?e=zUlUs6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio:
-- Minuto de Fin:
+- Minuto de Inicio: 22:42
+- Minuto de Fin: 25:13
 
 <img alt = "EntrevistaPaciente3" src="assets/images/">
 
