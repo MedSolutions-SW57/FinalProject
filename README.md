@@ -127,7 +127,9 @@ A lo largo del proyecto, el equipo ha estado comprometido en la creación del in
 - TB1
 <img src="assets/images/commits1.png" width="50%" alt="Commits">
 - TP
-<img src="assets/images/commits2.png" width="50%" alt="Commits"> 
+<img src="assets/images/commits2.png" width="50%" alt="Commits">
+- TB2
+<img src="assets/images/commits3.png" width="50%" alt="Commits">
 
 - - -
 # Contenido
