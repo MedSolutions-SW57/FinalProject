@@ -2806,7 +2806,7 @@ Link de la Entrevista: <a href="">Link</a>
 - Minuto de Inicio:
 - Minuto de Fin:
 
-<img alt = "EntrevistaPaciente1" src="">
+<img alt = "EntrevistaPaciente1" src="assets/images/EntrevistaPaciente1.PNG">
 
 Resumen de la entrevista:
 
