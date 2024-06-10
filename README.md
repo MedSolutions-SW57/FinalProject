@@ -2788,18 +2788,18 @@ Preguntas para el segmento objetivo doctor:
 
 <u>Segmento objetivo - Paciente</u>
 
-Entrevista 1:
+Entrevista 1: 
 
-Fecha entrevistada: 
+Fecha entrevistada: 08/06/2024
 
-Entrevistador:
+Entrevistador: Juan Eduardo Montes Figueroa
 
-Entrevistado: 
+Entrevistado: Abril Gloria Montes Jiménez
 
 Datos del entrevistado:
 
-- Edad: 
-- Distrito: 
+- Edad: 50
+- Distrito: La Molina
 
 Link de la Entrevista: <a href="">Link</a>
 
@@ -2810,7 +2810,7 @@ Link de la Entrevista: <a href="">Link</a>
 
 Resumen de la entrevista:
 
-<p></p>
+<p>En la entrevista de validación con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, revisó la landing page y el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto es completa y beneficia a los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es completo y la tabla de citas agendadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de exámenes.</p>
 
 <u>Segmento objetivo - Doctor</u>
 
