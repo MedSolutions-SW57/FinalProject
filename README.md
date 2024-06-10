@@ -85,6 +85,27 @@
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>0.3</strong></td>
+      <td>Domingo 9 de Junio</td>
+      <td>
+        <ul>
+          <li>Flores Manrique, Sebastian Enrique</li>
+          <li>Altamirano Saenz, Jorge Armando</li>
+          <li>Guimaraes Escalante, Carlos Eduardo</li>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Montes Figueroa, Juan Eduardo	</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Backend</li>
+          <li>Avance del Capítulo V: Sprint 3</li>
+	  <li>Entrevistas de validacion</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
@@ -93,6 +114,7 @@
 
 * Link del repositorio de la documentacion: [https://github.com/LosLuminosos-SW57/FinalProject.git](https://github.com/LosLuminosos-SW57/FinalProject.git)
 * Link del repositoiro del frontend: [https://github.com/LosLuminosos-SW57/medSystem-FrontEnd](https://github.com/LosLuminosos-SW57/medSystem-FrontEnd)
+* Link del repositorio del backend: [https://github.com/LosLuminosos-SW57/medSystem-Backend](https://github.com/LosLuminosos-SW57/medSystem-Brontend)
 
 
 A lo largo del proyecto, el equipo ha estado comprometido en la creación del informe en diferentes fases. Las tareas principales para la TB1 han abarcado:
