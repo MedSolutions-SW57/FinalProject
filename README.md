@@ -2955,5 +2955,7 @@ Con una base establecida sólidamente, existe un gran potencial para la escalabi
 
 # Anexos
 
-
+Link del frontnd: https://medsystem-app.web.app/login
+Link del backend: https://medsystem-service.azurewebsites.net/swagger-ui/index.html#/
+Link del video de exposicion: https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlos%2Dluminosos%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eab4dcb49%2D501e%2D4bbd%2D8925%2D7df143c933bc 
 # Bibliografía
