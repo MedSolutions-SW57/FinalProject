@@ -2864,27 +2864,28 @@ Resumen de la entrevista:
 
 Entrevista 1:
 
-Fecha entrevistada: 
+Fecha entrevistada: 09/06/2024
 
-Entrevistador:
+Entrevistador: Carlos Eduardo Guimaraes Escalante
 
-Entrevistado: 
+Entrevistado: Giannina Escalante Gutierrez
 
 Datos del entrevistado:
+- Edad: 51
+- Distrito: Trujillo
 
-- Edad: 
-- Distrito: 
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaTslIJVMBlOk6TUcIeiXX8B_4mcLeYdGviRsmrfoc7Njw?e=zUlUs6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-Link de la Entrevista: <a href="">Link</a>
+- Minuto de Inicio: 11:07
+- Minuto de Fin: 22:41
 
-- Minuto de Inicio:
-- Minuto de Fin:
-
-<img alt = "EntrevistaPaciente1" src="">
+<img alt = "EntrevistaDoctor1" src="assets/images/entrevista_validacion_doctor.png">
 
 Resumen de la entrevista:
 
-<p></p>
+<p>
+En esta entrevista, Giannina nos comenta sobre nuestro Landing Page y Aplicación Web. Ella considera que la página esta bien estructurada, sin embargo, preferiría que las características sean más específicas al campo de traumatología. Por la parte de la aplicación web, considera que los coampos estan bien seccionado para la vista de doctor, pero le gustaría que en la parte de appointments se pudiera poner de acuerdo a la disponibilidad del doctor, es decir, por horarios; en vez de que el paciente elija cualquier hora y fecha. Ella prefiere marcas como Sony, MEDISONIC, Samsung y suele usar WhatsApp o Facebook como canal de interacción. Por último, ella usa Google Chrome como browser de preferencia y utliza dispositivos Android.
+</p>
 
 ### 5.3.3. Evaluación según heuristicas
 
