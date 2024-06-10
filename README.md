@@ -2701,7 +2701,7 @@ Los insights del repositorio del frontend
 	</tbody>
 </table>
 
-### 5.2.1.3 Development Evidence for Sprint Review
+### 5.2.3.3 Development Evidence for Sprint Review
 
 | Repository                     | Branch                   | Commit Id                                | Commit Message                                                                                                                                                | Commit Message Body | Commited on (Date) |
 |--------------------------------|--------------------------|------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------|---------------------|--------------------|
@@ -2726,6 +2726,40 @@ Los insights del repositorio del frontend
 | LosLuminosos-SW57medSystem-Backend | master                   | d7d7eb0b8ef9bec479ad229c96fe3c98b99601ac | Merge pull request #1 from LosLuminosos-SW57/dev-appointments                                                                                     |                     | 01/06/24           |
 | LosLuminosos-SW57medSystem-Backend | master                   | c49aced5880302ee9494ef4445245d1f7f5a9817 | Merge pull request #4 from LosLuminosos-SW57/dev-medicService                                                                                     |                     | 06/06/24           |
 | LosLuminosos-SW57medSystem-Backend | master                   | 2940572fdfc702d29c58f18546564ea86f3d39ce | Merge pull request #5 from LosLuminosos-SW57/dev-appointments                                                                                  |                     | 08/06/24           |
+
+### 5.2.3.4 Testing Suite Evidence for Sprint Review
+### 5.2.3.5 Execution Evidence for Sprint Review
+- Swagger
+<img src="assets/images/swagger.png">
+### 5.2.3.6 Services Documentation Evidence for Sprint Review
+- Appointments
+<img src="assets/images/appointmentsS.png">
+- Request Results
+<img src="assets/images/resultsS.png">
+- Reports
+<img src="assets/images/ReportsS.png">
+- Treatments
+<img src="assets/images/treatementsS.png">
+### 5.2.3.7 Software Deployment Evidence for Sprint Review
+Para hacer el despliegue del backend lo hemos divido por dos partes, el deployment de la base de datos y del proyecto
+- Base de datos
+Primero creamos una base de datos MySQL en Azure, al momento de crearlo nos pedira un usuario y contraseña para acceder a ella
+<img src="assets/images/azure1.png">
+
+Una vez termine de desplegarse copiamos el nombre del servidor y vamos a MySQL Workbench y creamos una nueva conexion y pegamos el nombre del servidor, y ponemos el usuario y contrasena
+<img src="assets/images/sql1.png">
+
+Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-system-os
+<img src="assets/images/sql1.png">
+- Web Service
+Para esto creamos un App services en Azure y subimos nuestro proyecto, para esto debemos darle permisos al azure para que pueda entrar a nuestra organizacion y elegir el repositorio y rama que queremos que se despliegue.
+<img src="assets/images/azure2.png">
+Una vez terminado, esperamos que salga una chech verde en la seccion de Centro de implementacion, luego ya podemos acceder al swager con el siguiente link: https://medsystem-service.azurewebsites.net/swagger-ui/index.html#/ 
+
+### 5.2.3.8 Team Collaboration Insights during Sprint
+<img src="assets/images/insights3.png">
+<img src="assets/images/insights4.png">
+
 
 ## 5.4 Video About the Product
 Link del video en youtube: https://youtu.be/Qp7P37eMdgY 
