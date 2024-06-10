@@ -2888,6 +2888,41 @@ Resumen de la entrevista:
 
 ### 5.3.3. Evaluación según heuristicas
 
+### UX Heuristics & Principles Evaluation
+### Usability – Inclusive Design – Information Architecture
+
+**CARRERA**: Ingeniería de Software  
+**CURSO**: Desarrollo de Aplicaciones Open Source  
+**SECCIÓN**: SW57  
+**PROFESORES**: Angel Augusto Velasquez Nuñez  
+**AUDITOR**: Los Luminosos    
+
+**SITE o APP A EVALUAR**:  
+MedSystem
+
+**TAREAS A EVALUAR**:  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Programación de una nueva cita médica 
+2. Confirmación de cita médica 
+3. Cancelación y re-agendamiento de citas médicas 
+4. Comunicación segura entre médicos y pacientes 
+5. Acceso rápido y eficiente al historial médico de pacientes 
+6. Actualización y ajuste de planes de tratamiento 
+7. Registro de eventos importantes en el historial médico de los pacientes 
+8. Acceso y visualización detallada del historial médico 
+9. Registro de nuevas entradas en el historial médico 
+10. Registro y comunicación de resultados de análisis al médico 
+11. Interfaz para análisis médicos 
+12. Sistema de registro de resultados con consideraciones clínicas automatizadas 
+13. Registro de suministros en el sistema 
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas**:
+1. Selección de especialista y ubicación para una cita médica
+2. Visualización de la disponibilidad de horarios de especialistas
+3. Recepción de alertas sobre cambios en resultados de análisis médicos
+4. Recepción de alertas sobre cambios en resultados de análisis médicos
+5. Evaluación de la eficacia del tratamiento a través de informes y análisis de datos
+
 
 ## 5.4 Video About the Product
 Link del video en youtube: https://youtu.be/Qp7P37eMdgY 
