@@ -2855,7 +2855,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 - Minuto de Inicio: 22:42
 - Minuto de Fin: 25:13
 
-<img alt = "EntrevistaPaciente3" src="assets/images/">
+<img alt = "EntrevistaPaciente3" src="assets/images/entrevista_validacion_paciente.png">
 
 Resumen de la entrevista:
 
