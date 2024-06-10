@@ -2838,16 +2838,16 @@ Resumen de la entrevista:
 
 Entrevista 3: 
 
-Fecha entrevistada: 
+Fecha entrevistada: 08/06/24
 
-Entrevistador: 
+Entrevistador: Sebastian Flores Manrique
 
-Entrevistado: 
+Entrevistado: Juan Mendevil Quispe
 
 Datos del entrevistado:
 
-- Edad: 
-- Distrito: 
+- Edad: 26  
+- Distrito: Villa María del Triunfo
 
 Link de la Entrevista: <a href="">Link</a>
 
@@ -2857,6 +2857,12 @@ Link de la Entrevista: <a href="">Link</a>
 <img alt = "EntrevistaPaciente3" src="assets/images/">
 
 Resumen de la entrevista:
+
+Durante la entrevista Juan evaluó positivamente el sitio web de la startup, destacando varios aspectos importantes.
+Apreció la información bien estructurada sobre la empresa y sus productos, incluyendo descripciones detalladas y datos 
+de contacto. Valoró el formulario de reserva de citas por su exhaustividad y la tabla de citas por facilitar la gestión 
+de su agenda. También destacó la ayuda para recordar recomendaciones médicas y el acceso continuo a exámenes para el seguimiento
+de su salud. Subrayó la importancia de la seguridad y privacidad de los datos médicos en línea.
 
 <p></p>
 
