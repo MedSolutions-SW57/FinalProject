@@ -2801,10 +2801,10 @@ Datos del entrevistado:
 - Edad: 20 años
 - Distrito: San Martin de Porres
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaTslIJVMBlOk6TUcIeiXX8B_4mcLeYdGviRsmrfoc7Njw?e=zUlUs6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio:
-- Minuto de Fin:
+- Minuto de Inicio: 4:31
+- Minuto de Fin: 11:06
 
 <img alt = "EntrevistaPaciente2" src="assets/images/">
 
@@ -2825,10 +2825,10 @@ Datos del entrevistado:
 - Edad: 50
 - Distrito: La Molina
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaTslIJVMBlOk6TUcIeiXX8B_4mcLeYdGviRsmrfoc7Njw?e=zUlUs6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio:
-- Minuto de Fin:
+- Minuto de Inicio: 00:00
+- Minuto de Fin: 4:30
 
 <img alt = "EntrevistaPaciente1" src="assets/images/EntrevistaPaciente1.PNG">
 
@@ -2849,7 +2849,7 @@ Datos del entrevistado:
 - Edad: 26  
 - Distrito: Villa María del Triunfo
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaTslIJVMBlOk6TUcIeiXX8B_4mcLeYdGviRsmrfoc7Njw?e=zUlUs6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 - Minuto de Inicio:
 - Minuto de Fin:
@@ -2881,7 +2881,7 @@ Datos del entrevistado:
 - Edad: 
 - Distrito: 
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaTslIJVMBlOk6TUcIeiXX8B_4mcLeYdGviRsmrfoc7Njw?e=zUlUs6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 - Minuto de Inicio:
 - Minuto de Fin:
