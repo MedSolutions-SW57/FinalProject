@@ -2792,6 +2792,30 @@ Entrevista 1:
 
 Fecha entrevistada: 08/06/2024
 
+Entrevistador: Manuel Alonso Gutierrez Zumaeta
+
+Entrevistado: Gonzalo Jaime Zapata Campos
+
+Datos del entrevistado:
+
+- Edad: 20 años
+- Distrito: San Martin de Porres
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio:
+- Minuto de Fin:
+
+<img alt = "EntrevistaPaciente2" src="assets/images/">
+
+Resumen de la entrevista:
+
+<p>En una entrevista de validación con Gonzalo Jaime Zapata Campos, llevada a cabo mediante una videollamada en Zoom desde su teléfono móvil, Abril examinó tanto la página de inicio como el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto le pareció completa y beneficiosa para los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es detallado y la tabla de citas programadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de los exámenes.</p>
+
+Entrevista 2: 
+
+Fecha entrevistada: 08/06/2024
+
 Entrevistador: Juan Eduardo Montes Figueroa
 
 Entrevistado: Abril Gloria Montes Jiménez
@@ -2811,30 +2835,6 @@ Link de la Entrevista: <a href="">Link</a>
 Resumen de la entrevista:
 
 <p>En la entrevista de validación con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, revisó la landing page y el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto es completa y beneficia a los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es completo y la tabla de citas agendadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de exámenes.</p>
-
-Entrevista 2: 
-
-Fecha entrevistada: 
-
-Entrevistador: 
-
-Entrevistado: 
-
-Datos del entrevistado:
-
-- Edad: 
-- Distrito: 
-
-Link de la Entrevista: <a href="">Link</a>
-
-- Minuto de Inicio:
-- Minuto de Fin:
-
-<img alt = "EntrevistaPaciente2" src="assets/images/">
-
-Resumen de la entrevista:
-
-<p></p>
 
 Entrevista 3: 
 
