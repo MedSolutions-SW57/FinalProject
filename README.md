@@ -2792,6 +2792,30 @@ Entrevista 1:
 
 Fecha entrevistada: 08/06/2024
 
+Entrevistador: Manuel Alonso Gutierrez Zumaeta
+
+Entrevistado: Gonzalo Jaime Zapata Campos
+
+Datos del entrevistado:
+
+- Edad: 20 años
+- Distrito: San Martin de Porres
+
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaTslIJVMBlOk6TUcIeiXX8B_4mcLeYdGviRsmrfoc7Njw?e=zUlUs6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
+
+- Minuto de Inicio: 4:31
+- Minuto de Fin: 11:06
+
+<img alt = "EntrevistaPaciente2" src="assets/images/">
+
+Resumen de la entrevista:
+
+<p>En una entrevista de validación con Gonzalo Jaime Zapata Campos, llevada a cabo mediante una videollamada en Zoom desde su teléfono móvil, Abril examinó tanto la página de inicio como el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto le pareció completa y beneficiosa para los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es detallado y la tabla de citas programadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de los exámenes.</p>
+
+Entrevista 2: 
+
+Fecha entrevistada: 08/06/2024
+
 Entrevistador: Juan Eduardo Montes Figueroa
 
 Entrevistado: Abril Gloria Montes Jiménez
@@ -2801,10 +2825,10 @@ Datos del entrevistado:
 - Edad: 50
 - Distrito: La Molina
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaTslIJVMBlOk6TUcIeiXX8B_4mcLeYdGviRsmrfoc7Njw?e=zUlUs6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio:
-- Minuto de Fin:
+- Minuto de Inicio: 00:00
+- Minuto de Fin: 4:30
 
 <img alt = "EntrevistaPaciente1" src="assets/images/EntrevistaPaciente1.PNG">
 
@@ -2812,44 +2836,20 @@ Resumen de la entrevista:
 
 <p>En la entrevista de validación con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, revisó la landing page y el front-end de la plataforma. Comentó que la página proporciona información clara y útil sobre la startup, aunque algunos apartados podrían simplificarse. La descripción del producto es completa y beneficia a los pacientes. Abril sugirió agregar una sección de testimonios o casos de estudio para aumentar la credibilidad. En el front-end, destacó que el formulario para agendar citas es completo y la tabla de citas agendadas es muy útil. También encontró valiosa la sección de tratamientos y recomendó incluir una opción para descargar y compartir los resultados de exámenes.</p>
 
-Entrevista 2: 
-
-Fecha entrevistada: 
-
-Entrevistador: 
-
-Entrevistado: 
-
-Datos del entrevistado:
-
-- Edad: 
-- Distrito: 
-
-Link de la Entrevista: <a href="">Link</a>
-
-- Minuto de Inicio:
-- Minuto de Fin:
-
-<img alt = "EntrevistaPaciente2" src="assets/images/">
-
-Resumen de la entrevista:
-
-<p></p>
-
 Entrevista 3: 
 
-Fecha entrevistada: 
+Fecha entrevistada: 08/06/24
 
-Entrevistador: 
+Entrevistador: Sebastian Flores Manrique
 
-Entrevistado: 
+Entrevistado: Juan Mendevil Quispe
 
 Datos del entrevistado:
 
-- Edad: 
-- Distrito: 
+- Edad: 26  
+- Distrito: Villa María del Triunfo
 
-Link de la Entrevista: <a href="">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaTslIJVMBlOk6TUcIeiXX8B_4mcLeYdGviRsmrfoc7Njw?e=zUlUs6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 - Minuto de Inicio:
 - Minuto de Fin:
@@ -2857,6 +2857,12 @@ Link de la Entrevista: <a href="">Link</a>
 <img alt = "EntrevistaPaciente3" src="assets/images/">
 
 Resumen de la entrevista:
+
+Durante la entrevista Juan evaluó positivamente el sitio web de la startup, destacando varios aspectos importantes.
+Apreció la información bien estructurada sobre la empresa y sus productos, incluyendo descripciones detalladas y datos 
+de contacto. Valoró el formulario de reserva de citas por su exhaustividad y la tabla de citas por facilitar la gestión 
+de su agenda. También destacó la ayuda para recordar recomendaciones médicas y el acceso continuo a exámenes para el seguimiento
+de su salud. Subrayó la importancia de la seguridad y privacidad de los datos médicos en línea.
 
 <p></p>
 
@@ -2878,6 +2884,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 - Minuto de Inicio: 11:07
 - Minuto de Fin: 22:41
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/EaTslIJVMBlOk6TUcIeiXX8B_4mcLeYdGviRsmrfoc7Njw?e=zUlUs6&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
 <img alt = "EntrevistaDoctor1" src="assets/images/entrevista_validacion_doctor.png">
 
@@ -2888,6 +2895,41 @@ En esta entrevista, Giannina nos comenta sobre nuestro Landing Page y Aplicació
 </p>
 
 ### 5.3.3. Evaluación según heuristicas
+
+### UX Heuristics & Principles Evaluation
+### Usability – Inclusive Design – Information Architecture
+
+**CARRERA**: Ingeniería de Software  
+**CURSO**: Desarrollo de Aplicaciones Open Source  
+**SECCIÓN**: SW57  
+**PROFESORES**: Angel Augusto Velasquez Nuñez  
+**AUDITOR**: Los Luminosos    
+
+**SITE o APP A EVALUAR**:  
+MedSystem
+
+**TAREAS A EVALUAR**:  
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+1. Programación de una nueva cita médica 
+2. Confirmación de cita médica 
+3. Cancelación y re-agendamiento de citas médicas 
+4. Comunicación segura entre médicos y pacientes 
+5. Acceso rápido y eficiente al historial médico de pacientes 
+6. Actualización y ajuste de planes de tratamiento 
+7. Registro de eventos importantes en el historial médico de los pacientes 
+8. Acceso y visualización detallada del historial médico 
+9. Registro de nuevas entradas en el historial médico 
+10. Registro y comunicación de resultados de análisis al médico 
+11. Interfaz para análisis médicos 
+12. Sistema de registro de resultados con consideraciones clínicas automatizadas 
+13. Registro de suministros en el sistema 
+
+**No están incluidas en esta versión de la evaluación las siguientes tareas**:
+1. Selección de especialista y ubicación para una cita médica
+2. Visualización de la disponibilidad de horarios de especialistas
+3. Recepción de alertas sobre cambios en resultados de análisis médicos
+4. Recepción de alertas sobre cambios en resultados de análisis médicos
+5. Evaluación de la eficacia del tratamiento a través de informes y análisis de datos
 
 
 ## 5.4 Video About the Product
