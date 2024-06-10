@@ -2786,6 +2786,58 @@ Preguntas para el segmento objetivo doctor:
 
 ### 5.3.2. Registro de Entrevistas
 
+<u>Segmento objetivo - Paciente</u>
+
+Entrevista 1:
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado: 
+
+Datos del entrevistado:
+
+- Edad: 
+- Distrito: 
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio:
+- Minuto de Fin:
+
+<img alt = "EntrevistaPaciente1" src="">
+
+Resumen de la entrevista:
+
+<p></p>
+
+<u>Segmento objetivo - Doctor</u>
+
+Entrevista 2:
+
+Fecha entrevistada: 
+
+Entrevistador:
+
+Entrevistado: 
+
+Datos del entrevistado:
+
+- Edad: 
+- Distrito: 
+
+Link de la Entrevista: <a href="">Link</a>
+
+- Minuto de Inicio:
+- Minuto de Fin:
+
+<img alt = "EntrevistaPaciente1" src="">
+
+Resumen de la entrevista:
+
+<p></p>
+
 ### 5.3.3. Evaluación según heuristicas
 
 
