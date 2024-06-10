@@ -2762,6 +2762,32 @@ Una vez terminado, esperamos que salga una chech verde en la seccion de Centro d
 <img src="assets/images/insights3.png">
 <img src="assets/images/insights4.png">
 
+## 5.3 Validation interviews
+
+### 5.3.1. Diseño de entrevistas
+
+Preguntas para el segmento objetivo paciente:
+1. ¿La página contiene información útil sobre la startup?
+2. ¿La información es clara y concisa?
+3. ¿La página contiene información útil sobre el producto que ofrecemos?
+4. ¿La landing page tiene las secciones necesarias? Si no que sección debería de ser agregada?
+5. ¿Las secciones de la landing page contienen información relevante?
+6. ¿Considera que el formulario para agendar una cita tiene los campos necesarios?
+7. ¿Le es de utilidad la tabla que muestra sus citas agendadas? 
+8. ¿Considera útil la sección donde puede ver sus tratamientos?
+9. ¿Considera útil la sección donde puede ver los resultados de algún examen que se haya realizado?
+
+Preguntas para el segmento objetivo doctor:
+1. ¿Considera que el formulario para agendar una cita tiene los campos necesarios?
+2. ¿Le es de utilidad la tabla que muestra sus citas agendadas?
+3. ¿Considera útil la sección donde puede ver los tratamientos que usted ha asignado a un paciente?
+4. ¿Considera útil la sección donde puede ver los resultados de exámenes de los pacientes?
+5. ¿Considera útil la sección donde puede ver el historial clínico del paciente?
+
+### 5.3.2. Registro de Entrevistas
+
+### 5.3.3. Evaluación según heuristicas
+
 
 ## 5.4 Video About the Product
 Link del video en youtube: https://youtu.be/Qp7P37eMdgY 
