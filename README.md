@@ -577,41 +577,44 @@ MedSystem puede destacarse en el mercado ofreciendo una plataforma de gestión d
 Preguntas para el segmento objetivo paciente:
 
 1. ¿Qué te motivó a buscar atención médica en el área de traumatología?
-2. ¿Qué desafíos has enfrentado al buscar tratamiento médico para tu lesión o condición?
-3. ¿Qué características consideras más importantes al elegir a un especialista en traumatología?
-4. ¿Cómo prefieres programar tus citas médicas?
-5. ¿Qué tipo de información te gustaría tener disponible antes de una consulta médica?
-6. ¿Qué expectativas tienes en cuanto a la comunicación con tu médico y el equipo médico en general?
-7. ¿Qué te gustaría ver mejorado en la experiencia de atención médica en el área de traumatología?
-8. ¿Cómo prefieres recibir los resultados de tus exámenes médicos y pruebas diagnósticas?
-9. ¿Qué aspectos valoras más en una plataforma web para el seguimiento de tu tratamiento y la comunicación con tu médico?
-10. ¿Qué preocupaciones tienen sobre la privacidad y seguridad de tus datos médicos en línea?
+2. ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por qué?
+3. ¿Qué desafíos has enfrentado al buscar tratamiento médico para tu lesión o condición?
+4. ¿Qué características consideras más importantes al elegir a un especialista en traumatología? 
+5. ¿Cómo prefieres programar tus citas médicas?
+6. ¿Qué tipo de información te gustaría tener disponible antes de una consulta médica?
+7. ¿Qué expectativas tienes en cuanto a la comunicación con tu médico y el equipo médico en general?
+8. ¿Qué te gustaría ver mejorado en la experiencia de atención médica en el área de traumatología?
+9. ¿Cómo prefieres recibir los resultados de tus exámenes médicos y pruebas diagnósticas?
+10. ¿Qué aspectos valoras más en una plataforma web para el seguimiento de tu tratamiento y la comunicación con tu médico?
+11. ¿Qué preocupaciones tienen sobre la privacidad y seguridad de tus datos médicos en línea?
 
 Preguntas para el segmento objetivo doctor:
 
 1. ¿Cuáles son los mayores desafíos que enfrentas en tu práctica diaria como médico especializado en traumatología?
-2. ¿Qué herramientas o recursos te ayudarían a optimizar la gestión de tus citas y comunicación con otros médicos y laboratorios?
-3. ¿Qué características consideras más importantes al elegir una solución tecnológica para la gestión de consultas y pacientes?
-4. ¿Cómo prefieres recibir información sobre los pacientes antes de una consulta?
-5. ¿Qué aspectos te gustaría mejorar en la comunicación con otros médicos y profesionales de la salud?
-6. ¿Qué funcionalidades consideramos cruciales en una plataforma de gestión de consultas médicas?
-7. ¿Cómo manejas típicamente la coordinación de atención entre diferentes especialistas y servicios médicos?
-8. ¿Qué medidas de seguridad y privacidad consideramos esenciales al compartir información médica en línea?
-9. ¿Qué te gustaría ver mejorado en la gestión de registros médicos y documentación de pacientes?
-10. ¿Cuál es tu opinión sobre la integración de tecnología para mejorar la atención médica en traumatología?
+2. ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por qué?
+3. ¿Qué herramientas o recursos te ayudarían a optimizar la gestión de tus citas y comunicación con otros médicos y laboratorios?
+4. ¿Qué características consideras más importantes al elegir una solución tecnológica para la gestión de consultas y pacientes?
+5. ¿Cómo prefieres recibir información sobre los pacientes antes de una consulta?
+6. ¿Qué aspectos te gustaría mejorar en la comunicación con otros médicos y profesionales de la salud?
+7. ¿Qué funcionalidades consideramos cruciales en una plataforma de gestión de consultas médicas?
+8. ¿Cómo manejas típicamente la coordinación de atención entre diferentes especialistas y servicios médicos?
+9. ¿Qué medidas de seguridad y privacidad consideramos esenciales al compartir información médica en línea?
+10. ¿Qué te gustaría ver mejorado en la gestión de registros médicos y documentación de pacientes?
+11. ¿Cuál es tu opinión sobre la integración de tecnología para mejorar la atención médica en traumatología?
 
 Preguntas para el segmento objetivo laboratorio o consultoría:
 
 1. ¿Cuáles son los principales desafíos que enfrenta tu laboratorio o consultoría en la recepción y gestión de información de pacientes?
-2. ¿Qué información consideras más relevante al recibir un pedido médico de parte de un especialista en traumatología?
-3. ¿Cómo prefieres recibir los pedidos y resultados de pruebas diagnósticas de parte de los médicos?
-4. ¿Qué aspectos valoras más en una plataforma de comunicación con médicos y pacientes?
-5. ¿Cuáles son tus mayores preocupaciones en cuanto a la seguridad y privacidad de los datos médicos que manejas?
-6. ¿Cómo te gustaría que se optimizará el proceso de coordinación entre médicos y laboratorios para la realización de pruebas?
-7. ¿Qué funcionalidades consideramos esenciales en una plataforma web para la gestión de pedidos y resultados de pruebas médicas?
-8. ¿Qué medidas tomas actualmente para garantizar la exactitud e integridad de los resultados de las pruebas?
-9. ¿Cómo manejas los tiempos de respuesta para la realización y entrega de resultados de pruebas diagnósticas?
-10. ¿Qué mejoras te gustaría ver en la comunicación y colaboración con los médicos que envían pedidos a tu laboratorio o consultoría?
+2. ¿Qué dispositivos de escritorio usas mayormente? ¿Y de móvil? ¿Por qué?
+3. ¿Qué información consideras más relevante al recibir un pedido médico de parte de un especialista en traumatología?
+4. ¿Cómo prefieres recibir los pedidos y resultados de pruebas diagnósticas de parte de los médicos?
+5. ¿Qué aspectos valoras más en una plataforma de comunicación con médicos y pacientes?
+6. ¿Cuáles son tus mayores preocupaciones en cuanto a la seguridad y privacidad de los datos médicos que manejas?
+7. ¿Cómo te gustaría que se optimizará el proceso de coordinación entre médicos y laboratorios para la realización de pruebas?
+8. ¿Qué funcionalidades consideramos esenciales en una plataforma web para la gestión de pedidos y resultados de pruebas médicas?
+9. ¿Qué medidas tomas actualmente para garantizar la exactitud e integridad de los resultados de las pruebas?
+10. ¿Cómo manejas los tiempos de respuesta para la realización y entrega de resultados de pruebas diagnósticas?
+11. ¿Qué mejoras te gustaría ver en la comunicación y colaboración con los médicos que envían pedidos a tu laboratorio o consultoría?
 
 ### 2.2.2 Registro de entrevistas
 
@@ -639,7 +642,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 Resumen de la entrevista:
 
-<p>Gonzalo nos comenta que ha tenido problemas anteriormente al momento de sacar cita, como el dijo no habia una buena organizacion de citas por lo que para sacar una ha tenido que espera mucho tiempo. Ademas habla de algunas caracteristica que le gustaria tener ante de poder sacar una cita y tambien otra para los envios de los resultados de algun examen medico que hice, dependiendo de la gravedad de la situacion el pueda elegir entre que sea virtual o presencial.
+<p>Gonzalo es un estudiante de 20 años que vive acutalmente en San Martin de Porres. Sus sistemas operativos de preferencia son Ios en moviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Nos comenta que ha tenido problemas anteriormente al momento de sacar cita, como el dijo no habia una buena organizacion de citas por lo que para sacar una ha tenido que espera mucho tiempo. Ademas habla de algunas caracteristica que le gustaria tener ante de poder sacar una cita y tambien otra para los envios de los resultados de algun examen medico que hice, dependiendo de la gravedad de la situacion el pueda elegir entre que sea virtual o presencial.
 </p>
 
 Entrevista 2:
@@ -665,7 +668,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 Resumen de la entrevista:
 
-<p>Durante la entrevista con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, discutió su búsqueda de atención médica en traumatología debido a una lesión deportiva, destacando el desafío de encontrar un especialista con disponibilidad inmediata. Prioriza la experiencia y reputación del médico al elegir un especialista, y prefiere la conveniencia de programar citas médicas en línea. Expresó la importancia de tener información detallada antes de las consultas y espera una comunicación clara y coordinación entre los profesionales de la salud. Valora la facilidad de uso y la seguridad en una plataforma web para el seguimiento del tratamiento, pero muestra preocupación por la privacidad de sus datos médicos en línea y espera que se cumplan los estándares de seguridad.</p>
+<p>Abril es una adulta de 50 años que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en moviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Durante la entrevista con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, discutió su búsqueda de atención médica en traumatología debido a una lesión deportiva, destacando el desafío de encontrar un especialista con disponibilidad inmediata. Prioriza la experiencia y reputación del médico al elegir un especialista, y prefiere la conveniencia de programar citas médicas en línea. Expresó la importancia de tener información detallada antes de las consultas y espera una comunicación clara y coordinación entre los profesionales de la salud. Valora la facilidad de uso y la seguridad en una plataforma web para el seguimiento del tratamiento, pero muestra preocupación por la privacidad de sus datos médicos en línea y espera que se cumplan los estándares de seguridad.</p>
 
 Entrevista 3:
 
@@ -688,6 +691,9 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/personal/u201
 <img alt = "Entrevista1.3" src="assets/images/entevista-paciente-3.png">
 
 Resumen de la entrevista:
+
+<p>
+Juan Daniel Mendívil es un adulto de 27 años y trabajador independiente que vive actualmente en Villa María del Triunfo. Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Busca atención médica por una fisura en su tobillo derecho. Su principal objetivo es una recuperación completa que le permita realizar todas sus actividades habituales. Al elegir a un especialista en traumatología, valora la experiencia y la buena reputación del doctor. Prefiere citas virtuales para evitar colas y desea acceso rápido a la cita y atención rápida durante la misma. En cuanto a la comunicación con el equipo médico, espera atención personalizada y enfocada en sus necesidades. Considera que la paciencia por parte del personal médico y la mejor comunicación del seguimiento del tratamiento son áreas de mejora en la experiencia de atención médica. Prefiere recibir los resultados de los exámenes médicos en línea y atención post-consulta por medios virtuales. Valora el acceso a la información sobre el tratamiento y la comunicación con el médico a través de una plataforma web, siempre que la plataforma sea segura y proteja su privacidad.</p>
 
 <p></p>
 
@@ -716,7 +722,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 Resumen de la entrevista:
 
 <p>
-Durante la entrevista con Gaby, llevada a cabo a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos diarios que enfrenta en su práctica médica. La doctora destacó la necesidad de herramientas tecnológicas eficientes para gestionar sus citas y comunicarse con otros profesionales de la salud y laboratorios. Mencionó que prefiere recibir pedidos médicos y resultados de pruebas de manera electrónica, utilizando plataformas seguras y fáciles de usar. En cuanto a la tecnología, el médico utilizó su computadora de escritorio con el navegador Chrome durante la videoconferencia. Además, expresó preocupación por la seguridad y privacidad de los datos médicos, destacando la importancia de medidas sólidas de protección de la información en línea.</p>
+Gaby Manrique es una adulta de 50 años, que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Microsoft Edge. Durante la entrevista con Gaby, llevada a cabo a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos diarios que enfrenta en su práctica médica. La doctora destacó la necesidad de herramientas tecnológicas eficientes para gestionar sus citas y comunicarse con otros profesionales de la salud y laboratorios. Mencionó que prefiere recibir pedidos médicos y resultados de pruebas de manera electrónica, utilizando plataformas seguras y fáciles de usar. En cuanto a la tecnología, el médico utilizó su computadora de escritorio con el navegador Chrome durante la videoconferencia. Además, expresó preocupación por la seguridad y privacidad de los datos médicos, destacando la importancia de medidas sólidas de protección de la información en línea.</p>
 
 Entrevista 2:
 
@@ -739,7 +745,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 Resumen de la entrevista:
 <p>
-Durante la entrevista, el Dr. Gerardo Villaroel nos explica los procesos que suele haber en el área de traumatología y como es que en el centro donde trabaja ya cuenta con un sistema tecnológico que les da mayor facilidad para comunicarse con sus pacientes. En este caso nos dice que los pacientes ingresan con sus credenciales a este portal médico, y de esa forma pueden visualizar el contenido multimedia que es de ellos, como radiografías por ejemplo. El Dr. Villaroel reafirma la importancia de la tecnología en su práctica médica, y como facilita su forma de trabajo. En su caso el demuestra ser una persona experta, amable y fiable. El prefiere marcas como GE HealthCare, Bowa Medical o Stryker y suele usar WhatsApp, Facebook, Instagram y Tik Tok como canal de interacción. Por último, el usa Opera GX como browser de preferencia y prefiere utilziar dispositivos IOS.
+Gerardo Vilaroel es un adulto de 30 años, que vive actualmente en Trujillo. Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Durante la entrevista, el Dr. Gerardo Villaroel nos explica los procesos que suele haber en el área de traumatología y como es que en el centro donde trabaja ya cuenta con un sistema tecnológico que les da mayor facilidad para comunicarse con sus pacientes. En este caso nos dice que los pacientes ingresan con sus credenciales a este portal médico, y de esa forma pueden visualizar el contenido multimedia que es de ellos, como radiografías por ejemplo. El Dr. Villaroel reafirma la importancia de la tecnología en su práctica médica, y como facilita su forma de trabajo. En su caso el demuestra ser una persona experta, amable y fiable. El prefiere marcas como GE HealthCare, Bowa Medical o Stryker y suele usar WhatsApp, Facebook, Instagram y Tik Tok como canal de interacción. Por último, el usa Opera GX como browser de preferencia y prefiere utilziar dispositivos IOS.
 </p>
 </p>
 
@@ -769,7 +775,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 Resumen de la entrevista:
 
-<p>Durante la entrevista Luis, realizada a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos que enfrenta su laboratorio en la recepción y gestión de información de pacientes.Mencionó que utilizan una variedad de herramientas digitales para recibir y procesar pedidos médicos, incluyendo un sistema de gestión de laboratorio basado en la web. Destacó la importancia de la precisión y la integridad de los resultados de las pruebas, y expresó interés en mejorar la coordinación con médicos remitentes a través de plataformas de comunicación seguras. Durante la entrevista, Luis utilizó una laptop Lenovo con el navegador Chrome para acceder a la videoconferencia.</p>
+<p>Luis Protocarrero es un adulto de 60 años, que vive actualmente en La Molina.Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. .Durante la entrevista Luis, realizada a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos que enfrenta su laboratorio en la recepción y gestión de información de pacientes.Mencionó que utilizan una variedad de herramientas digitales para recibir y procesar pedidos médicos, incluyendo un sistema de gestión de laboratorio basado en la web. Destacó la importancia de la precisión y la integridad de los resultados de las pruebas, y expresó interés en mejorar la coordinación con médicos remitentes a través de plataformas de comunicación seguras. Durante la entrevista, Luis utilizó una laptop Lenovo con el navegador Chrome para acceder a la videoconferencia.</p>
 
 Entrevista 2:
 
@@ -792,7 +798,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 
 Resumen de la entrevista:
 <p>
-En esta entrevista, Giannina nos comenta la importancia de que los resultado médicos llegue en las horas establecida, asi como lo importante que es que las indicaciones el doctor para realizar una prueba médica sea concisa. Según ella, los examenes se deben realizar una y otra vez para que el resultado de la prueba sea fiable. Asimismo, nos habla de lo importante que sería la tecnología para poder tener un contacto más directo con el médico, y de esta forma agilizar los procesos de laboratorio. En su caso ella es una persona muy racional y objetiva. Ella prefiere marcas como Sony, MEDISONIC, Samsung y suele usar WhatsApp o Facebook como canal de interacción. Por último, ella usa Google Chrome como browser de preferencia y utliza dispositivos Android.
+Gianna Escalante Gutierrez es una adulta de 51 años, que vive actualmente en Trujillo. Sus sistemas operativos de preferencia son Ios en moviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Mozila. Giannina nos comenta la importancia de que los resultado médicos llegue en las horas establecida, asi como lo importante que es que las indicaciones el doctor para realizar una prueba médica sea concisa. Según ella, los examenes se deben realizar una y otra vez para que el resultado de la prueba sea fiable. Asimismo, nos habla de lo importante que sería la tecnología para poder tener un contacto más directo con el médico, y de esta forma agilizar los procesos de laboratorio. En su caso ella es una persona muy racional y objetiva. Ella prefiere marcas como Sony, MEDISONIC, Samsung y suele usar WhatsApp o Facebook como canal de interacción. Por último, ella usa Google Chrome como browser de preferencia y utliza dispositivos Android.
 </p>
 
 <p></p>
