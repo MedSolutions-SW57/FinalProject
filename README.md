@@ -618,9 +618,9 @@ Preguntas para el segmento objetivo laboratorio o consultoría:
 
 ### 2.2.2 Registro de entrevistas
 
-<u>Segmento objetivo - Paciente</u>
+### Segmento objetivo - Paciente
 
-Entrevista 1:
+### Entrevista 1:
 
 Fecha entrevistada: 10/04/2024
 
@@ -633,10 +633,10 @@ Datos del entrevistado:
 - Edad: 20 años
 - Distrito: San Martin de Porres
 
-Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112353_upc_edu_pe/EQt5uMfao0BMlqnxHClNfYsBIugjlgqmpoO0X3BXEfjLRw?e=87pc3U ">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EbjLpEbXB19DpCYb3IeGsgIBKh-fjJKv9hqqiDE3P6u70A?e=AuM7GN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio:
-- Minuto de Fin:
+- Minuto de Inicio: 00:01
+- Minuto de Fin: 06:51
 
 <img alt = "Entrevista1.1" src="assets/images/Entrevista1.1.png">
 
@@ -645,32 +645,7 @@ Resumen de la entrevista:
 <p>Gonzalo es un estudiante de 20 años que vive acutalmente en San Martin de Porres. Sus sistemas operativos de preferencia son Ios en moviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Nos comenta que ha tenido problemas anteriormente al momento de sacar cita, como el dijo no habia una buena organizacion de citas por lo que para sacar una ha tenido que espera mucho tiempo. Ademas habla de algunas caracteristica que le gustaria tener ante de poder sacar una cita y tambien otra para los envios de los resultados de algun examen medico que hice, dependiendo de la gravedad de la situacion el pueda elegir entre que sea virtual o presencial.
 </p>
 
-Entrevista 2:
-
-Fecha entrevistada: 14/04/2024
-
-Entrevistador: Juan Eduardo Montes Figueroa
-
-Entrevistado: Abril Gloria Montes Jiménez
-
-Datos del entrevistado:
-
-- Edad: 50
-- Distrito: La Molina
-
-Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Eb9Hi7qT4W5Ik-M_OdQcMLUBW7HLy0mp-tkYAZcSYEbM6A?e=daDNCa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
-
-
-- Minuto de Inicio: 31:33
-- Minuto de Fin: 35:45
-
-<img alt = "Entrevista1.2" src="assets/images/Entrevista1.2.PNG">
-
-Resumen de la entrevista:
-
-<p>Abril es una adulta de 50 años que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en moviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Durante la entrevista con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, discutió su búsqueda de atención médica en traumatología debido a una lesión deportiva, destacando el desafío de encontrar un especialista con disponibilidad inmediata. Prioriza la experiencia y reputación del médico al elegir un especialista, y prefiere la conveniencia de programar citas médicas en línea. Expresó la importancia de tener información detallada antes de las consultas y espera una comunicación clara y coordinación entre los profesionales de la salud. Valora la facilidad de uso y la seguridad en una plataforma web para el seguimiento del tratamiento, pero muestra preocupación por la privacidad de sus datos médicos en línea y espera que se cumplan los estándares de seguridad.</p>
-
-Entrevista 3:
+### Entrevista 2:
 
 Fecha entrevistada: 14/04/24
 
@@ -683,10 +658,10 @@ Datos del entrevistado:
 - Edad: 26
 - Distrito: Villa María del triunfo
 
-Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/personal/u201611430_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu201611430%5Fupc%5Fedu%5Fpe%2FDocuments%2FEntrevista%2Dpaciente%2Emp4&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E81f75b7c%2D03ec%2D4f5b%2D9184%2Db857233d0a2c">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EbjLpEbXB19DpCYb3IeGsgIBKh-fjJKv9hqqiDE3P6u70A?e=AuM7GN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio:
-- Minuto de Fin:
+- Minuto de Inicio: 06:52
+- Minuto de Fin: 11:38
 
 <img alt = "Entrevista1.3" src="assets/images/entevista-paciente-3.png">
 
@@ -695,11 +670,36 @@ Resumen de la entrevista:
 <p>
 Juan Daniel Mendívil es un adulto de 27 años y trabajador independiente que vive actualmente en Villa María del Triunfo. Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Busca atención médica por una fisura en su tobillo derecho. Su principal objetivo es una recuperación completa que le permita realizar todas sus actividades habituales. Al elegir a un especialista en traumatología, valora la experiencia y la buena reputación del doctor. Prefiere citas virtuales para evitar colas y desea acceso rápido a la cita y atención rápida durante la misma. En cuanto a la comunicación con el equipo médico, espera atención personalizada y enfocada en sus necesidades. Considera que la paciencia por parte del personal médico y la mejor comunicación del seguimiento del tratamiento son áreas de mejora en la experiencia de atención médica. Prefiere recibir los resultados de los exámenes médicos en línea y atención post-consulta por medios virtuales. Valora el acceso a la información sobre el tratamiento y la comunicación con el médico a través de una plataforma web, siempre que la plataforma sea segura y proteja su privacidad.</p>
 
-<p></p>
 
-<u>Segmento objetivo - Medico</u>
+### Entrevista 3:
 
-Entrevista 1:
+Fecha entrevistada: 14/04/2024
+
+Entrevistador: Juan Eduardo Montes Figueroa
+
+Entrevistado: Abril Gloria Montes Jiménez
+
+Datos del entrevistado:
+
+- Edad: 50
+- Distrito: La Molina
+
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EbjLpEbXB19DpCYb3IeGsgIBKh-fjJKv9hqqiDE3P6u70A?e=AuM7GN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
+
+
+- Minuto de Inicio: 43:13
+- Minuto de Fin: 47:24
+
+<img alt = "Entrevista1.2" src="assets/images/Entrevista1.2.PNG">
+
+Resumen de la entrevista:
+
+<p>Abril es una adulta de 50 años que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en moviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Durante la entrevista con Abril, ejecutada mediante una videoconferencia en la plataforma Zoom con su celular, discutió su búsqueda de atención médica en traumatología debido a una lesión deportiva, destacando el desafío de encontrar un especialista con disponibilidad inmediata. Prioriza la experiencia y reputación del médico al elegir un especialista, y prefiere la conveniencia de programar citas médicas en línea. Expresó la importancia de tener información detallada antes de las consultas y espera una comunicación clara y coordinación entre los profesionales de la salud. Valora la facilidad de uso y la seguridad en una plataforma web para el seguimiento del tratamiento, pero muestra preocupación por la privacidad de sus datos médicos en línea y espera que se cumplan los estándares de seguridad.</p>
+
+
+### Segmento objetivo - Medico
+
+### Entrevista 1:
 
 Fecha entrevistada: 10/04/2024
 
@@ -712,10 +712,10 @@ Datos del entrevistado:
 - Edad: 50
 - Distrito: La Molina
 
-Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Eb9Hi7qT4W5Ik-M_OdQcMLUBW7HLy0mp-tkYAZcSYEbM6A?e=daDNCa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EbjLpEbXB19DpCYb3IeGsgIBKh-fjJKv9hqqiDE3P6u70A?e=AuM7GN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio: 00:00
-- Minuto de Fin: 07:40
+- Minuto de Inicio: 11:39
+- Minuto de Fin: 19:20
 
 <img alt = "Entrevista2.1" src="assets/images/Entrevista2.1.png">
 
@@ -724,7 +724,7 @@ Resumen de la entrevista:
 <p>
 Gaby Manrique es una adulta de 50 años, que vive actualmente en La Molina. Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Microsoft Edge. Durante la entrevista con Gaby, llevada a cabo a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos diarios que enfrenta en su práctica médica. La doctora destacó la necesidad de herramientas tecnológicas eficientes para gestionar sus citas y comunicarse con otros profesionales de la salud y laboratorios. Mencionó que prefiere recibir pedidos médicos y resultados de pruebas de manera electrónica, utilizando plataformas seguras y fáciles de usar. En cuanto a la tecnología, el médico utilizó su computadora de escritorio con el navegador Chrome durante la videoconferencia. Además, expresó preocupación por la seguridad y privacidad de los datos médicos, destacando la importancia de medidas sólidas de protección de la información en línea.</p>
 
-Entrevista 2:
+### Entrevista 2:
 
 Fecha entrevistada: 09/04/2024
 
@@ -736,10 +736,10 @@ Datos del entrevistado:
 - Edad: 30
 - Distrito: Trujillo
 
-Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Eb9Hi7qT4W5Ik-M_OdQcMLUBW7HLy0mp-tkYAZcSYEbM6A?e=daDNCa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EbjLpEbXB19DpCYb3IeGsgIBKh-fjJKv9hqqiDE3P6u70A?e=AuM7GN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio: 11:59
-- Minuto de Fin: 22:24
+- Minuto de Inicio: 23:38
+- Minuto de Fin: 34:03
 
 <img alt = "Entrevista2.2" src="assets/images/Entrevista_traumatologia.png">
 
@@ -751,9 +751,9 @@ Gerardo Vilaroel es un adulto de 30 años, que vive actualmente en Trujillo. Sus
 
 <p></p>
 
-<u>Segmento objetivo - Laboratorio</u>
+### Segmento objetivo - Laboratorio
 
-Entrevista 1:
+### Entrevista 1:
 
 Fecha entrevistada: 10/04/2024
 
@@ -766,10 +766,10 @@ Datos del entrevistado:
 - Edad: 60
 - Distrito: La Molina
 
-Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Eb9Hi7qT4W5Ik-M_OdQcMLUBW7HLy0mp-tkYAZcSYEbM6A?e=daDNCa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EbjLpEbXB19DpCYb3IeGsgIBKh-fjJKv9hqqiDE3P6u70A?e=AuM7GN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio: 07:40
-- Minuto de Fin: 11:59
+- Minuto de Inicio: 19:21
+- Minuto de Fin: 23:37
 
 <img alt = "Entrevista3.1" src="assets/images/Entrevista3.1.png">
 
@@ -777,7 +777,7 @@ Resumen de la entrevista:
 
 <p>Luis Protocarrero es un adulto de 60 años, que vive actualmente en La Molina.Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. .Durante la entrevista Luis, realizada a través de una videoconferencia en la plataforma Zoom, exploramos los desafíos que enfrenta su laboratorio en la recepción y gestión de información de pacientes.Mencionó que utilizan una variedad de herramientas digitales para recibir y procesar pedidos médicos, incluyendo un sistema de gestión de laboratorio basado en la web. Destacó la importancia de la precisión y la integridad de los resultados de las pruebas, y expresó interés en mejorar la coordinación con médicos remitentes a través de plataformas de comunicación seguras. Durante la entrevista, Luis utilizó una laptop Lenovo con el navegador Chrome para acceder a la videoconferencia.</p>
 
-Entrevista 2:
+### Entrevista 2:
 
 Fecha entrevistada: 13/04/2024
 
@@ -789,10 +789,10 @@ Datos del entrevistado:
 - Edad: 51
 - Distrito: Trujillo
 
-Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u202210364_upc_edu_pe/Eb9Hi7qT4W5Ik-M_OdQcMLUBW7HLy0mp-tkYAZcSYEbM6A?e=daDNCa&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
+Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EbjLpEbXB19DpCYb3IeGsgIBKh-fjJKv9hqqiDE3P6u70A?e=AuM7GN&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D">Link</a>
 
-- Minuto de Inicio:
-- Minuto de Fin:
+- Minuto de Inicio: 34:04
+- Minuto de Fin: 43:11
 
 <img alt = "Entrevista3.2" src="assets/images/entrevista_lab2.png">
 
