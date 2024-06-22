@@ -2941,10 +2941,11 @@ El alcance de esta evaluación incluye la revisión de la usabilidad de las sigu
 
 
 ## 5.4 Video About the Product
-Link del video en youtube: https://youtu.be/Qp7P37eMdgY 
-Link del video en Microsoft Stream: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202112353_upc_edu_pe/EUp9HZi_3P9FhX2vh3B1AkUBAu3sqtdvcnAZw89YQInELQ?e=WWLLpq 
+Link del video en youtube: [AboutTheProduct-Youtube](https://youtu.be/zZAFlLneAzM)
 
-<img src="assets/images/aboutheteam.png">
+Link del video en Microsoft Stream: [AboutTheProduct-MicrosoftStream](https://upcedupe-my.sharepoint.com/:v:/g/personal/u201611430_upc_edu_pe/EUlZBkvCFzRKvyB17ZCbTW4BoTAXh4P2xiYLVJZW82ck9Q?e=UbuV5b&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0%3D)
+
+<img src="assets/images/abouttheproduct.png" alt="about-the-product">
 ---
 <br>
 
@@ -2959,20 +2960,24 @@ Se ha subrayado la necesidad de mantener una innovación constante y adaptarse a
 Con una base establecida sólidamente, existe un gran potencial para la escalabilidad y expansión del proyecto hacia nuevos mercados y sectores relacionados con la industria automotriz en el futuro.</p>
 
 ## Video About the Team 
+Link del video en youtube: [AboutTheTeam-Youtube](https://youtu.be/W7cz7mqrHqM)
+
+Link del video en Microsoft Stream: [AboutTheTeam-MicrosoftStream]()
+
 
 # Anexos
 
-Link del frontnd:
+Link del frontend:
 <br>
-https://medsystem-app.web.app/login
+[FrontEnd](https://medsystem-app.web.app/login)
 <br>
 <br>
 Link del backend: 
 <br>
-https://medsystem-service.azurewebsites.net/swagger-ui/index.html#/
+[BackEnd](https://medsystem-service.azurewebsites.net/swagger-ui/index.html#/)
 <br>
 <br>
-Link del video de exposicion: 
+Link del video de exposición: 
 <br>
-https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlos%2Dluminosos%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eab4dcb49%2D501e%2D4bbd%2D8925%2D7df143c933bc 
+[Exposición](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlos%2Dluminosos%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eab4dcb49%2D501e%2D4bbd%2D8925%2D7df143c933bc) 
 # Bibliografía
