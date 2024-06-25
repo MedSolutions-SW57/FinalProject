@@ -116,6 +116,27 @@ Profesor: Velazquez Nuñez, Angel Augusto
         </ul>
       </td>
   </tr>
+  <tr>
+      <td><strong>0.4</strong></td>
+      <td>Miercoles 26 de Junio</td>
+      <td>
+        <ul>
+          <li>Flores Manrique, Sebastian Enrique</li>
+          <li>Altamirano Saenz, Jorge Armando</li>
+          <li>Guimaraes Escalante, Carlos Eduardo</li>
+          <li>Gutierrez Zumaeta, Manuel Alonso</li>
+          <li>Montes Figueroa, Juan Eduardo	</li>
+        </ul>
+      </td>
+      <td>
+        Se han incluído los siguientes capítulos:
+        <ul>
+          <li>Backend y Frontend</li>
+          <li>Avance del Capítulo V: Sprint 4</li>
+	  <li>Deployment del frontend y backend</li>
+        </ul>
+      </td>
+  </tr>
   </tbody>
 </table>
 
