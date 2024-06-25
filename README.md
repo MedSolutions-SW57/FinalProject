@@ -40,7 +40,6 @@ Profesor: Velazquez Nuñez, Angel Augusto
 
 # Registro de Versiones del informe
 
-</div>
 
 <table>
   <thead>
@@ -137,15 +136,21 @@ A lo largo del proyecto, el equipo ha estado comprometido en la creación del in
 (Imagenes de los commits cada entrega)
 
 - TB1
+
   <img src="assets/images/commits1.png" width="50%" alt="Commits">
 - TP
+
   <img src="assets/images/commits2.png" width="50%" alt="Commits">
 - TB2
+
   <img src="assets/images/commits3.png" width="50%" alt="Commits">
 - TF
+
   - Frontend
+  
     <img src="assets/images/insightsF.png" width="50%" alt="Commits">
   - Backend
+  
     <img src="assets/images/insightsB.png" width="50%" alt="Commits">
 
 ---
@@ -156,7 +161,7 @@ A lo largo del proyecto, el equipo ha estado comprometido en la creación del in
 
 - [Capítulo I: Introducción](#capítulo-i-introducción)
 
-- [1.1 Startup Profile](#11-startup-profile)
+- [1.1. Startup Profile](#11-startup-profile)
   - [1.1.1. Descripción de la Startup](#111-descripción-de-la-startup)
   - [1.1.2. Perfiles de integrantes del equipo](#112-perfiles-de-integrantes-del-equipo)
 - [1.2. Solution Profile](#12-solution-profile)
@@ -168,9 +173,9 @@ A lo largo del proyecto, el equipo ha estado comprometido en la creación del in
     - [1.2.2.3. Lean UX Hypothesis Statements.](#1223-lean-ux-hypothesis-statements)
     - [1.2.2.4. Lean UX Canvas.](#1224-lean-ux-canvas)
 
-- [1.3. Segmentos objetivo.](#13-segmentos-objetivo)
+- [1.3. Segmentos objetivo](#13-segmentos-objetivo)
 
-- [Capítulo II: Requirements Elicitation & Analysi](#capítulo-ii-requirements-elicitation--analysis)
+- [Capítulo II: Requirements Elicitation & Analysis](#capítulo-ii-requirements-elicitation--analysis)
 
 - [2.1. Competidores](#21-competidores)
 
@@ -192,7 +197,7 @@ A lo largo del proyecto, el equipo ha estado comprometido en la creación del in
 
 - [2.4. Ubiquitous Language](#24-ubiquitous-language)
 
-- [Capítulo III: Requirements Specificatio](#capítulo-iii-requirements-specification)
+- [Capítulo III: Requirements Specification](#capítulo-iii-requirements-specification)
 
 - [3.1. To-Be Scenario Mapping](#31-to-be-scenario-mapping)
 
@@ -246,7 +251,7 @@ A lo largo del proyecto, el equipo ha estado comprometido en la creación del in
 
   - [4.8.1. Database Diagram](#481-database-diagram)
 
-- [Capítulo V: Product Implementation, Validation & Deploymen](#capítulo-v-product-implementation-validation--deployment)
+- [Capítulo V: Product Implementation, Validation & Deployment](#capítulo-v-product-implementation-validation--deployment)
 
 - [5.1. Software Configuration Management](#51-software-configuration-management)
 
@@ -257,15 +262,42 @@ A lo largo del proyecto, el equipo ha estado comprometido en la creación del in
 
 - [5.2. Landing Page, Services & Applications Implementation](#52-landing-page-services--applications-implementation)
 
-  - [5.2.X. Sprint ](#52x-sprint-n)
-    - [5.2.X.1. Sprint Planning n](#52x1-sprint-planning-n)
-    - [5.2.X.2. Sprint Backlog n](#52x2-sprint-backlog-n)
-    - [5.2.X.3. Development Evidence for Sprint Review](#52x3-development-evidence-for-sprint-review)
-    - [5.2.X.4. Testing Suite Evidence for Sprint Review](#52x4-testing-suite-evidence-for-sprint-review)
-    - [5.2.X.5. Execution Evidence for Sprint Review](#52x5-execution-evidence-for-sprint-review)
-    - [5.2.X.6. Services Documentation Evidence for Sprint Review](#52x6-services-documentation-evidence-for-sprint-review)
-    - [5.2.X.7. Software Deployment Evidence for Sprint Review](#52x7-software-deployment-evidence-for-sprint-review)
-    - [5.2.X.8. Team Collaboration Insights during Sprint](#52x8-team-collaboration-insights-during-sprint)
+  - [5.2.1. Sprint 1](#521-sprint-1)
+    - [5.2.1.1. Sprint Planning 1](#5211-sprint-planning-1)
+    - [5.2.1.2. Sprint Backlog 1](#5212-sprint-backlog-1)
+    - [5.2.1.3. Development Evidence for Sprint Review](#5213-development-evidence-for-sprint-review)
+    - [5.2.1.4. Testing Suite Evidence for Sprint Review](#5214-testing-suite-evidence-for-sprint-review)
+    - [5.2.1.5. Execution Evidence for Sprint Review](#5215-execution-evidence-for-sprint-review)
+    - [5.2.1.6. Services Documentation Evidence for Sprint Review](#5216-services-documentation-evidence-for-sprint-review)
+    - [5.2.1.7. Software Deployment Evidence for Sprint Review](#5217-software-deployment-evidence-for-sprint-review)
+    - [5.2.1.8. Team Collaboration Insights during Sprint](#5218-team-collaboration-insights-during-sprint)
+  - [5.2.2. Sprint 2](#522-sprint-2)
+    - [5.2.2.1. Sprint Planning 2](#5221-sprint-planning-2)
+    - [5.2.2.2. Sprint Backlog 2](#5222-sprint-backlog-2)
+    - [5.2.2.3. Development Evidence for Sprint Review](#5223-development-evidence-for-sprint-review)
+    - [5.2.2.4. Testing Suite Evidence for Sprint Review](#5224-testing-suite-evidence-for-sprint-review)
+    - [5.2.2.5. Execution Evidence for Sprint Review](#5225-execution-evidence-for-sprint-review)
+    - [5.2.2.6. Services Documentation Evidence for Sprint Review](#5226-services-documentation-evidence-for-sprint-review)
+    - [5.2.2.7. Software Deployment Evidence for Sprint Review](#5227-software-deployment-evidence-for-sprint-review)
+    - [5.2.2.8. Team Collaboration Insights during Sprint](#5228-team-collaboration-insights-during-sprint)
+  - [5.2.3. Sprint 3](#523-sprint-3)
+    - [5.2.3.1. Sprint Planning 3](#5231-sprint-planning-3)
+    - [5.2.3.2. Sprint Backlog 3](#5232-sprint-backlog-3)
+    - [5.2.3.3. Development Evidence for Sprint Review](#5233-development-evidence-for-sprint-review)
+    - [5.2.3.4. Testing Suite Evidence for Sprint Review](#5234-testing-suite-evidence-for-sprint-review)
+    - [5.2.3.5. Execution Evidence for Sprint Review](#5235-execution-evidence-for-sprint-review)
+    - [5.2.3.6. Services Documentation Evidence for Sprint Review](#5236-services-documentation-evidence-for-sprint-review)
+    - [5.2.3.7. Software Deployment Evidence for Sprint Review](#5237-software-deployment-evidence-for-sprint-review)
+    - [5.2.3.8. Team Collaboration Insights during Sprint](#5238-team-collaboration-insights-during-sprint)
+  - [5.2.4. Sprint 4](#524-sprint-4)
+    - [5.2.4.1. Sprint Planning 4](#5241-sprint-planning-4)
+    - [5.2.4.2. Sprint Backlog 4](#5242-sprint-backlog-4)
+    - [5.2.4.3. Development Evidence for Sprint Review](#5243-development-evidence-for-sprint-review)
+    - [5.2.4.4. Testing Suite Evidence for Sprint Review](#5244-testing-suite-evidence-for-sprint-review)
+    - [5.2.4.5. Execution Evidence for Sprint Review](#5245-execution-evidence-for-sprint-review)
+    - [5.2.4.6. Services Documentation Evidence for Sprint Review](#5246-services-documentation-evidence-for-sprint-review)
+    - [5.2.4.7. Software Deployment Evidence for Sprint Review](#5247-software-deployment-evidence-for-sprint-review)
+    - [5.2.4.8. Team Collaboration Insights during Sprint](#5248-team-collaboration-insights-during-sprint)
 
 - [5.3. Validation Interviews](#53-validation-interviews)
 
@@ -304,11 +336,11 @@ del ABET – EAC - Student Outcome 3
 
 ---
 
-# Capitulo 1
+# Capítulo I: Introducción
 
-## 1.1 StartUp Profile
+## 1.1. Startup Profile
 
-### 1.1.1 Descripcion de la startup
+### 1.1.1. Descripción de la Startup
 
 Los luminosos es una startup creada por estudiantes de la Facultad de Ingeniería de la carrera de Ingeniería de Software. Esta empresa tiene el propósito de desarrollar una solución web con el uso de tecnologías modernas para la ayuda de los procesos que se tienen presente en una consultoría de traumatología. Con la aplicación web MedSystem se logrará satisfacer estas necesidad por parte de los especialistas de traumatología y los clientes.
 
@@ -318,14 +350,14 @@ Los luminosos es una startup creada por estudiantes de la Facultad de Ingenierí
 
 ---
 
-### 1.1.1 Perfiles de integrantes del equipo
+### 1.1.2. Perfiles de integrantes del equipo
 
 |                                                                                          | Miembros del equipo                 | Código de estudiante | Carrera                | Conocimientos/Habilidades                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------------------------------------------------------------------------------------- | ----------------------------------- | -------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --- |
+| ---------------------------------------------------------------------------------------- | ----------------------------------- | -------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | <img src="assets/members-profile/manuel.jpg" width="50%" alt="Imagen del compañero">     | Gutierrez Zumaeta Manuel Alonso     | u202112353           | Ingeniería de Software | Soy un estudiante de la carrera de ingeniería de software de la UPC, tengo 20 años. Tengo experiencia usando lenguajes de programación como C++, Python y JS. Además puedo ayudar al equipo en todas las tareas que se realicen para lograr un resultado óptimo.                                                                                                                                                                                                                                                                                                                                    |
 | <img src="assets/members-profile/Carlos.png" width="50%" alt="Imagen del compañero">     | Guimaraes Escalante, Carlos Eduardo | u202210364           | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software, estoy cursando el tercer ciclo de mi carrera y tengo 17 años. Soy una persona responsable y puntual, por lo que me gusta terminar y presentar los trabajos en los tiempos establecidos. Siempre me ha gustado la innovación y la creación de nuevas ideas. Estoy capacitado en algunos temas de edición de videos, y me considero bueno en programación. Voy a aportar al grupo de manera proactiva e intentaré aportar ideas que ayuden a mejorar el trabajo, siempre intentando mantener un ambiente positivo dentro del área de trabajo. |
-| <img src="assets/members-profile/altamirano.jpg" width="50%" alt="Imagen del compañero"> | Altamirano Saenz, Jorge Armando     | u202215888           | Ingeniería de Software | Me llamo Jorge Altamirano, tengo 19 años. Tengo conocimientos en programación en los lenguajes de C++, Python, Java y C# básico. Me considero una persona responsable e investigadora y creo que puedo aportar con ideas propias al equipo.                                                                                                                                                                                                                                                                                                                                                         |     |
-| <img src="assets/members-profile/Juan.JPG" width="50%" alt="Imagen del compañero">       | Montes Figueroa, Juan Eduardo       | u202210775           | Ingeniería de Software | Mi nombre es Juan Montes, tengo 19 años, tengo conocimientos en C++, asimismo poseo conocimientos básicos en Java y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles.                                                                                                                                                                                                                                                                    |     |
+| <img src="assets/members-profile/altamirano.jpg" width="50%" alt="Imagen del compañero"> | Altamirano Saenz, Jorge Armando     | u202215888           | Ingeniería de Software | Me llamo Jorge Altamirano, tengo 19 años. Tengo conocimientos en programación en los lenguajes de C++, Python, Java y C# básico. Me considero una persona responsable e investigadora y creo que puedo aportar con ideas propias al equipo.                                                                                                                                                                                                                                                                                                                                                         |     
+| <img src="assets/members-profile/Juan.JPG" width="50%" alt="Imagen del compañero">       | Montes Figueroa, Juan Eduardo       | u202210775           | Ingeniería de Software | Mi nombre es Juan Montes, tengo 19 años, tengo conocimientos en C++, asimismo poseo conocimientos básicos en Java y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles.                                                                                                                                                                                                                                                                    |     
 | <img src="assets/members-profile/sebastian.jpeg" width="50%" alt="Imagen del compañero"> | Flores Manrique, Sebastian Enrique  | u201611430           | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.                                                                                                                                                                                                                                                                                             |
 
 ## 1.2 Solution Profile
@@ -450,7 +482,7 @@ Nuestro enfoque inicial será dirigirnos tanto a doctores especialistas en traum
 
 <img src="assets/solution-profile/LeanUXCanvas.jpg" alt="Lean Ux Canvas">
 
-### 1.3. Segmento Ojetivo
+### 1.3. Segmentos objetivo
 
 Nuestros segmentos objetivos en este se dividen en tres grupos fundamentales. Como primer segmento contamos con los pacientes que son los que han sufrido algún tipo de accidente y requieren una atención en el área de traumatología. En segundo lugar serían los médicos especialistas en el área de traumatología que requerirán de nuestro sistema para la gestión de sus citas y establecer una buena comunicación entre sus demás colegas de profesión, o laboratorios para una correcta coordinación de algún proceso que se lleve a cabo con el paciente. Por último están las consultorías o laboratorios quienes recibirán la información del paciente, brindada por los doctores, incluyendo procedimientos que requiera el paciente ya sea un tratamiento o algún tipo de examen.
 
@@ -458,7 +490,7 @@ Nuestros segmentos objetivos en este se dividen en tres grupos fundamentales. Co
 
 <br>
 
-# Capitulo 2
+# Capítulo II: Requirements Elicitation & Analysis
 
 ## 2.1 Competidores
 
@@ -788,9 +820,8 @@ Resumen de la entrevista:
 <p>
 Gerardo Vilaroel es un adulto de 30 años, que vive actualmente en Trujillo. Sus sistemas operativos de preferencia son Android en móviles y Windows en ordenadores. El navegador que usa con mayor frecuencia es Google Chrome. Durante la entrevista, el Dr. Gerardo Villaroel nos explica los procesos que suele haber en el área de traumatología y como es que en el centro donde trabaja ya cuenta con un sistema tecnológico que les da mayor facilidad para comunicarse con sus pacientes. En este caso nos dice que los pacientes ingresan con sus credenciales a este portal médico, y de esa forma pueden visualizar el contenido multimedia que es de ellos, como radiografías por ejemplo. El Dr. Villaroel reafirma la importancia de la tecnología en su práctica médica, y como facilita su forma de trabajo. En su caso el demuestra ser una persona experta, amable y fiable. El prefiere marcas como GE HealthCare, Bowa Medical o Stryker y suele usar WhatsApp, Facebook, Instagram y Tik Tok como canal de interacción. Por último, el usa Opera GX como browser de preferencia y prefiere utilziar dispositivos IOS.
 </p>
-</p>
 
-<p></p>
+
 
 ### Segmento objetivo - Laboratorio
 
@@ -846,7 +877,7 @@ Gianna Escalante Gutierrez es una adulta de 51 años, que vive actualmente en Tr
 
 <p></p>
 
-### 2.2.3 Analisis de entrevistas
+### 2.2.3. Análisis de entrevistas
 
 Analizando las entrevistas de Gonzalo y Abril, es posible identificar varias necesidades y preferencias comunes que podrían guiar la mejora y el desarrollo de un sistema de gestión de citas médicas.
 
@@ -1058,7 +1089,8 @@ En esta sección se realizaron las distintas etapas de preparación, tales como 
 ---
 
 <br>
-# Capitulo 3
+
+# Capítulo III: Requirements Specification
 
 ## 3.1 To-Be Scenario Mapping
 
@@ -1075,8 +1107,8 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 
 ## 3.2 User Stories
 
-| Epic / Story ID |                                    Título                                    |                                                                                                                                                                    Descripción                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                      Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                       | Relacionado con (Epic ID) |
-| :-------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | -------------------------------------------- |
+| Epic / Story ID |                                    Título                                    |                                                                                                                                                                    Descripción                                                                                                                                                                    |                                                                                                                                                                                                                                                                                                                                                                                                      Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                       | Relacionado con (Epic ID) |
+| :-------------: | :--------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------: | 
 |       E01       |                     Gestión de Inventario de Laboratorio                     |                                            Como técnico de laboratorio, deseo una plataforma tecnológica que me permita gestionar eficientemente el inventario de suministros y equipos, para garantizar la disponibilidad de materiales necesarios y optimizar el flujo de trabajo en el laboratorio.                                            |                                                                                                                                                                                                                                                                                                                                                                                                                 -                                                                                                                                                                                                                                                                                                                                                                                                                  |             -             |
 |       E02       |                           Gestión de citas médicas                           |                                                               Como paciente, deseo tener acceso a una plataforma tecnológica que facilite la gestión de mis citas médicas, para poder organizar mi agenda de manera eficiente y recibir una atención médica oportuna y de calidad.                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                 -                                                                                                                                                                                                                                                                                                                                                                                                                  |             -             |
 |       E03       |             Plataforma tecnológica para tratamientos ortopédicos             |                                                            Como médico traumatológico, quiero tener una plataforma tecnológica que me permita gestionar eficientemente los tratamientos de mis pacientes, para poder proporcionar una atención médica de alta calidad y personalizada.                                                            |                                                                                                                                                                                                                                                                                                                                                                                                                 -                                                                                                                                                                                                                                                                                                                                                                                                                  |             -             |
@@ -1098,7 +1130,7 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 |      US13       |                             Confirmación de Cita                             |                                                                                 Como paciente, quiero recibir una confirmación instantánea de mi cita médica después de programarla en MedSystem, para tener la certeza de que ha sido registrada correctamente.                                                                                  |                                                    <p>**Escenario 1: Confirmación Instantánea**</p><p>- Dado que el usuario ha programado una cita médica en MedSystem,</p><p>- Cuando completa el proceso de programación de la cita y selecciona la opción de confirmar,</p><p>- Entonces recibe una confirmación instantánea en pantalla junto con un número de referencia de la cita.</p><p>**Escenario 2: Confirmación por Correo Electrónico**</p><p>- Dado que el usuario ha programado una cita médica en MedSystem,</p><p>- Cuando pasa por el proceso de programación de la cita y confirma su asistencia,</p><p>- Entonces recibe un correo electrónico de confirmación con los detalles de la cita, lo que le brinda tranquilidad y seguridad sobre su reserva.</p>                                                    |            E02            |
 |      US14       |                Acceso Eficiente al Historial Médico Completo                 |                  Como médico traumatológico, quiero poder acceder rápidamente al historial médico completo de mis pacientes, incluyendo su historial de tratamientos pasados y resultados de análisis, para poder evaluar su progreso de manera eficiente y tomar decisiones informadas sobre los próximos pasos del tratamiento                  |                                                                 <p>**Escenario 1:**</p><p>- Dado que estoy en la página principal de MedSystem,</p><p>- Cuando hago clic en el nombre de un paciente en la lista de pacientes,</p><p>- Entonces se carga la página del historial médico del paciente en menos de 3 segundos, mostrando toda la información relevante de manera clara y organizada.</p><p>**Escenario 2:**</p><p>- Dado que estoy revisando el historial médico de un paciente,</p><p>- Cuando hago clic en la sección "Tratamientos Pasados" del historial médico,</p><p>- Entonces se muestran todos los tratamientos anteriores del paciente, con detalles como la fecha de inicio, la fecha de finalización, la dosis y las notas médicas.</p>                                                                  |            E03            |
 |      US15       |                    Notificaciones de Citas de Seguimiento                    |                                               Como médico traumatológico, quiero recibir notificaciones automáticas sobre citas de seguimiento programadas con mis pacientes, para poder planificar mi agenda con anticipación y garantizar que ningún paciente se quede sin seguimiento adecuado.                                                |                                                                                                                                           <p>**Escenario 1:**</p><p>- Dado que tengo una cita de seguimiento programada para un paciente,</p><p>- Cuando falta menos de 24 horas para la cita,</p><p>- Entonces recibo automáticamente una notificación por correo electrónico con los detalles de la cita.</p><p>**Escenario 2:**</p><p>- Dado que recibo una notificación de una cita de seguimiento,</p><p>- Cuando hago clic en la notificación,</p><p>- Entonces se abre la página de detalles de la cita en MedSystem, donde puedo confirmar, reprogramar o cancelar la cita.</p>                                                                                                                                            |            E03            |
-|      US16       |                    Actualización de Planes de Tratamiento                    |                          Como médico traumatológico, quiero tener la capacidad de ajustar y actualizar los planes de tratamiento de mis pacientes directamente desde la plataforma MedSystem, para poder adaptar los tratamientos a medida que evoluciona la condición del paciente o surgen nuevas necesidades médicas.                          |                                                                                                   <p>**Escenario 1:**</p><p>- Dado que estoy revisando el historial médico de un paciente,</p><p>- Cuando hago clic en la sección "Plan de Tratamiento" del historial médico,</p><p>- Entonces se muestra una lista de todos los tratamientos actuales del paciente, con opciones para agregar, editar o eliminar tratamientos.</p><p>**Escenario 2:**</p><p>- Dado que he realizado cambios en el plan de tratamiento de un paciente,</p><p>- Cuando guardo los cambios,</p><p>- Entonces se actualiza automáticamente el historial médico del paciente y se registra una entrada de auditoría para los cambios realizados.</p>                                                                                                   |            E03            | Alertas de Cambios en Resultados de Análisis |
+|      US16       |                    Actualización de Planes de Tratamiento                    |                          Como médico traumatológico, quiero tener la capacidad de ajustar y actualizar los planes de tratamiento de mis pacientes directamente desde la plataforma MedSystem, para poder adaptar los tratamientos a medida que evoluciona la condición del paciente o surgen nuevas necesidades médicas.                          |                                                                                                   <p>**Escenario 1:**</p><p>- Dado que estoy revisando el historial médico de un paciente,</p><p>- Cuando hago clic en la sección "Plan de Tratamiento" del historial médico,</p><p>- Entonces se muestra una lista de todos los tratamientos actuales del paciente, con opciones para agregar, editar o eliminar tratamientos.</p><p>**Escenario 2:**</p><p>- Dado que he realizado cambios en el plan de tratamiento de un paciente,</p><p>- Cuando guardo los cambios,</p><p>- Entonces se actualiza automáticamente el historial médico del paciente y se registra una entrada de auditoría para los cambios realizados.</p>                                                                                                   |            E03            | 
 |      US17       |                 Alertas de Cambios en Resultados de Análisis                 |                                 Como médico traumatológico, quiero recibir alertas automáticas sobre cambios significativos en los resultados de los análisis médicos de mis pacientes, para poder responder rápidamente a cualquier nueva información relevante y ajustar los tratamientos según sea necesario.                                  |                                                                                                                            <p>**Escenario 1:**</p><p>- Dado que recibo nuevos resultados de análisis para un paciente,</p><p>- Cuando se detecta un cambio significativo en los resultados,</p><p>- Entonces recibo automáticamente una alerta por correo electrónico y se muestra una notificación en MedSystem.</p><p>**Escenario 2:**</p><p>- Dado que recibo una alerta sobre un cambio en los resultados de análisis,</p><p>- Cuando hago clic en la alerta,</p><p>- Entonces se muestra una descripción detallada del cambio y se proporciona orientación sobre la acción recomendada por mí.</p>                                                                                                                            |            E03            |
 |      US18       |                    Comunicación Segura con los Pacientes                     |                                    Como médico traumatológico, quiero poder comunicarme de manera segura con mis pacientes a través de la plataforma MedSystem, para poder proporcionar orientación, responder preguntas y mantener una línea abierta de comunicación durante todo el proceso de tratamiento.                                     |                                                                                                                                                        <p>**Escenario 1:**</p><p>- Dado que estoy en la página de detalles de un paciente en MedSystem,</p><p>- Cuando hago clic en el botón de "Enviar Mensaje",</p><p>- Entonces se abre una ventana de mensajería segura donde puedo redactar y enviar un mensaje al paciente.</p><p>**Escenario 2:**</p><p>- Dado que recibo un mensaje de un paciente,</p><p>- Cuando accedo a la bandeja de entrada de mensajes en MedSystem,</p><p>- Entonces se muestra el mensaje recibido de manera segura y puedo responder.</p>                                                                                                                                                        |            E03            |
 |      US19       |              Análisis y Evaluación de Eficacia del Tratamiento               |                         Como médico traumatológico, quiero tener acceso a informes y análisis de datos sobre el progreso y la efectividad de los tratamientos de mis pacientes a lo largo del tiempo, para poder evaluar la eficacia de diferentes enfoques de tratamiento y mejorar continuamente mis prácticas médicas.                         |   <p>**Escenario 1:**</p><p>- Dado que quiero generar un informe sobre la eficacia del tratamiento para un grupo de pacientes,</p><p>- Cuando selecciono los parámetros de filtro deseados, como el rango de fechas y las condiciones de tratamiento,</p><p>- Entonces se genera automáticamente un informe detallado que muestra métricas clave de eficacia del tratamiento para el grupo seleccionado de pacientes.</p><p>**Escenario 2:**</p><p>- Dado que estoy revisando un informe sobre la eficacia del tratamiento,</p><p>- Cuando hago clic en una métrica específica, como la tasa de éxito del tratamiento,</p><p>- Entonces se muestra un desglose detallado de los pacientes incluidos en la métrica seleccionada, así como información adicional sobre los tratamientos utilizados y los resultados obtenidos.</p>   |            E03            |
@@ -1420,7 +1452,7 @@ Link del Pivotal Tracker: https://www.pivotaltracker.com/projects/2701194
 
 <br>
 
-# Capítulo 4
+# Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines
 
@@ -2072,9 +2104,9 @@ Class Treatment
 
 <br>
 
-# Capitulo 5
+# Capítulo V: Product Implementation, Validation & Deployment
 
-## 5.1 Software Cpmfiguration Managment
+## 5.1. Software Configuration Management
 
 ### 5.1.1 Software Development Environment Configuration
 
@@ -2226,7 +2258,7 @@ Despues tambien esta GitHub Pages que es una función de GitHub que permite aloj
   </tr>
 </table>
 
-### 5.2.1.3 Deployment Evidence for Sprint Review
+### 5.2.1.3. Development Evidence for Sprint Review
 
 Evidencias de los commits de los miembros del equipo:
 
@@ -2545,7 +2577,7 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 	</tbody>
 </table>
 
-### 5.2.2.3 Development Evidence for Sprint Review
+### 5.2.2.3. Development Evidence for Sprint Review
 
 | Repository                          | Branch                         | Commit Id                                | Commit Message                                                                                                                | Commit Message Body | Commited on (Date) |
 | ----------------------------------- | ------------------------------ | ---------------------------------------- | ----------------------------------------------------------------------------------------------------------------------------- | ------------------- | ------------------ |
@@ -2571,6 +2603,8 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 | LosLuminosos-SW57medSystem-FrontEnd | feat/request-history           | 0c8693c59fb2ce486ef55cadde8371e5ea2d9a17 | feat: added patients request history                                                                                          |                     | 01/05/24           |
 | LosLuminosos-SW57medSystem-FrontEnd | feat/request-results           | a4bd117a8975948d5034c43ca124a0fd5f6557f7 | feat: add patient exam results page                                                                                           |                     | 01/05/24           |
 | LosLuminosos-SW57medSystem-FrontEnd | feat/login                     | 2ae56bd54b28859ce06a228c89af7872b7958716 | feat: added login and register and routes                                                                                     |                     | 01/05/24           |
+
+### 5.2.2.4. Testing Suite Evidence for Sprint Review
 
 ### 5.2.2.5 Execution Evidence for Sprint Review
 
