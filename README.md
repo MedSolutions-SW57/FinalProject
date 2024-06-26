@@ -1863,7 +1863,7 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 ### 4.7.1. Class Diagram
 Para desarrollar el diagrama de clases para nuestro proyecto, se usó la herramienta de Lucidchart.
 
-<img alt= "class-diagram" src="assets/images/OPENSOURCE.PNG">
+<img alt= "class-diagram" src="assets/images/class-diagram.png">
 
 ### 4.7.2. Class Dictionary
 
