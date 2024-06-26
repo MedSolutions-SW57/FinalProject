@@ -1861,6 +1861,7 @@ Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?typ
 ## 4.7. Software Object-Oriented Design
 
 ### 4.7.1. Class Diagram
+Para desarrollar el diagrama de clases para nuestro proyecto, se usó la herramienta de Lucidchart.
 
 <img alt= "class-diagram" src="assets/images/OPENSOURCE.PNG">
 
@@ -2180,6 +2181,7 @@ Class Treatment
 ## 4.8. Database Design
 
 ### 4.8.1. Database Diagram
+Para desarrollar la estructura de diagrama de base de datos usamos la herramienta de Vertabelo. A continuación, muestra las tabla de diseño de base de datos.
 
 <img src="assets/images/database_model.png" alt="database image" width="100%">
 
