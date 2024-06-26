@@ -2905,7 +2905,56 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 | Sum of Story Points                | 19                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ### 5.2.4.2 Sprint Backlog 4
-|User Story ID|User Story Title|Task ID|Task Title|Description|Estimation(hours)|Assigned to|Status|
+<table>
+	<tbody>
+		<tr>
+			<td>User Story ID</td>
+			<td>User Story Title</td>
+			<td>Task ID</td>
+			<td>Task Title</td>
+			<td>Description</td>
+			<td>Estimation(hours)</td>
+			<td>Assigned to</td>
+			<td>Status</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US</td>
+			<td rowspan="2"></td>
+			<td>T01</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Sebastian Enrique Flores Manrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+            		<td>T02</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Juan Montes Figueroa</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US</td>
+			<td rowspan="2"></td>
+			<td>T03</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Jorge Altamirano Saenz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T04</td>
+			<td></td>
+			<td></td>
+			<td></td>
+			<td>Carlos Guimaraes Escalante</td>
+			<td>Done</td>
+		</tr>
+	</tbody>
+</table>
 
 ### 5.2.4.3 Development Evidence for Sprint Review
 
