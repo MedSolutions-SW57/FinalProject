@@ -1204,12 +1204,12 @@ En esta sección se presenta el mapeo de los escenarios, realizando una tabla co
 
 | Epic / Story ID |                    Título                     |                                                                                                                               Descripción                                                                                                                                |                                                                                                                                                                                                                                                                                                                                                                                                                                        Criterios de Aceptación                                                                                                                                                                                                                                                                                                                                                                                                                                          | Relacionado con (Epic ID) |
 |:---------------:|:---------------------------------------------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:|:-------------------------:|
-|      US01       |     Consulta de las citas de los medicos      |                                                                        Como desarrollador quiero obtener las citas programadas para cada doctor para que se puedan mostrar y modificar las notas                                                                         |                                                                      <p>**Escenario 1: Obtener las citas por el id del doctor**</p><p>- Dado que el endpoint "doctor/:id/appointments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del doctor</p><p>- Entonces se recibe una respuesta con el estado 200<p><p>- Y una lista con las informacion de cada appointments de ese doctor estara incluida en el cuerpo de la respuesta</p><p>**Escenario 2: Obtener citas con id de doctor no valido**</p><p>- Dado que el endpoint "doctor/:id/appointments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del doctor</p><p>- Entonces se recibe una respuesta con el estado 404<p><p>- Y se muestra un error en el cuerpo de la respuesta indicando que el doctor no esta registrado</p>                                                                       |            E01            |
-|      US02       |           Gestión de citas médicas            |                                                   Como desarrollador quiero crear y actualizar una cita médica a través de la API, para que puedan gestionar y actualizar las reservas los pacientes en la aplicación.                                                   |                                                         <p>**Escenario1: Crear una cita médica**</p><p>- Dado que el endpoint "/api/v1/appointments" está disponible,</p><p>- Cuando se envía una solicitud POST con valores para patient_id, doctor_id, appointment_date y description,</p><p>- Entonces se recibe una respuesta con el estado 201</p><p>- Y un recurso de cita está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados.</p><p>**Escenario2: Actualizar una cita existente**</p><p>- Dado que el endpoint "/appointments/{appointment_id}" está disponible</p><p>- Cuando se envía una solicitud PUT con valores actualizados para appointment_date y description</p><p>Entonces se recibe una respuesta con el estado 200</p><p>Y el recurso de cita está actualizado con los nuevos valores</p>                                                         |            E01            |                                                                                                                                                                                                                                                                                                              
-|      US03       |   Consulta de tratamientos de los pacientes   |                                                                                              Como desarrollador, quiero obtener los tratamientos asignados a cada paciente.                                                                                              |                                                        <p>**Escenario 1: Obtener los tratamientos por el id del paciente**</p><p>- Dado que el endpoint "patient/:id/treatments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del paciente</p><p>- Entonces se recibe una respuesta con el estado 200<p><p>- Y en el cuerpo de la respuesta se muestra un lista con los tratamientos asignados a ese paciente</p><p>**Escenario 2: Obtener los tratamientos con id de paciente no valido**</p><p>- Dado que el endpoint "patient/:id/treatments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del paciente</p><p>- Entonces se recibe una respuesta con el estado 404<p><p>- Y se muestra un error en el cuerpo de la respuesta indicando que el paciente no esta registrado en la plataforma</p>                                                         |            E01            |
-|      US04       |         Consulta del historial médico         |                                                              Como desarrollador, quiero obtener los historiales médicos a través de la API, para poder mostar o procesar la información de los historiales.                                                              | <p>**Escenario1:Obtener el historial médico de un paciente con id específico**</p>-Dado que el endpoint "/api/v1/medical-history/patient/{patientId}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un patientId válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y una lista de historial médico para ese paciente está incluida en el cuerpo de la respuesta.</p> </p><p>**Escenario2:Obtener el historial médico de un paciente con id específico no existente**</p><p>-Dado que el endpoint "/api/v1/medical-history/patient/{patientId}" está disponible,</p><p>-Cuando se envía una solicitud GET con un patientId,</p><p>-Y no se encuentra ningún paciente con aquel Id<p>-Entonces se recibe una respuesta con el estado 404</p><p>-Luego un mensaje de error está incluido en el cuerpo de la respuesta indicando "Paciente no encontrado".</p></p> |            E01            |
-|      US05       | Asignación de los tratamientos para pacientes |                                                                Como desarrollador, quiero asignar un tratamiento a través de la API, para que pueda registrar los planes de tratamiento en mi aplicación.                                                                |                                                                                                                                                                                                                                            <p>**Escenario 1: Asignar un nuevo tratamiento**</p><p>- Dado que el endpoint "/treatments" está disponible,</p><p>- Cuando se envía una solicitud POST con valores para patient_id, treatment_type, start_date y end_date</p><p>- Entonces se recibe una respuesta con el estado 201</p><p>Y un recurso de tratamiento está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados</p>                                                                                                                                                                                                                                             |            E01            |
-|      US06       |         Consulta de exámenes médicos          |                                                                Como desarrollador, quiero obtener los exámenes médicos a través de la API, para poder mostrar o procesar la información de los exámenes.                                                                 |     <p>**Escenario1:Obtener el exámen médico de un paciente con id específico**</p>-Dado que el endpoint "/api/v1/request-result/patient/{patientId}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un patientId válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y una lista de exámenes médicos para ese paciente está incluida en el cuerpo de la respuesta.</p> </p><p>**Escenario2:Obtener el exámen médico de un paciente con id específico no existente**</p><p>-Dado que el endpoint "/api/v1/request-result/patient/{patientId}" está disponible,</p><p>-Cuando se envía una solicitud GET con un patientId,</p><p>-Y no se encuentra ningún paciente con aquel Id<p>-Entonces se recibe una respuesta con el estado 404</p><p>-Luego un mensaje de error está incluido en el cuerpo de la respuesta indicando "Paciente no encontrado".</p></p>     |            E01            |
+|      US38       |     Consulta de las citas de los medicos      |                                                                        Como desarrollador quiero obtener las citas programadas para cada doctor para que se puedan mostrar y modificar las notas                                                                         |                                                                      <p>**Escenario 1: Obtener las citas por el id del doctor**</p><p>- Dado que el endpoint "doctor/:id/appointments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del doctor</p><p>- Entonces se recibe una respuesta con el estado 200<p><p>- Y una lista con las informacion de cada appointments de ese doctor estara incluida en el cuerpo de la respuesta</p><p>**Escenario 2: Obtener citas con id de doctor no valido**</p><p>- Dado que el endpoint "doctor/:id/appointments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del doctor</p><p>- Entonces se recibe una respuesta con el estado 404<p><p>- Y se muestra un error en el cuerpo de la respuesta indicando que el doctor no esta registrado</p>                                                                       |            E01            |
+|      US39       |           Gestión de citas médicas            |                                                   Como desarrollador quiero crear y actualizar una cita médica a través de la API, para que puedan gestionar y actualizar las reservas los pacientes en la aplicación.                                                   |                                                         <p>**Escenario1: Crear una cita médica**</p><p>- Dado que el endpoint "/api/v1/appointments" está disponible,</p><p>- Cuando se envía una solicitud POST con valores para patient_id, doctor_id, appointment_date y description,</p><p>- Entonces se recibe una respuesta con el estado 201</p><p>- Y un recurso de cita está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados.</p><p>**Escenario2: Actualizar una cita existente**</p><p>- Dado que el endpoint "/appointments/{appointment_id}" está disponible</p><p>- Cuando se envía una solicitud PUT con valores actualizados para appointment_date y description</p><p>Entonces se recibe una respuesta con el estado 200</p><p>Y el recurso de cita está actualizado con los nuevos valores</p>                                                         |            E01            |                                                                                                                                                                                                                                                                                                              
+|      US40       |   Consulta de tratamientos de los pacientes   |                                                                                              Como desarrollador, quiero obtener los tratamientos asignados a cada paciente.                                                                                              |                                                        <p>**Escenario 1: Obtener los tratamientos por el id del paciente**</p><p>- Dado que el endpoint "patient/:id/treatments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del paciente</p><p>- Entonces se recibe una respuesta con el estado 200<p><p>- Y en el cuerpo de la respuesta se muestra un lista con los tratamientos asignados a ese paciente</p><p>**Escenario 2: Obtener los tratamientos con id de paciente no valido**</p><p>- Dado que el endpoint "patient/:id/treatments" esta disponible</p><p>- Cuando se envia una solicitud GET con el id del paciente</p><p>- Entonces se recibe una respuesta con el estado 404<p><p>- Y se muestra un error en el cuerpo de la respuesta indicando que el paciente no esta registrado en la plataforma</p>                                                         |            E01            |
+|      US41       |         Consulta del historial médico         |                                                              Como desarrollador, quiero obtener los historiales médicos a través de la API, para poder mostar o procesar la información de los historiales.                                                              | <p>**Escenario1:Obtener el historial médico de un paciente con id específico**</p>-Dado que el endpoint "/api/v1/medical-history/patient/{patientId}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un patientId válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y una lista de historial médico para ese paciente está incluida en el cuerpo de la respuesta.</p> </p><p>**Escenario2:Obtener el historial médico de un paciente con id específico no existente**</p><p>-Dado que el endpoint "/api/v1/medical-history/patient/{patientId}" está disponible,</p><p>-Cuando se envía una solicitud GET con un patientId,</p><p>-Y no se encuentra ningún paciente con aquel Id<p>-Entonces se recibe una respuesta con el estado 404</p><p>-Luego un mensaje de error está incluido en el cuerpo de la respuesta indicando "Paciente no encontrado".</p></p> |            E01            |
+|      US42       | Asignación de los tratamientos para pacientes |                                                                Como desarrollador, quiero asignar un tratamiento a través de la API, para que pueda registrar los planes de tratamiento en mi aplicación.                                                                |                                                                                                                                                                                                                                            <p>**Escenario 1: Asignar un nuevo tratamiento**</p><p>- Dado que el endpoint "/treatments" está disponible,</p><p>- Cuando se envía una solicitud POST con valores para patient_id, treatment_type, start_date y end_date</p><p>- Entonces se recibe una respuesta con el estado 201</p><p>Y un recurso de tratamiento está incluido en el cuerpo de la respuesta con un nuevo id y los valores registrados</p>                                                                                                                                                                                                                                             |            E01            |
+|      US43       |         Consulta de exámenes médicos          |                                                                Como desarrollador, quiero obtener los exámenes médicos a través de la API, para poder mostrar o procesar la información de los exámenes.                                                                 |     <p>**Escenario1:Obtener el exámen médico de un paciente con id específico**</p>-Dado que el endpoint "/api/v1/request-result/patient/{patientId}" está disponible,<p> </p>-Cuando se envía una solicitud GET con un patientId válido,<p> </p>-Entonces se recibe una respuesta con el estado 200,<p><p>-Y una lista de exámenes médicos para ese paciente está incluida en el cuerpo de la respuesta.</p> </p><p>**Escenario2:Obtener el exámen médico de un paciente con id específico no existente**</p><p>-Dado que el endpoint "/api/v1/request-result/patient/{patientId}" está disponible,</p><p>-Cuando se envía una solicitud GET con un patientId,</p><p>-Y no se encuentra ningún paciente con aquel Id<p>-Entonces se recibe una respuesta con el estado 404</p><p>-Luego un mensaje de error está incluido en el cuerpo de la respuesta indicando "Paciente no encontrado".</p></p>     |            E01            |
 
 ## 3.3 Impact Mapping
 
@@ -2471,15 +2471,15 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 <p>Se planeó el segundo sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
 
 | **Sprint #**                       | Sprint 2                                                                                                                                                                                                                                                                                                                                                                                                      |
-| :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+|:-----------------------------------| :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Date                               | 2024-05-02                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Time                               | 11:30 AM                                                                                                                                                                                                                                                                                                                                                                                                      |
 | Location                           | Virtual                                                                                                                                                                                                                                                                                                                                                                                                       |
 | Prepared by                        | Gutierrez Zumaeta, Manuel Alonso                                                                                                                                                                                                                                                                                                                                                                              |
 | Attendees (to planning meeting)    | <p>Guimaraes Escalante, Carlos Eduardo</p><p>Altamirano Saenz, Jorge Armando</p><p>Montes Figueroa, Juan Eduardo</p><p>Flores Manrique, Sebastian Enrique</p><p>Gutierrez Zumaeta, Manuel Alonso</p><p></p>                                                                                                                                                                                                   |
-| Sprint n - 1 Review Summary        | Durante el primer sprint, el equipo logró implementar el landing page y desplegarlo satisfactoriamente. Todas las tareas planificadas fueron completadas según las especificaciones requeridas. El despliegue se llevó a cabo sin problemas y el landing page está funcionando correctamente en producción, reflejando una ejecución exitosa del sprint.                                                      |
-| Sprint n - 1 Retrospective Summary | El equipo identificó como aciertos la comunicación efectiva y la colaboración en la resolución de problemas. No obstante, se señaló la necesidad de una mejor planificación inicial, especialmente en cuanto a la estimación del tiempo necesario para ciertas tareas, y se identificó la posibilidad de optimizar el proceso de revisión de código para garantizar una mayor calidad del producto entregado. |
+| Sprint n - 2 Review Summary        | Durante el primer sprint, el equipo logró implementar el landing page y desplegarlo satisfactoriamente. Todas las tareas planificadas fueron completadas según las especificaciones requeridas. El despliegue se llevó a cabo sin problemas y el landing page está funcionando correctamente en producción, reflejando una ejecución exitosa del sprint.                                                      |
+| Sprint n - 2 Retrospective Summary | El equipo identificó como aciertos la comunicación efectiva y la colaboración en la resolución de problemas. No obstante, se señaló la necesidad de una mejor planificación inicial, especialmente en cuanto a la estimación del tiempo necesario para ciertas tareas, y se identificó la posibilidad de optimizar el proceso de revisión de código para garantizar una mayor calidad del producto entregado. |
 | **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Sprint 2 Goal                      | El objetivo principal que tiene este sprint 2 es elaborar la primera versión y despliegue del front end web applications para el negocio.                                                                                                                                                                                                                                                                     |
 | Sprint 2 Velocity                  | 19                                                                                                                                                                                                                                                                                                                                                                                                            |
@@ -2708,7 +2708,7 @@ Los insights del repositorio del frontend
 <p>Se planeó el tercer sprint a través de una reunión dentro de la plataforma Discord. Para esto, se realizó una tabla que permitió registrar toda la información discutida.</p>
 
 | **Sprint #**                       | Sprint 3                                                                                                                                                                                                                                                                                                                                                                                                      |
-| :--------------------------------- | :------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| :--------------------------------- |:--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | **Sprint Planning Background**     |                                                                                                                                                                                                                                                                                                                                                                                                               |
 | Date                               | 2024-06-02                                                                                                                                                                                                                                                                                                                                                                                                    |
 | Time                               | 10:30 AM                                                                                                                                                                                                                                                                                                                                                                                                      |
@@ -2718,7 +2718,7 @@ Los insights del repositorio del frontend
 | Sprint n - 3 Review Summary        | Durante el tercer sprint, el equipo logró implementar el BackEnd y desplegarlo satisfactoriamente, además se corrigió y mejoró el FrontEnd y LandingPage. Todas las tareas planificadas fueron completadas según las especificaciones requeridas.El despliegue se llevó a cabo sin problemas y el backend está funcionando correctamente en producción, reflejando una ejecución exitosa del sprint.          |
 | Sprint n - 3 Retrospective Summary | El equipo identificó como aciertos la comunicación efectiva y la colaboración en la resolución de problemas. No obstante, se señaló la necesidad de una mejor planificación inicial, especialmente en cuanto a la estimación del tiempo necesario para ciertas tareas, y se identificó la posibilidad de optimizar el proceso de revisión de código para garantizar una mayor calidad del producto entregado. |
 | **Sprint Goal & User Stories**     |                                                                                                                                                                                                                                                                                                                                                                                                               |
-| Sprint 3 Goal                      | El objetivo principal que tiene este sprint 3 es elaborar la primera versión y despliegue del back end web applications para el negocio.                                                                                                                                                                                                                                                                      |
+| Sprint 3 Goal                      | El objetivo principal que tiene este sprint 3 es elaborar y desplegar el BackEnd web applications para el negocio.                                                                                                                                                                                                                                                                                            |
 | Sprint 3 Velocity                  | 19                                                                                                                                                                                                                                                                                                                                                                                                            |
 | Sum of Story Points                | 19                                                                                                                                                                                                                                                                                                                                                                                                            |
 
@@ -2741,84 +2741,86 @@ Los insights del repositorio del frontend
 			<td>Status</td>
 		</tr>
 		<tr>
-			<td rowspan="2">US07</td>
-			<td rowspan="2">Registro de nueva cita</td>
+			<td rowspan="2">US38</td>
+			<td rowspan="2">Consulta de las citas de los medicos</td>
 			<td>T01</td>
-			<td>Creación de la sección de registar nueva cita</td>
-			<td>Crear la sección de registar nueva cita, que permite programar una cita seleccionando la fecha, hora, doctor, y lugar.</td>
-			<td>6</td>
+			<td>Implementar Endpoint GET - Lista de citas médicas para Doctor</td>
+			<td>Crear el endpoint GET para la sección de citas médicas, donde el doctor podrá obtener y visualizar la lista de citas médicas pendientes.</td>
+			<td>3</td>
 			<td>Manuel Gutierrez Zumaeta </td>
 			<td>Done</td>
 		</tr>
 		<tr>
             <td>T02</td>
-			<td>Crear sección de citas</td>
-			<td>Crear la sección de citas donde el paciente podrá ver el listado de sus citas pendientes asi como el historial de sus citas.</td>
-			<td>4</td>
+			<td>Implementar Endpoint GET - Lista de citas médicas para Pacientes</td>
+			<td>Crear el endpoint GET para la sección de citas médicas, donde el paciente podrá obtener y visualizar la lista de citas médicas realizadas.</td>
+			<td>3</td>
 			<td>Manuel Gutierrez Zumaeta</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">US02</td>
-			<td rowspan="2">Gestión de citas</td>
+			<td rowspan="2">US39</td>
+			<td rowspan="2">Gestión de citas médicas</td>
 			<td>T03</td>
-			<td>Sección de gestionar citas</td>
-			<td>Crear la sección que le permitrá al doctor ver todas sus citas pendientes del día.</td>
-			<td>4</td>
+			<td>Implementar Endpoint POST - Agendar citas médicas para paciente</td>
+			<td>Crear el endpoint POST para la sección de citas médicas, donde el paciente podrá agendar su cita médica rellenando los campos que se le solicite.</td>
+			<td>5</td>
 			<td>Jorge Altamirano Saenz </td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td>T04</td>
-			<td>Citas detalladas</td>
-			<td>Incorporar un botón para mostar los detalles completos de las citas y permitir añadir notas</td>
+			<td>Implementar Endpoint PUT - Modificar citas médicas para paciente</td>
+			<td>Crear el endpoint PUT para la sección de citas médicas, donde el paciente podrá modificar su cita médica.</td>
 			<td>3</td>
 			<td>Jorge Altamirano Saenz</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">US04</td>
-			<td rowspan="2">Acceso Eficiente al Historial Médico Completo</td>
+			<td rowspan="1">US40</td>
+			<td rowspan="1">Consulta de tratamientos de los pacientes</td>
 			<td>T05</td>
-			<td>Sección de historial Médico</td>
-			<td>Crear la sección donde el doctor podrá ver una lista de historiales médicos de sus pacientes a cargo.</td>
-			<td>4</td>
-			<td>Carlos Guimaraes Escalante</td>
+			<td>Implementar Endpoint GET - Tratamientos médicos de los pacientes</td>
+			<td>Crear el endpoint GET para la sección de tratamientos, donde el paciente podrá obtener y visualizar la lista de tratamientos asignados.</td>
+			<td>3</td>
+			<td>Juan Montes Figueroa</td>
 			<td>Done</td>
 		</tr>
 		<tr>
+			<td rowspan="2">US41</td>
+			<td rowspan="2">Consulta del historial médico.</td>
 			<td>T06</td>
-			<td>Añadir filtro de búsqueda</td>
-			<td>Añadir un cuadro de texto para que el doctor pueda lograr una búsqueda más personalizada.</td>
-			<td>2</td>
+			<td>Implementar Endpoint GET - Historial médico para los pacientes</td>
+			<td>Crear el endpoint GET para la sección de historial médico, donde el paciente podrá obtener y visualizar su lista de historial médico.</td>
+			<td>3</td>
 			<td>Carlos Guimaraes Escalante</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">US15</td>
-			<td rowspan="2">Actualización de Planes de Tratamient</td>
 			<td>T07</td>
-			<td>Crear Sección de tratamientos</td>
-			<td>Crear la sección donde el paciente podrá visualizar su lista de tratamientos a detalle.</td>
-			<td>6</td>
+			<td>Implementar Endpoint GET - Historial médico para los doctores</td>
+			<td>Crear el endpoint GET para la sección de historial, donde el doctor podrá obtener y visualizar la lista de historial médicos de los pacientes.</td>
+			<td>3</td>
+			<td>Carlos Guimaraes Escalante</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td rowspan="1">US42</td>
+			<td rowspan="1">Asignación de los tratamientos para pacientes</td>
+			<td>T08</td>
+			<td>Implementar Endpoint POST - Asignación de tratamientos para pacientes</td>
+			<td>Crear el endpoint POST para la sección de tratamientos, donde el doctor podrá asignar el tratamiento con los datos solitidos al paciente correspondiente. </td>
+			<td>4</td>
 			<td>Juan Montes Figueroa</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td>T08</td>
-			<td>Gestionar sección de tratamientos</td>
-			<td>Incorporar botones en la vista del doctor para la creación, edición o eliminación de los tratamientos.</td>
-			<td>4</td>
-			<td>Juan Montes Figueroa</td>
-			<td>In-process</td>
-		</tr>
-		<tr>
-			<td rowspan="2">US06</td>
+			<td rowspan="2">US43</td>
 			<td rowspan="2">Consulta de exámenes médicos</td>
 			<td>T09</td>
 			<td>Implementar Endpoint GET - Registro de Resultados para Doctor</td>
 			<td>Crear el endpoint GET para la sección de registro de resultados, donde el doctor podrá obtener y visualizar la lista de exámenes médicos realizados a los pacientes.</td>
-			<td>2</td>
+			<td>3</td>
 			<td>Sebastian Flores Manrique</td>
 			<td>Done</td>
 		</tr>
@@ -2826,18 +2828,8 @@ Los insights del repositorio del frontend
 			<td>T10</td>
 			<td>Implementar Endpoint GET - Historial de Resultados para Paciente</td>
 			<td>Crear el endpoint GET para la sección de historial de resultados, donde el paciente podrá obtener y visualizar todos sus exámenes médicos realizados.</td>
-			<td>2</td>
+			<td>3</td>
 			<td>Sebastian Flores Manrique</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>US12</td>
-			<td>Re-agendamiento de Citas</td>
-			<td>T11</td>
-			<td>Opción de posponer cita</td>
-			<td>Crear la opción posponer cita que permita aplazar la cita una hora durante el día.</td>
-			<td>2</td>
-			<td>Jorge Altamirano Saenz</td>
 			<td>Done</td>
 		</tr>
 	</tbody>
