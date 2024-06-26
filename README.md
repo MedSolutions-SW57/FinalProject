@@ -3314,27 +3314,96 @@ MedSystem
 **TAREAS A EVALUAR**:  
 El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
 
-1. Programación de una nueva cita médica
-2. Confirmación de cita médica
-3. Cancelación y re-agendamiento de citas médicas
-4. Comunicación segura entre médicos y pacientes
-5. Acceso rápido y eficiente al historial médico de pacientes
-6. Actualización y ajuste de planes de tratamiento
-7. Registro de eventos importantes en el historial médico de los pacientes
-8. Acceso y visualización detallada del historial médico
-9. Registro de nuevas entradas en el historial médico
-10. Registro y comunicación de resultados de análisis al médico
-11. Interfaz para análisis médicos
-12. Sistema de registro de resultados con consideraciones clínicas automatizadas
-13. Registro de suministros en el sistema
+1. Página de inicio
+2. Front-End de la plataforma
+3. Formulario para agendar citas
+4. Tabla de citas programadas
+5. Sección de tratamientos
+6. Sección de resultados de exámenes
+7. Sección de historial clínico
 
-**No están incluidas en esta versión de la evaluación las siguientes tareas**:
+### Primer entrevistado - Gonzalo Jaime Zapata Campos
+**Tabla Resumen:**
 
-1. Selección de especialista y ubicación para una cita médica
-2. Visualización de la disponibilidad de horarios de especialistas
-3. Recepción de alertas sobre cambios en resultados de análisis médicos
-4. Recepción de alertas sobre cambios en resultados de análisis médicos
-5. Evaluación de la eficacia del tratamiento a través de informes y análisis de datos
+| # | Problema | Escala de Severidad | Heurística/Principio Violado |
+|---|----------|---------------------|-----------------------------|
+| 1 | Algunos apartados podrían simplificarse | 2 | Usability: Consistency & standards |
+| 2 | Falta una sección de testimonios | 2 | Usability: Credibility |
+| 3 | No hay opción para descargar y compartir resultados de exámenes | 3 | Usability: Flexibility & efficiency of use |
+
+**Descripción de Problemas:**
+
+**Problema #1: Algunos apartados podrían simplificarse**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Consistency & standards
+- **Descripción:** Algunos apartados de la página de inicio son complejos y podrían simplificarse para mejorar la experiencia del usuario.
+- **Recomendación:** Simplificar el contenido de estos apartados para hacerlo más accesible y fácil de entender.
+
+**Problema #2: Falta una sección de testimonios**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Credibility
+- **Descripción:** No hay una sección de testimonios o casos de estudio que podrían aumentar la credibilidad de la plataforma.
+- **Recomendación:** Incluir una sección de testimonios o casos de estudio.
+
+**Problema #3: No hay opción para descargar y compartir resultados de exámenes**
+- **Severidad:** 3
+- **Heurística violada:** Usability - Flexibility & efficiency of use
+- **Descripción:** Los usuarios no pueden descargar ni compartir los resultados de sus exámenes desde la plataforma.
+- **Recomendación:** Añadir una opción para que los usuarios puedan descargar y compartir sus resultados.
+
+
+### Segundo entrevistado - Abril Gloria Montes Jiménez
+
+**Tabla Resumen:**
+
+| # | Problema | Escala de Severidad | Heurística/Principio Violado |
+|---|----------|---------------------|-----------------------------|
+| 1 | Algunos apartados podrían simplificarse | 2 | Usability: Consistency & standards |
+| 2 | Falta una sección de testimonios | 2 | Usability: Credibility |
+| 3 | No hay opción para descargar y compartir resultados de exámenes | 3 | Usability: Flexibility & efficiency of use |
+
+**Descripción de Problemas:**
+
+**Problema #1: Algunos apartados podrían simplificarse**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Consistency & standards
+- **Descripción:** Algunos apartados de la landing page son complejos y podrían simplificarse para mejorar la experiencia del usuario.
+- **Recomendación:** Simplificar el contenido de estos apartados para hacerlo más accesible y fácil de entender.
+
+**Problema #2: Falta una sección de testimonios**
+- **Severidad:** 2
+- **Heurística violada:** Usability - Credibility
+- **Descripción:** No hay una sección de testimonios o casos de estudio que podrían aumentar la credibilidad de la plataforma.
+- **Recomendación:** Incluir una sección de testimonios o casos de estudio.
+
+**Problema #3: No hay opción para descargar y compartir resultados de exámenes**
+- **Severidad:** 3
+- **Heurística violada:** Usability - Flexibility & efficiency of use
+- **Descripción:** Los usuarios no pueden descargar ni compartir los resultados de sus exámenes desde la plataforma.
+- **Recomendación:** Añadir una opción para que los usuarios puedan descargar y compartir sus resultados.
+
+### Tercer entrevistado - Juan Mendevil Quispe
+
+**Tabla Resumen:**
+
+| # | Problema | Escala de Severidad | Heurística/Principio Violado |
+|---|----------|---------------------|-----------------------------|
+| 1 | Necesidad de recordar recomendaciones médicas | 3 | Usability: Memory load |
+| 2 | Importancia de la seguridad y privacidad de los datos médicos | 4 | Usability: Security & privacy |
+
+**Descripción de Problemas:**
+
+**Problema #1: Necesidad de recordar recomendaciones médicas**
+- **Severidad:** 3
+- **Heurística violada:** Usability - Memory load
+- **Descripción:** Los usuarios necesitan recordar las recomendaciones médicas, lo cual puede ser difícil y propenso a errores.
+- **Recomendación:** Implementar recordatorios automáticos para las recomendaciones médicas.
+
+**Problema #2: Importancia de la seguridad y privacidad de los datos médicos**
+- **Severidad:** 4
+- **Heurística violada:** Usability - Security & privacy
+- **Descripción:** La seguridad y privacidad de los datos médicos son cruciales y deben ser protegidos adecuadamente.
+- **Recomendación:** Asegurar que se implementen medidas de seguridad robustas para proteger los datos médicos de los usuarios.
 
 ## 5.4 Video About the Product
 
