@@ -3165,7 +3165,43 @@ Otros endopoints hechos para la autentificacion
   <img src="assets/images/au1.png">
 
 ### 5.2.4.7 Software Deployment Evidence for Sprint Review
+Backend:
 
+Primero deployamos la base de datos en railway
+<img src="assets/images/baseDatos.png">
+
+Copiamos las variables que nos da para poder acceder a la base de datos
+<img src="assets/images/variables2.png">
+
+Modificamos en el application properties con los siguientes valores
+<img src="assets/images/properties.jpg">
+
+Creamos el deploy  con el repositorio
+<img src="assets/images/deploy.png">
+
+Confirmos el deploy
+<img src="assets/images/deploy1.png">
+
+Link del deployment del backend: https://medsystem-backend-production.up.railway.app/swagger-ui/index.html#/ 
+
+
+Frontend: 
+
+Usamos firebase pare el deployment
+
+En la terminal escribmos lo siguiente:
+- npm install -g firebase-tools
+- firebase login
+- firebase init
+Nos debe aparecer esto
+<img src="assets/images/firebaseF.png">
+
+Luego ponemos :
+- npm run build
+<img src="assets/images/firebaseF1.png">
+Por ultimo :
+- firebase deploy
+Nos dara el link: https://medsystem-7afbe.web.app
 ### 5.2.4.8 Team Collaboration Insights during Sprint
 
 Se pone los insights tanto del repositorio del frontend como la del backend ya que se hizo modificaciones en esas 2
