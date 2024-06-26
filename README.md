@@ -3352,6 +3352,9 @@ Link del video de exposición:
 
 # Bibliografía
 
+- Vásquez Dávalos, E., & Castillo Noriega, L. (2019). Factores asociados a la práctica de la cesárea en primíparas adolescentes en el Instituto Nacional Materno Perinatal, Lima, Perú. Recuperado de http://www.scielo.org.pe/scielo.php?script=sci_arttext&pid=S1726-46342019000200020
+- World Bank. (2019). La cobertura de salud en el Perú: desafíos y oportunidades. Recuperado de https://blogs.worldbank.org/es/latinamerica/cobertura-salud-peru#:~
+  =La%20Encuesta%20Nacional%20de%20Hogares,y%20el%203%20%25%2C%20respectivamente
 - Lucidchart (Lucid). (s.f.). Lucidchart: Diagramming and Visual
   Communication Made Easy. Lucid. Recuperado de
   https://www.lucidchart.com [Consulta: 02 de Marzo de 2024].
