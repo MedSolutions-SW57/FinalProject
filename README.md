@@ -148,7 +148,7 @@ Profesor: Velazquez Nuñez, Angel Augusto
 - Link del repositoiro del frontend: [https://github.com/LosLuminosos-SW57/medSystem-FrontEnd](https://github.com/LosLuminosos-SW57/medSystem-FrontEnd)
 - Link del repositorio del backend: [https://github.com/LosLuminosos-SW57/medSystem-Backend](https://github.com/LosLuminosos-SW57/medSystem-Backend)
 
-A lo largo del proyecto, el equipo ha estado comprometido en la creación del informe en diferentes fases. Las tareas principales para la TB1 han abarcado:
+A lo largo del proyecto, el equipo ha estado comprometido en la creación del informe en diferentes fases. Las tareas principales que se han abarcado:
 
 - La realización de una investigación del negocio y la problemática a resolver, recopilando información relevante de fuentes confiables que nos permitieron comprender mejor el sector y las necesidades de los usuarios.
 - La redacción de los capítulos del informe, incluyendo la descripción de la startup, el perfil de la solución, los segmentos objetivo, los competidores, las entrevistas, el needfinding, la especificación de requerimientos y el diseño del producto.
@@ -3178,7 +3178,7 @@ Link de la Entrevista: <a href="https://upcedupe-my.sharepoint.com/:v:/g/persona
 - Minuto de Inicio: 4:31
 - Minuto de Fin: 11:06
 
-<img alt = "EntrevistaPaciente2" src="assets/images/">
+<img alt = "EntrevistaPaciente2" src="assets/images/entrevista-validacion.png">
 
 Resumen de la entrevista:
 
@@ -3351,3 +3351,18 @@ Link del video de exposición:
 [Exposición](https://upcedupe-my.sharepoint.com/personal/u202210364_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202210364%5Fupc%5Fedu%5Fpe%2FDocuments%2Fupc%2Dpre%2D202401%2Dsi729%2Dsw57%2Dlos%2Dluminosos%2Dexpo%2Dtb2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJTdHJlYW1XZWJBcHAiLCJyZWZlcnJhbFZpZXciOiJTaGFyZURpYWxvZy1MaW5rIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXcifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2Eab4dcb49%2D501e%2D4bbd%2D8925%2D7df143c933bc)
 
 # Bibliografía
+
+- Lucidchart (Lucid). (s.f.). Lucidchart: Diagramming and Visual
+  Communication Made Easy. Lucid. Recuperado de
+  https://www.lucidchart.com [Consulta: 02 de Marzo de 2024].
+
+- GitHub. (s.f.). Recuperado de https://github.com [Consulta: 24 de
+  Marzo de 2024].
+
+- Berné, M. (2023, 8 marzo). Criterios de aceptación: ejemplos para elaborarlos. Blog. https://www.scrummanager.com/blog/2023/03/criterios-de-aceptacion-definicion-y-ejemplos/
+
+- Conventional commits. (s. f.). Conventional Commits. https://www.conventionalcommits.org/en/v1.0.0/
+
+- Markdown - La guía definitiva en español. (2022, 14 febrero). Markdown. https://markdown.es/
+
+- Tune, N. (2018, 1 agosto). Domain-Driven Architecture Diagrams - Strategy, Architecture, Continuous Delivery, and DDD Medium. Medium. 
