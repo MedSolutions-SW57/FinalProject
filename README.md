@@ -1808,6 +1808,21 @@ Doctor request history
 Doctor request results
 <td><p align="center">
   <img src="assets/images/Mockup-Doctor-request-results.PNG" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Consultancy sample 
+<td><p align="center">
+  <img src="assets/images/sample-view.png" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Consultancy sample add form
+<td><p align="center">
+  <img src="assets/images/sample-add-form-view.png" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Consultancy analysis 
+<td><p align="center">
+  <img src="assets/images/analysis-view.png" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Consultancy analysis add form
+<td><p align="center">
+  <img src="assets/images/analysis-add-form-view.png" alt="Web_Applications_Mock-ups" width="100%"></p></td>
+Consultancy results send form
+<td><p align="center">
+  <img src="assets/images/results-add-form-view.png" alt="Web_Applications_Mock-ups" width="100%"></p></td>
 
 Figma: https://www.figma.com/file/IWM02vY7KVWCXNZMMkQDp7/APPWEB---WIREFRAMES?type=design&node-id=38%3A210&mode=design&t=LeRDoXApO30XZxTA-1
 
