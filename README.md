@@ -2918,39 +2918,103 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 			<td>Status</td>
 		</tr>
 		<tr>
-			<td rowspan="2">US</td>
-			<td rowspan="2"></td>
+			<td rowspan="2">US07</td>
+			<td rowspan="2">Registro de nueva cita</td>
 			<td>T01</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td>Sebastian Enrique Flores Manrique</td>
+			<td>Creación de la sección de registar nueva cita</td>
+			<td>Crear la sección de registar nueva cita, que permite programar una cita seleccionando la fecha, hora, doctor, y lugar.</td>
+			<td>6</td>
+			<td>Manuel Gutierrez Zumaeta </td>
 			<td>Done</td>
 		</tr>
 		<tr>
-            		<td>T02</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td>Juan Montes Figueroa</td>
+            <td>T02</td>
+			<td>Crear sección de citas</td>
+			<td>Crear la sección de citas donde el paciente podrá ver el listado de sus citas pendientes asi como el historial de sus citas.</td>
+			<td>4</td>
+			<td>Manuel Gutierrez Zumaeta</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">US</td>
-			<td rowspan="2"></td>
+			<td rowspan="2">US02</td>
+			<td rowspan="2">Gestión de citas</td>
 			<td>T03</td>
-			<td></td>
-			<td></td>
-			<td></td>
-			<td>Jorge Altamirano Saenz</td>
+			<td>Sección de gestionar citas</td>
+			<td>Crear la sección que le permitrá al doctor ver todas sus citas pendientes del día.</td>
+			<td>4</td>
+			<td>Jorge Altamirano Saenz </td>
 			<td>Done</td>
 		</tr>
 		<tr>
 			<td>T04</td>
-			<td></td>
-			<td></td>
-			<td></td>
+			<td>Citas detalladas</td>
+			<td>Incorporar un botón para mostar los detalles completos de las citas y permitir añadir notas</td>
+			<td>3</td>
+			<td>Jorge Altamirano Saenz</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US04</td>
+			<td rowspan="2">Acceso Eficiente al Historial Médico Completo</td>
+			<td>T05</td>
+			<td>Sección de historial Médico</td>
+			<td>Crear la sección donde el doctor podrá ver una lista de historiales médicos de sus pacientes a cargo.</td>
+			<td>4</td>
 			<td>Carlos Guimaraes Escalante</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T06</td>
+			<td>Añadir filtro de búsqueda</td>
+			<td>Añadir un cuadro de texto para que el doctor pueda lograr una búsqueda más personalizada.</td>
+			<td>2</td>
+			<td>Carlos Guimaraes Escalante</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US15</td>
+			<td rowspan="2">Actualización de Planes de Tratamient</td>
+			<td>T07</td>
+			<td>Crear Sección de tratamientos</td>
+			<td>Crear la sección donde el paciente podrá visualizar su lista de tratamientos a detalle.</td>
+			<td>6</td>
+			<td>Juan Moetes Figueroa</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T08</td>
+			<td>Gestionar sección de tratamientos</td>
+			<td>Incorporar botones en la vista del doctor para la creación, edición o eliminación de los tratamientos.</td>
+			<td>4</td>
+			<td>Juan Moetes Figueroa</td>
+			<td>In-process</td>
+		</tr>
+		<tr>
+			<td rowspan="2">US06</td>
+			<td rowspan="2">Consulta de exámenes médicos</td>
+			<td>T09</td>
+			<td>Implementar Endpoint GET - Registro de Resultados para Doctor</td>
+			<td>Crear el endpoint GET para la sección de registro de resultados, donde el doctor podrá obtener y visualizar la lista de exámenes médicos realizados a los pacientes.</td>
+			<td>2</td>
+			<td>Sebastian Flores Manrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>T10</td>
+			<td>Implementar Endpoint GET - Historial de Resultados para Paciente</td>
+			<td>Crear el endpoint GET para la sección de historial de resultados, donde el paciente podrá obtener y visualizar todos sus exámenes médicos realizados.</td>
+			<td>2</td>
+			<td>Sebastian Flores Manrique</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td>US12</td>
+			<td>Re-agendamiento de Citas</td>
+			<td>T11</td>
+			<td>Opción de posponer cita</td>
+			<td>Crear la opción posponer cita que permita aplazar la cita una hora durante el día.</td>
+			<td>2</td>
+			<td>Jorge Altamirano Saenz</td>
 			<td>Done</td>
 		</tr>
 	</tbody>
