@@ -2905,6 +2905,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 | Sum of Story Points                | 19                                                                                                                                                                                                                                                                                                                                                                                                 |
 
 ### 5.2.4.2 Sprint Backlog 4
+|User Story ID|User Story Title|Task ID|Task Title|Description|Estimation(hours)|Assigned to|Status|
 
 ### 5.2.4.3 Development Evidence for Sprint Review
 
