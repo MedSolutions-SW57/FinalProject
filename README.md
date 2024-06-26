@@ -2536,7 +2536,7 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 			<td>Crear Sección de tratamientos</td>
 			<td>Crear la sección donde el paciente podrá visualizar su lista de tratamientos a detalle.</td>
 			<td>6</td>
-			<td>Juan Moetes Figueroa</td>
+			<td>Juan Montes Figueroa</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -2544,7 +2544,7 @@ Los insights se sacaron del mismo apartado de Insights dentro del repositiorio d
 			<td>Gestionar sección de tratamientos</td>
 			<td>Incorporar botones en la vista del doctor para la creación, edición o eliminación de los tratamientos.</td>
 			<td>4</td>
-			<td>Juan Moetes Figueroa</td>
+			<td>Juan Montes Figueroa</td>
 			<td>In-process</td>
 		</tr>
 		<tr>
@@ -2773,7 +2773,7 @@ Los insights del repositorio del frontend
 			<td>Crear Sección de tratamientos</td>
 			<td>Crear la sección donde el paciente podrá visualizar su lista de tratamientos a detalle.</td>
 			<td>6</td>
-			<td>Juan Moetes Figueroa</td>
+			<td>Juan Montes Figueroa</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -2781,7 +2781,7 @@ Los insights del repositorio del frontend
 			<td>Gestionar sección de tratamientos</td>
 			<td>Incorporar botones en la vista del doctor para la creación, edición o eliminación de los tratamientos.</td>
 			<td>4</td>
-			<td>Juan Moetes Figueroa</td>
+			<td>Juan Montes Figueroa</td>
 			<td>In-process</td>
 		</tr>
 		<tr>
@@ -2978,7 +2978,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 			<td>Crear Sección de tratamientos</td>
 			<td>Crear la sección donde el paciente podrá visualizar su lista de tratamientos a detalle.</td>
 			<td>6</td>
-			<td>Juan Moetes Figueroa</td>
+			<td>Juan Montes Figueroa</td>
 			<td>Done</td>
 		</tr>
 		<tr>
@@ -2986,7 +2986,7 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 			<td>Gestionar sección de tratamientos</td>
 			<td>Incorporar botones en la vista del doctor para la creación, edición o eliminación de los tratamientos.</td>
 			<td>4</td>
-			<td>Juan Moetes Figueroa</td>
+			<td>Juan Montes Figueroa</td>
 			<td>In-process</td>
 		</tr>
 		<tr>
