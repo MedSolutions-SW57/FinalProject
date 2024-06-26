@@ -371,11 +371,10 @@ Los luminosos es una startup creada por estudiantes de la Facultad de Ingenierí
 ### 1.1.2. Perfiles de integrantes del equipo
 
 |                                                                                          | Miembros del equipo                 | Código de estudiante | Carrera                | Conocimientos/Habilidades                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                           |
-| ---------------------------------------------------------------------------------------- | ----------------------------------- | -------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
+|------------------------------------------------------------------------------------------| ----------------------------------- | -------------------- | ---------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | 
 | <img src="assets/members-profile/manuel.jpg" width="50%" alt="Imagen del compañero">     | Gutierrez Zumaeta Manuel Alonso     | u202112353           | Ingeniería de Software | Soy un estudiante de la carrera de ingeniería de software de la UPC, tengo 20 años. Tengo experiencia usando lenguajes de programación como C++, Python y JS. Además puedo ayudar al equipo en todas las tareas que se realicen para lograr un resultado óptimo.                                                                                                                                                                                                                                                                                                                                    |
 | <img src="assets/members-profile/Carlos.png" width="50%" alt="Imagen del compañero">     | Guimaraes Escalante, Carlos Eduardo | u202210364           | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de Software, estoy cursando el tercer ciclo de mi carrera y tengo 17 años. Soy una persona responsable y puntual, por lo que me gusta terminar y presentar los trabajos en los tiempos establecidos. Siempre me ha gustado la innovación y la creación de nuevas ideas. Estoy capacitado en algunos temas de edición de videos, y me considero bueno en programación. Voy a aportar al grupo de manera proactiva e intentaré aportar ideas que ayuden a mejorar el trabajo, siempre intentando mantener un ambiente positivo dentro del área de trabajo. |
-
-| <img src="assets/members-profile/altamirano.jpg" width="50%" alt="Imagen del compañero">  | Altamirano Saenz, Jorge Armando     | u202215888           | Ingeniería de Software | Me llamo Jorge Altamirano, tengo 19 años. Tengo conocimientos en programación en los lenguajes de C++, Python, Java y C# básico. Me considero una persona responsable e investigadora y creo que puedo aportar con ideas propias al equipo.                                                                                                                                                                                                                                                                                                                                                         |     
+| <img src="assets/members-profile/altamirano.jpg" width="50%" alt="Imagen del compañero"> | Altamirano Saenz, Jorge Armando     | u202215888           | Ingeniería de Software | Me llamo Jorge Altamirano, tengo 19 años. Tengo conocimientos en programación en los lenguajes de C++, Python, Java y C# básico. Me considero una persona responsable e investigadora y creo que puedo aportar con ideas propias al equipo.                                                                                                                                                                                                                                                                                                                                                         |     
 | <img src="assets/members-profile/Juan.JPG" width="50%" alt="Imagen del compañero">       | Montes Figueroa, Juan Eduardo       | u202210775           | Ingeniería de Software | Mi nombre es Juan Montes, tengo 19 años, tengo conocimientos en C++, asimismo poseo conocimientos básicos en Java y también en diseño de imágenes tanto en aplicaciones complicadas como Photoshop hasta páginas webs que te dan funciones similares. Puedo aportar en el equipo con ideas, confianza y atención a los detalles.                                                                                                                                                                                                                                                                    |     
 | <img src="assets/members-profile/sebastian.jpeg" width="50%" alt="Imagen del compañero"> | Flores Manrique, Sebastian Enrique  | u201611430           | Ingeniería de Software | Soy estudiante de la carrera de Ingeniería de software. Actualmente cursando el quinto ciclo de la carrera. Me considero una persona responsable y dispuesto a ayudar en lo que haga falta. Tengo conocimientos en lenguaje de programación de C++, Python y un poco de conocimiento en desarrollo web.                                                                                                                                                                                                                                                                                             |
 
@@ -665,7 +664,7 @@ MedSystem puede destacarse en el mercado ofreciendo una plataforma de gestión d
 
 ## 2.2 Entrevistas
 
-### 2.2.1 Diseno de entrevistas
+### 2.2.1 Diseño de entrevistas
 
 Preguntas para el segmento objetivo paciente:
 
@@ -1054,6 +1053,35 @@ En esta sección se presenta el user task matrix de los segmentos objetivos, con
         </tr>
     </tbody>
 </table>
+
+En base al User Task Matrix presentado, podemos destacar las siguientes tareas con mayor frecuencia e importancia para cada segmento de usuarios:
+
+### Pacientes:
+  - Programar una cita
+    - Explicación: Los pacientes programan citas con frecuencia y consideran esta tarea crucial para recibir atención médica oportuna.
+  - Realizar seguimiento de tratamiento
+    - Explicación: Mantenerse al día con su tratamiento es vital para los pacientes, lo que refleja la alta frecuencia y la importancia atribuida a esta tarea.
+
+### Profesionales médicos:
+  - Acceder a resultados de exámenes
+    - Explicación: Los profesionales médicos necesitan consultar los resultados de los exámenes con frecuencia para tomar decisiones informadas sobre el tratamiento de sus pacientes. 
+  - Acceder a historias clínicas
+    - Explicación: Las historias clínicas proporcionan antecedentes médicos completos y son esenciales para el diagnóstico y tratamiento adecuado de los pacientes.
+
+### Laboratorio:
+  - Acceder a resultados de exámenes
+    - Explicación: El personal del laboratorio necesita acceder a los resultados de los exámenes con frecuencia para procesar y entregar los datos a los médicos y pacientes.
+  - Enviar resultado de análisis
+    - Explicación: Entregar resultados precisos y oportunos es fundamental para los laboratorios, ya que afecta el diagnóstico y tratamiento de los pacientes.
+
+### Principales diferencias y coincidencias
+  - Coincidencias:
+    - Tanto los pacientes como los profesionales médicos consideran que programar una cita es una tarea de alta frecuencia e importancia.
+    - Acceder a resultados de exámenes es crucial tanto para los profesionales médicos como para los laboratorios, reflejando una alta frecuencia e importancia en ambas categorías.
+  - Diferencias:
+    - Los pacientes valoran altamente el seguimiento de su tratamiento y recibir recordatorios automáticos de citas, mientras que los profesionales médicos ponen más énfasis en el acceso a historias clínicas y consultas virtuales.
+    - Los laboratorios no están involucrados en la programación de citas o el seguimiento de tratamientos, pero su enfoque principal está en procesar y enviar resultados de análisis.
+
 
 ### 2.3.3 User Journey Mapping
 
