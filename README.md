@@ -1628,11 +1628,15 @@ El método de navegación entre las diversas secciones de la landing page estar�
 ## 4.3. Landing Page UI Design
 
 ### 4.3.1. Landing Page Wireframe
+En los wireframes de nuestra landing page, se han tenido en cuenta la usabilidad y la experiencia de los usuarios. Los wireframes reflejan un diseño intuitivo y fácil de navegar, con una disposición de los elementos y jerarquía visual clara, garantizando que nuestros usuarios puedan acceder fácilmente a la información relevante y completar las acciones que deseen sin problemas.
 
+- Es una interfáz principal de nuestro landing page:
 <td><p align="center">
   <img src="assets/images/wireframe_1_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+- La sección "About Us" tendrá la siguiente interfáz detallando quienes somos y que hacemos:
 <td><p align="center">
   <img src="assets/images/wireframe_2_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+- La sección "Product" tendrá información hacia quienes va dirigido nuestro producto:
 <td><p align="center">
   <img src="assets/images/wireframe_3_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
@@ -1641,8 +1645,10 @@ El método de navegación entre las diversas secciones de la landing page estar�
   <img src="assets/images/wireframe_5_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 <td><p align="center">
   <img src="assets/images/wireframe_6_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+- La sección "Team" tendrá información sobre quienes conforman el equipo de MedSystem:
 <td><p align="center">
   <img src="assets/images/wireframe_7_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
+- L asección "Contact" tendrá información de contacto para que los usuarios puedan comunicarse con nosotros:
 <td><p align="center">
   <img src="assets/images/wireframe_8_of_landing_page.PNG" alt="wireframes" width="100%"></p></td>
 
@@ -1671,38 +1677,59 @@ Figma:https://www.figma.com/file/xe8QMJ0qrwJtStkiB7l8zH/MEDSYSTEM?type=design&no
 
 ### 4.4.1. Web Applications Wireframes
 
+Para desarrollar nuestra diseños wireframes de aplicación web usamos la herramienta Figma.
+
 Login patient
 
+La página de inicio de sesión del paciente es la primera pantalla que verá el usuario al acceder a la aplicación. Aquí, el paciente podrá ingresar su nombre de usuario y contraseña para acceder a su cuenta y ver su información personal, citas programadas, historial médico y más.
 <td><p align="center">
   <img src="assets/images/Wireframe-Login-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td> 
 Login doctor
+
+La página de inicio de sesión del doctor es la primera pantalla que verá el usuario al acceder a la aplicación. Aquí, el doctor podrá ingresar su nombre de usuario y contraseña para acceder a su cuenta y ver su información personal, citas programadas, historial de pacientes y más.
 <td><p align="center">
   <img src="assets/images/Wireframe-Login-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Login consultancy
+
+La página de inicio de sesión de la consultoría es la primera pantalla que verá el usuario al acceder a la aplicación. Aquí, el consultor podrá ingresar su nombre de usuario y contraseña para acceder a su cuenta y ver su información personal, muestras médicas, análisis médicos y más.
 <td><p align="center">
   <img src="assets/images/Wireframe-Login-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Register patient
+
+La página de registro de pacientes es donde los nuevos pacientes pueden crear una cuenta en la aplicación. Aquí, los pacientes pueden ingresar su información personal, datos de contacto y más para registrarse en el sistema y comenzar a programar citas y recibir tratamientos médicos.
 <td><p align="center">
   <img src="assets/images/Wireframe-Register-patient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Register doctor
+
+La página de registro de doctores es donde los nuevos doctores pueden crear una cuenta en la aplicación. Aquí, los doctores pueden ingresar su información personal, datos de contacto y más para registrarse en el sistema y comenzar a gestionar citas y tratar pacientes.
 <td><p align="center">
   <img src="assets/images/Wireframe-Register-doctor.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Register consultancy
+
+La página de registro de consultorías es donde las nuevas consultorías pueden crear una cuenta en la aplicación. Aquí, las consultorías pueden ingresar su información personal, datos de contacto y más para registrarse en el sistema y comenzar a gestionar muestras médicas y análisis médicos.
 <td><p align="center">
   <img src="assets/images/Wireframe-Register-consultancy.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor appointment
+
+La página de citas del doctor es donde el doctor puede gestionar citas con sus pacientes. Aquí, el doctor puede ver las citas programadas, editar citas existentes y más para garantizar una gestión eficiente de su agenda.
 <td><p align="center">
   <img src="assets/images/Wireframe-Doctor-appointment.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
-Doctor appointment 2
+
 <td><p align="center">
   <img src="assets/images/Wireframe-Doctor-appointment-2.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
-  Doctor chat
+Doctor chat
+
+La página de chat del doctor es donde el doctor puede comunicarse con sus pacientes de forma segura. Aquí, el doctor puede enviar mensajes, responder preguntas y más para mantener una línea abierta de comunicación con sus pacientes durante todo el proceso de tratamiento.
 <td><p align="center">
   <img src="assets/images/Wireframe-Doctor-chat.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor treatments for pacient
+
+La página de tratamientos del doctor es donde el doctor puede ver y gestionar los tratamientos de sus pacientes. Aquí, el doctor puede ver los tratamientos actuales, agregar nuevos tratamientos, actualizar los tratamientos existentes y más para garantizar un seguimiento preciso del progreso de sus pacientes.
 <td><p align="center">
   <img src="assets/images/Wireframe-Doctor-Treatments-for-pacient.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor request history
+
+La página de historial de solicitudes del doctor es donde el doctor puede ver el historial de solicitudes de sus pacientes. Aquí, el doctor puede ver las solicitudes anteriores, los resultados de las solicitudes y más para mantener un registro detallado de las interacciones con sus pacientes.
 <td><p align="center">
   <img src="assets/images/Wireframe-Doctor-request-history.PNG" alt="Web_Applications_Wireframes" width="100%"></p></td>
 Doctor request results
