@@ -3177,10 +3177,10 @@ Modificamos en el application properties con los siguientes valores
 <img src="assets/images/properties.jpg">
 
 Creamos el deploy  con el repositorio
-<img src="assets/images/deploy.png">
+<img src="assets/images/deploy11.png">
 
 Confirmos el deploy
-<img src="assets/images/deploy1.png">
+<img src="assets/images/deploy12.png">
 
 Link del deployment del backend: https://medsystem-backend-production.up.railway.app/swagger-ui/index.html#/ 
 
