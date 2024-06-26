@@ -2946,59 +2946,71 @@ Luego de que ya esteoms dentro creamos un schema nuevo con el nombre de med-syst
 			<td>Status</td>
 		</tr>
 		<tr>
-			<td rowspan="1">US40</td>
-			<td rowspan="1">Consulta de tratamientos de los pacientes</td>
-			<td>T05</td>
-			<td>Implementar Endpoint GET - Tratamientos médicos de los pacientes</td>
-			<td>Crear el endpoint GET para la sección de tratamientos, donde el paciente podrá obtener y visualizar la lista de tratamientos asignados.</td>
-			<td>3</td>
-			<td>Juan Montes Figueroa</td>
+			<td rowspan="2">US44</td>
+			<td rowspan="2">Autenticación de usuarios.</td>
+			<td>T01</td>
+			<td>Implementar Endpoint POST - Registrarse en la aplicación</td>
+			<td>Crear el endpoint POST para la sección de registro, donde el paciente podrá rellenar los campos obligatorios para un registro satisfactorio.</td>
+			<td>4</td>
+			<td>Jorge Altamirano Saenz</td>
 			<td>Done</td>
 		</tr>
 		<tr>
-			<td rowspan="2">US41</td>
-			<td rowspan="2">Consulta del historial médico.</td>
-			<td>T06</td>
-			<td>Implementar Endpoint GET - Historial médico para los pacientes</td>
-			<td>Crear el endpoint GET para la sección de historial médico, donde el paciente podrá obtener y visualizar su lista de historial médico.</td>
+			<td>T02</td>
+			<td>Implementar Endpoint GET - Iniciar sesión en la aplicación</td>
+			<td>Crear el endpoint POST para la sección de iniciar sesión, donde el paciente podrá rellenar los campos obligatorios para un inicio de sesión satisfactorio.</td>
 			<td>3</td>
-			<td>Carlos Guimaraes Escalante</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>T07</td>
-			<td>Implementar Endpoint GET - Historial médico para los doctores</td>
-			<td>Crear el endpoint GET para la sección de historial, donde el doctor podrá obtener y visualizar la lista de historial médicos de los pacientes.</td>
-			<td>3</td>
-			<td>Carlos Guimaraes Escalante</td>
+			<td>Jorge Altamirano Saenz</td>
 			<td>Done</td>
 		</tr>
         <tr>
-			<td rowspan="1">US42</td>
-			<td rowspan="1">Asignación de los tratamientos para pacientes</td>
-			<td>T08</td>
-			<td>Implementar Endpoint POST - Asignación de tratamientos para pacientes</td>
-			<td>Crear el endpoint POST para la sección de tratamientos, donde el doctor podrá asignar el tratamiento con los datos solitidos al paciente correspondiente. </td>
+			<td rowspan="1">US43</td>
+			<td rowspan="1">Gestión de muestras</td>
+			<td>T03</td>
+			<td>Implementar Endpoint POST - Creación de Muestras médicas</td>
+			<td>Crear el endpoint POST para la sección de muestras, donde la consultoria podrá crear las muestras con los datos solitidos de paciente correspondiente. </td>
 			<td>4</td>
+			<td>Carlos Guimaraes Escalante</td>
+			<td>Done</td>
+		</tr>
+		<tr>
+			<td rowspan="1">US44</td>
+			<td rowspan="1">Gestión de resultados</td>
+			<td>T04</td>
+			<td>Implementar Endpoint POST - Creación de Resultados de exámenes</td>
+			<td>Crear el endpoint POST para la sección de resultados, donde la consultoria podrá crear las resutlados con los datos solitidos del paciente correspondiente. </td>
+			<td>4</td>
+			<td>Manuel Gutierrez Zumaeta</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td rowspan="1">US45</td>
+			<td rowspan="1">Gestión de Análisis</td>
+			<td>T05</td>
+			<td>Implementar Endpoint POST - Creación de Análisis médicos</td>
+			<td>Crear el endpoint POST para la sección de análisis, donde la consultoria podrá crear las análisis con los datos solicitados del paciente correspondiente. </td>
+			<td>4</td>
+			<td>Manuel Gutierrez Zumaeta</td>
+			<td>Done</td>
+		</tr>
+        <tr>
+			<td rowspan="1">US46</td>
+			<td rowspan="1">Recuperación de Muestras</td>
+			<td>T06</td>
+			<td>Implementar Endpoint GET - Obtención de muestras médicas</td>
+			<td>Crear el endpoint GET para la sección de muestras, donde la consultoria podrá obtener y visualizar todos las muestras médicas realizados. </td>
+			<td>3</td>
 			<td>Juan Montes Figueroa</td>
 			<td>Done</td>
 		</tr>
-		<tr>
-			<td rowspan="2">US43</td>
-			<td rowspan="2">Consulta de exámenes médicos</td>
-			<td>T09</td>
-			<td>Implementar Endpoint GET - Registro de Resultados para Doctor</td>
-			<td>Crear el endpoint GET para la sección de registro de resultados, donde el doctor podrá obtener y visualizar la lista de exámenes médicos realizados a los pacientes.</td>
+        <tr>
+			<td rowspan="1">US46</td>
+			<td rowspan="1">Recuperación de Análisis</td>
+			<td>T07</td>
+			<td>Implementar Endpoint GET - Obtención de análisis médicas</td>
+			<td>Crear el endpoint GET para la sección de análisi, donde la consultoria podrá obtener y visualizar todos los análisis médicas realizados. </td>
 			<td>3</td>
-			<td>Sebastian Flores Manrique</td>
-			<td>Done</td>
-		</tr>
-		<tr>
-			<td>T10</td>
-			<td>Implementar Endpoint GET - Historial de Resultados para Paciente</td>
-			<td>Crear el endpoint GET para la sección de historial de resultados, donde el paciente podrá obtener y visualizar todos sus exámenes médicos realizados.</td>
-			<td>3</td>
-			<td>Sebastian Flores Manrique</td>
+			<td>Juan Montes Figueroa</td>
 			<td>Done</td>
 		</tr>
 	</tbody>
